@@ -3,40 +3,40 @@
 <h1 align="center">badhope / weed33834</h1>
 
 <p align="center">
-  <em>Below the night sky, between the lines of code. Every project is a star, hung in its own sky.</em>
+  <em>夜空の下、コードの間に。プロジェクトはどれも星、それぞれの夜空に掲げる。</em>
 </p>
 
-## About
+## プロフィール
 
 ```text
 badhope / weed33834
 ```
 
-A developer who turns abstract ideas into tangible interfaces. Focused on full-stack work and creative tooling, with a preference for clean, considered design over yet another template. Code and starlight have this in common: the craft is in the details.
+抽象的なアイデアを触れるインターフェースに落とし込む開発者。フルスタックとクリエイティブなツール作りを中心に、シンプルで質感のあるデザインを好み、画一的なテンプレートを嫌う。コードも星空も同じで、巧みさは細部に宿る。
 
-- **Currently working on**: interactive visualizations, automated workflows, and small tools that earn a knowing smile
-- **Go-to languages**: TypeScript / Python / Rust
-- **Motto**: rather than better, different
+- **最近取り組んでいること**：インタラクティブな可視化、自動化ワークフロー、思わず頷ける小道具
+- **よく使う言語**：TypeScript / Python / Rust
+- **座右の銘**：より良くあるより、違ってあれ
 
-## Stats
+## 統計
 
 <!-- STATS:START -->
 - ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **4** repositories
 <!-- STATS:END -->
 
-## Contribution Graph
+## コントリビューション
 
 <p align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
-## 3D Contribution
+## 3D コントリビューション
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="98%" />
 </p>
 
-## Tech Stack
+## 技術スタック
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=0B1026" alt="TypeScript" />
@@ -50,7 +50,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0B1026" alt="Docker" />
 </p>
 
-## Projects
+## プロジェクト
 
 <!-- PROJECTS:START -->
 - ⭐ **[EduFlow](https://github.com/Morningstar202604/EduFlow)** · 36★ · Python
@@ -61,7 +61,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - ⭐ **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 4★ · TypeScript
 <!-- PROJECTS:END -->
 
-## Blog
+## ブログ
 
 <!-- BLOG:START -->
 - [AI Agent 可观测性：破解多步推理黑盒](https://blog.csdn.net/weixin_56622231/article/details/163834054) · `2026-08-18`
@@ -71,10 +71,10 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - [Rust 开发深度指南：从新手到卓越工程师的完整修炼之路](https://blog.csdn.net/weixin_56622231/article/details/163804469) · `2026-08-17`
 <!-- BLOG:END -->
 
-## Open Source Radar
+## オープンソースレーダー
 
 <p align="center">
-  Tools and frameworks worth watching.
+  注目すべきツールとフレームワーク。
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
   <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=0B1026" alt="Claude Code" /></a>
 </p>
 
-## Elsewhere
+## 他の場所
 
 <p align="center">
   <a href="https://github.com/Morningstar202604"><img src="https://img.shields.io/badge/GitHub-Morningstar202604-C9A86A?style=flat&logo=github&logoColor=white&labelColor=0B1026" alt="GitHub" /></a>
@@ -104,17 +104,17 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 </p>
 
 <p align="center">
-  <sub>&copy; badhope/weed33834 &middot; Code as a boat, stargazing by night.</sub>
+  <sub>&copy; badhope/weed33834 &middot; コードを舟として、夜空を観る。</sub>
 </p>
 
-## Mirrors
+## ミラー
 
-This profile is primarily hosted on **GitHub** and mirrored to GitCode and Gitee.
+このプロフィールは主に **GitHub** でホストされ、GitCode と Gitee にミラーされています。
 
-| Platform | URL |
-|----------|-----|
-| **GitHub** (primary) | https://github.com/Morningstar202604 |
-| GitCode (mirror) | https://gitcode.com/badhope/badhope |
-| Gitee (mirror) | https://gitee.com/badhope/badhope |
+| プラットフォーム | URL |
+|-----------------|-----|
+| **GitHub**（メイン） | https://github.com/Morningstar202604 |
+| GitCode（ミラー） | https://gitcode.com/badhope/badhope |
+| Gitee（ミラー） | https://gitee.com/badhope/badhope |
 
-> Content is synchronized manually across platforms. GitHub is the canonical source.
+> コンテンツはプラットフォーム間で手動同期されています。GitHub が正本です。

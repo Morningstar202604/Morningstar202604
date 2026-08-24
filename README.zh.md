@@ -3,40 +3,40 @@
 <h1 align="center">badhope / weed33834</h1>
 
 <p align="center">
-  <em>Below the night sky, between the lines of code. Every project is a star, hung in its own sky.</em>
+  <em>夜空之下，代码之间。每个项目都是一颗星，挂在自己的夜空。</em>
 </p>
 
-## About
+## 关于
 
 ```text
 badhope / weed33834
 ```
 
-A developer who turns abstract ideas into tangible interfaces. Focused on full-stack work and creative tooling, with a preference for clean, considered design over yet another template. Code and starlight have this in common: the craft is in the details.
+一名把抽象想法落地为可交互界面的开发者。专注全栈与创意工具，偏爱简洁、有质感的设计，反感千篇一律的模板。代码与星空同理，精巧之处藏在细节里。
 
-- **Currently working on**: interactive visualizations, automated workflows, and small tools that earn a knowing smile
-- **Go-to languages**: TypeScript / Python / Rust
-- **Motto**: rather than better, different
+- **近期在折腾**：交互可视化、自动化工作流、能让人会心一笑的小工具
+- **常用语言**：TypeScript / Python / Rust
+- **座右铭**：与其更好，不如不同
 
-## Stats
+## 统计
 
 <!-- STATS:START -->
 - ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **4** repositories
 <!-- STATS:END -->
 
-## Contribution Graph
+## 贡献热力图
 
 <p align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
-## 3D Contribution
+## 3D 贡献图
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="98%" />
 </p>
 
-## Tech Stack
+## 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=0B1026" alt="TypeScript" />
@@ -50,7 +50,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0B1026" alt="Docker" />
 </p>
 
-## Projects
+## 项目
 
 <!-- PROJECTS:START -->
 - ⭐ **[EduFlow](https://github.com/Morningstar202604/EduFlow)** · 36★ · Python
@@ -61,7 +61,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - ⭐ **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 4★ · TypeScript
 <!-- PROJECTS:END -->
 
-## Blog
+## 博客
 
 <!-- BLOG:START -->
 - [AI Agent 可观测性：破解多步推理黑盒](https://blog.csdn.net/weixin_56622231/article/details/163834054) · `2026-08-18`
@@ -71,10 +71,10 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - [Rust 开发深度指南：从新手到卓越工程师的完整修炼之路](https://blog.csdn.net/weixin_56622231/article/details/163804469) · `2026-08-17`
 <!-- BLOG:END -->
 
-## Open Source Radar
+## 开源雷达
 
 <p align="center">
-  Tools and frameworks worth watching.
+  值得关注的工具和框架。
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
   <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=0B1026" alt="Claude Code" /></a>
 </p>
 
-## Elsewhere
+## 在别处
 
 <p align="center">
   <a href="https://github.com/Morningstar202604"><img src="https://img.shields.io/badge/GitHub-Morningstar202604-C9A86A?style=flat&logo=github&logoColor=white&labelColor=0B1026" alt="GitHub" /></a>
@@ -104,17 +104,17 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 </p>
 
 <p align="center">
-  <sub>&copy; badhope/weed33834 &middot; Code as a boat, stargazing by night.</sub>
+  <sub>&copy; badhope/weed33834 &middot; 以代码作舟，夜观星象。</sub>
 </p>
 
-## Mirrors
+## 镜像
 
-This profile is primarily hosted on **GitHub** and mirrored to GitCode and Gitee.
+本主页主要托管在 **GitHub**，并镜像至 GitCode 和 Gitee。
 
-| Platform | URL |
-|----------|-----|
-| **GitHub** (primary) | https://github.com/Morningstar202604 |
-| GitCode (mirror) | https://gitcode.com/badhope/badhope |
-| Gitee (mirror) | https://gitee.com/badhope/badhope |
+| 平台 | 链接 |
+|------|------|
+| **GitHub**（主站） | https://github.com/Morningstar202604 |
+| GitCode（镜像） | https://gitcode.com/badhope/badhope |
+| Gitee（镜像） | https://gitee.com/badhope/badhope |
 
-> Content is synchronized manually across platforms. GitHub is the canonical source.
+> 内容跨平台手动同步，GitHub 为权威来源。
