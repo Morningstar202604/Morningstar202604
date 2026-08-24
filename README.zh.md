@@ -55,7 +55,7 @@ badhope / weed33834
 <!-- PROJECTS:START -->
 - ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
 - ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
-- ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Code
+- ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Python
 - ⭐ **[workbuddy-switch](https://github.com/Morningstar202604/workbuddy-switch)** · 0★ · Code (fork)
 <!-- PROJECTS:END -->
 
