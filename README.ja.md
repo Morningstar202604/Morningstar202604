@@ -62,11 +62,12 @@ badhope / weed33834
 ## ブログ
 
 <!-- BLOG:START -->
-- [2026年7月AI与科技领域大事件全景盘点：从大模型到量子计算](https://blog.csdn.net/weixin_56622231/article/details/164034839) · `2026-08-24`
-- [2026年6月科技与AI大事盘点：算力狂飙、智能体觉醒与产业深水区](https://blog.csdn.net/weixin_56622231/article/details/164030047) · `2026-08-24`
-- [AI 大模型开发工程师：从职业图景到底层原理的完整解析](https://blog.csdn.net/weixin_56622231/article/details/163909539) · `2026-08-20`
-- [Codex 官网前端可「抄」吗？从技术解剖到合法借鉴的完整实战](https://blog.csdn.net/weixin_56622231/article/details/163896277) · `2026-08-20`
-- [计算机专业学习权威平台全景图谱：GitHub 与每一个方向都绕不开的核心资源](https://blog.csdn.net/weixin_56622231/article/details/163896203) · `2026-08-19`
+- [2026年7月AI与科技领域大事件全景盘点：从大模型到量子计算](https://blog.csdn.net/weixin_56622231/article/details/164034839) · `2026-08-24` · CSDN
+- [2026年6月科技与AI大事盘点：算力狂飙、智能体觉醒与产业深水区](https://blog.csdn.net/weixin_56622231/article/details/164030047) · `2026-08-24` · CSDN
+- [老板让我算了一下团队AI编程的token账，看完他沉默了](https://juejin.cn/post/7676373117770760192) · `2026-08-22` · 掘金
+- [公司封了Cursor之后，我才发现平时有多依赖它——3个替代方案实测](https://juejin.cn/post/7676366523024638003) · `2026-08-22` · 掘金
+- [AI编程工具大洗牌：Claude Code凭什么46%支持率逆袭登顶](https://www.cnblogs.com/badhope/p/22625369/ai-coding-tools-shakeup-2026) · `2026-08-21` · 博客园
+- [DeepSeek Harness：3天14.9万星，一切皆插件正在改写AI编程格局](https://www.cnblogs.com/badhope/p/22625357/deepseek-harness-everything-is-plugin) · `2026-08-21` · 博客园
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
