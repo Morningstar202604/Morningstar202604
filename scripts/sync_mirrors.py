@@ -69,14 +69,17 @@ def main():
     for fname in FILES:
         with open(os.path.join(root, fname), "rb") as fh:
             content_b64 = base64.b64encode(fh.read()).decode()
-        if gitee:
-            sync_gitee(gitee, fname, content_b64)
-        else:
-            print("gitee: GITEE_TOKEN not set, skipped")
-        if gitcode:
-            sync_gitcode(gitcode, fname, content_b64)
-        else:
-            print("gitcode: GITCODE_TOKEN not set, skipped")
+        for label, token, sync in (
+            ("gitee", gitee, sync_gitee),
+            ("gitcode", gitcode, sync_gitcode),
+        ):
+            if not token:
+                print(f"{label}: token not set, skipped")
+                continue
+            try:
+                sync(token, fname, content_b64)
+            except Exception as err:  # noqa: BLE001 - one failure must not block others
+                print(f"{label} {fname}: sync failed ({err}), will retry tomorrow")
 
 
 if __name__ == "__main__":

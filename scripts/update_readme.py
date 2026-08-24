@@ -4,6 +4,7 @@
 import json
 import os
 import re
+import time
 import urllib.request
 
 TOKEN = os.environ["GH_TOKEN"]
@@ -18,8 +19,15 @@ HEADERS = {
 
 def get_json(url):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req) as resp:
-        return json.load(resp)
+    last_err = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.load(resp)
+        except Exception as err:  # noqa: BLE001 - degrade silently on transient issues
+            last_err = err
+            time.sleep(5 * (attempt + 1))
+    raise RuntimeError(f"github api unreachable after retries: {last_err}")
 
 
 def paginate(path):
@@ -80,7 +88,11 @@ def rewrite(path, stats_block, projects_block):
 
 
 def main():
-    stats_block, projects_block = build_blocks()
+    try:
+        stats_block, projects_block = build_blocks()
+    except Exception as err:  # noqa: BLE001 - keep old content, never fail the job
+        print(f"warn: {err}; keeping existing blocks")
+        return
     root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     touched = [
         name

@@ -62,7 +62,11 @@ def rewrite(path, blog_block):
 
 
 def main():
-    articles = fetch_articles()
+    try:
+        articles = fetch_articles()
+    except Exception as err:  # noqa: BLE001 - keep old content, never fail the job
+        print(f"warn: csdn unreachable ({err}); keeping existing block")
+        return
     if not articles:
         print("no articles fetched, keeping existing block")
         return
