@@ -62,11 +62,11 @@ badhope / weed33834
 ## ブログ
 
 <!-- BLOG:START -->
-- [AI Agent 可观测性：破解多步推理黑盒](https://blog.csdn.net/weixin_56622231/article/details/163834054) · `2026-08-18`
-- [DeepSeek本地化部署完全指南：从云端到本地，一场关于数据主权的技术长征](https://blog.csdn.net/weixin_56622231/article/details/163834002) · `2026-08-17`
-- [Kimi K3 深度测评：长文本之外的真实力](https://blog.csdn.net/weixin_56622231/article/details/163833915) · `2026-08-17`
-- [闪电贷深度解析：从原子交易、多协议中转到攻击防御全景](https://blog.csdn.net/weixin_56622231/article/details/163833926) · `2026-08-17`
-- [Rust 开发深度指南：从新手到卓越工程师的完整修炼之路](https://blog.csdn.net/weixin_56622231/article/details/163804469) · `2026-08-17`
+- [2026年7月AI与科技领域大事件全景盘点：从大模型到量子计算](https://blog.csdn.net/weixin_56622231/article/details/164034839) · `2026-08-24`
+- [2026年6月科技与AI大事盘点：算力狂飙、智能体觉醒与产业深水区](https://blog.csdn.net/weixin_56622231/article/details/164030047) · `2026-08-24`
+- [AI 大模型开发工程师：从职业图景到底层原理的完整解析](https://blog.csdn.net/weixin_56622231/article/details/163909539) · `2026-08-20`
+- [Codex 官网前端可「抄」吗？从技术解剖到合法借鉴的完整实战](https://blog.csdn.net/weixin_56622231/article/details/163896277) · `2026-08-20`
+- [计算机专业学习权威平台全景图谱：GitHub 与每一个方向都绕不开的核心资源](https://blog.csdn.net/weixin_56622231/article/details/163896203) · `2026-08-19`
 <!-- BLOG:END -->
 
 ## オープンソースレーダー

@@ -26,6 +26,9 @@ jobs:
           OWNER: ${{ github.repository_owner }}
         run: python3 scripts/update_readme.py
 
+      - name: Fetch latest blog posts
+        run: python3 scripts/update_blog.py
+
       - name: Commit & push
         id: commit
         run: |
