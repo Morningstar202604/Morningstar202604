@@ -53,12 +53,10 @@ badhope / weed33834
 ## 项目
 
 <!-- PROJECTS:START -->
-- ⭐ **[EduFlow](https://github.com/Morningstar202604/EduFlow)** · 36★ · Python
-- ⭐ **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 18★ · Python
-- ⭐ **[FinPilot](https://github.com/Morningstar202604/FinPilot)** · 12★ · Python
-- ⭐ **[campushub](https://github.com/Morningstar202604/campushub)** · 7★ · JavaScript
-- ⭐ **[HumanValue](https://github.com/Morningstar202604/HumanValue)** · 6★ · Python
-- ⭐ **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 4★ · TypeScript
+- ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
+- ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
+- ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Code
+- ⭐ **[workbuddy-switch](https://github.com/Morningstar202604/workbuddy-switch)** · 0★ · Code (fork)
 <!-- PROJECTS:END -->
 
 ## 博客
