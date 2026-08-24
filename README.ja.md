@@ -27,7 +27,7 @@ badhope / weed33834
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **4** repositories
+- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **5** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -68,6 +68,50 @@ badhope / weed33834
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,rust,nodejs,react,vite,tailwind,docker,git,githubactions,md&theme=dark" alt="tech stack" />
+</p>
+
+## プロジェクト
+
+<!-- PROJECTS:START -->
+- ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
+- ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
+- ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Python
+- ⭐ **[ohmyzsh](https://github.com/Morningstar202604/ohmyzsh)** · 0★ · Code (fork)
+- ⭐ **[workbuddy-switch](https://github.com/Morningstar202604/workbuddy-switch)** · 0★ · Code (fork)
+<!-- PROJECTS:END -->
+
+## ブログ
+
+<!-- BLOG:START -->
+- [2026年7月AI与科技领域大事件全景盘点：从大模型到量子计算](https://blog.csdn.net/weixin_56622231/article/details/164034839) · `2026-08-24` · CSDN
+- [2026年6月科技与AI大事盘点：算力狂飙、智能体觉醒与产业深水区](https://blog.csdn.net/weixin_56622231/article/details/164030047) · `2026-08-24` · CSDN
+- [老板让我算了一下团队AI编程的token账，看完他沉默了](https://juejin.cn/post/7676373117770760192) · `2026-08-22` · 掘金
+- [公司封了Cursor之后，我才发现平时有多依赖它——3个替代方案实测](https://juejin.cn/post/7676366523024638003) · `2026-08-22` · 掘金
+- [AI编程工具大洗牌：Claude Code凭什么46%支持率逆袭登顶](https://www.cnblogs.com/badhope/p/22625369/ai-coding-tools-shakeup-2026) · `2026-08-21` · 博客园
+- [DeepSeek Harness：3天14.9万星，一切皆插件正在改写AI编程格局](https://www.cnblogs.com/badhope/p/22625357/deepseek-harness-everything-is-plugin) · `2026-08-21` · 博客园
+<!-- BLOG:END -->
+
+## オープンソースレーダー
+
+<p align="center">
+  注目すべきツールとフレームワーク。
+</p>
+
+<p align="center">
+  <a href="https://github.com/vercel/next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=0B1026" alt="Next.js" /></a>
+  <a href="https://github.com/facebook/react"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=0B1026" alt="React" /></a>
+  <a href="https://github.com/tailwindlabs/tailwindcss"><img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white&labelColor=0B1026" alt="Tailwind" /></a>
+  <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white&labelColor=0B1026" alt="LangChain" /></a>
+  <br/>
+  <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white&labelColor=0B1026" alt="AutoGen" /></a>
+  <a href="https://github.com/vercel/ai"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white&labelColor=0B1026" alt="Vercel AI" /></a>
+  <a href="https://github.com/pydantic/pydantic-ai"><img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat&logo=pydantic&logoColor=white&labelColor=0B1026" alt="Pydantic AI" /></a>
+  <a href="https://github.com/fastapi/fastapi"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=0B1026" alt="FastAPI" /></a>
+  <br/>
+  <a href="https://github.com/docker/docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0B1026" alt="Docker" /></a>
+  <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=python&logoColor=white&labelColor=0B1026" alt="uv" /></a>
+  <a href="https://github.com/microsoft/playwright"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white&labelColor=0B1026" alt="Playwright" /></a>
+  <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=0B1026" alt="Claude Code" /></a>
 </p>
 
 ## 他の場所
