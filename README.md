@@ -1,7 +1,7 @@
-[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
+﻿[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=badhope%20%2F%20weed33834&fontSize=45&fontAlignY=34&subText=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82&subTextSize=17&subTextAlignY=58&animation=twinkling&color=0:0B1026,55:16213E,100:C9A86A&stroke=C9A86A&strokeWidth=0" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Morningstar202604%20%2F%20Morningstar202604&fontSize=45&fontAlignY=34&subText=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82&subTextSize=17&subTextAlignY=58&animation=twinkling&color=0:0B1026,55:16213E,100:C9A86A&stroke=C9A86A&strokeWidth=0" alt="header" width="100%" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ## About
 
 ```text
-badhope / weed33834
+Morningstar202604 / Morningstar202604
 ```
 
 A developer who turns abstract ideas into tangible interfaces. Focused on full-stack work and creative tooling, with a preference for clean, considered design over yet another template. Code and starlight have this in common: the craft is in the details.
@@ -131,7 +131,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 </p>
 
 <p align="center">
-  <sub>&copy; badhope/weed33834 &middot; Code as a boat, stargazing by night.</sub>
+  <sub>&copy; Morningstar202604 &middot; Code as a boat, stargazing by night.</sub>
 </p>
 
 ## Mirrors

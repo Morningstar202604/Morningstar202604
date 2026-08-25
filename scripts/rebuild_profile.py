@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Rebuild the 3 profile READMEs from the pristine Gitee template, applying every
 transformation deterministically. Replaces the buggy regex-based beautify pass."""
 
@@ -12,7 +12,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 RAW = "https://gitee.com/badhope/badhope/raw/main"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/126"
 
-OLD_ACC = "github.com/weed33834"
+OLD_ACC = "github.com/Morningstar202604"
 NEW_ACC = "github.com/Morningstar202604"
 CSDN_BADGE = '<a href="https://blog.csdn.net/weixin_56622231"><img src="https://img.shields.io/badge/CSDN-Blog-C9A86A?style=flat&logo=bytes&logoColor=white&labelColor=0B1026" alt="CSDN Blog" /></a>'
 NEW_BADGES = (
@@ -24,7 +24,7 @@ NEW_BADGES = (
 HEADER = (
     '<p align="center">\n'
     '  <img src="https://capsule-render.vercel.app/api?type=waving&height=220'
-    "&text=badhope%20%2F%20weed33834&fontSize=45&fontAlignY=34"
+    "&text=Morningstar202604%20%2F%20Morningstar202604&fontSize=45&fontAlignY=34"
     "&subText=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82"
     "&subTextSize=17&subTextAlignY=58&animation=twinkling"
     '&color=0:0B1026,55:16213E,100:C9A86A&stroke=C9A86A&strokeWidth=0" '
@@ -106,17 +106,17 @@ def replace_tech_stack(text):
 
 def transform(name, text):
     text = text.replace(OLD_ACC, NEW_ACC).replace(
-        "GitHub-weed33834-", "GitHub-Morningstar202604-"
+        "GitHub-Morningstar202604-", "GitHub-Morningstar202604-"
     )
     if "cnblogs.com/badhope" not in text:
         assert CSDN_BADGE in text, f"{name}: CSDN badge anchor missing"
         text = text.replace(CSDN_BADGE, NEW_BADGES)
-    assert '<h1 align="center">badhope / weed33834</h1>' in text, f"{name}: h1 missing"
-    text = text.replace('<h1 align="center">badhope / weed33834</h1>', HEADER, 1)
+    assert '<h1 align="center">Morningstar202604 / Morningstar202604</h1>' in text, f"{name}: h1 missing"
+    text = text.replace('<h1 align="center">Morningstar202604 / Morningstar202604</h1>', HEADER, 1)
     assert "<!-- STATS:END -->" in text, f"{name}: STATS marker missing"
     text = text.replace("<!-- STATS:END -->", f"<!-- STATS:END -->\n\n{EXTRA_STATS}", 1)
     text = replace_tech_stack(text)
-    marker = "<sub>&copy; badhope/weed33834"
+    marker = "<sub>&copy; Morningstar202604"
     idx = text.index(marker)
     p_start = text.rindex('<p align="center">', 0, idx)
     text = text[:p_start] + FOOTER + text[p_start:]

@@ -1,7 +1,7 @@
-[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
+﻿[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=badhope%20%2F%20weed33834&fontSize=45&fontAlignY=34&subText=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82&subTextSize=17&subTextAlignY=58&animation=twinkling&color=0:0B1026,55:16213E,100:C9A86A&stroke=C9A86A&strokeWidth=0" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Morningstar202604%20%2F%20Morningstar202604&fontSize=45&fontAlignY=34&subText=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82&subTextSize=17&subTextAlignY=58&animation=twinkling&color=0:0B1026,55:16213E,100:C9A86A&stroke=C9A86A&strokeWidth=0" alt="header" width="100%" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ## プロフィール
 
 ```text
-badhope / weed33834
+Morningstar202604 / Morningstar202604
 ```
 
 抽象的なアイデアを触れるインターフェースに落とし込む開発者。フルスタックとクリエイティブなツール作りを中心に、シンプルで質感のあるデザインを好み、画一的なテンプレートを嫌う。コードも星空も同じで、巧みさは細部に宿る。
@@ -131,7 +131,7 @@ badhope / weed33834
 </p>
 
 <p align="center">
-  <sub>&copy; badhope/weed33834 &middot; コードを舟として、夜空を観る。</sub>
+  <sub>&copy; Morningstar202604 &middot; コードを舟として、夜空を観る。</sub>
 </p>
 
 ## ミラー
