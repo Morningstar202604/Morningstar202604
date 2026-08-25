@@ -27,7 +27,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **6** repositories
+- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **9** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -76,9 +76,9 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
 - ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
 - ⭐ **[freeCodeCamp](https://github.com/Morningstar202604/freeCodeCamp)** · 0★ · Code (fork)
+- ⭐ **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 0★ · TypeScript
 - ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Python
 - ⭐ **[ohmyzsh](https://github.com/Morningstar202604/ohmyzsh)** · 0★ · Code (fork)
-- ⭐ **[workbuddy-switch](https://github.com/Morningstar202604/workbuddy-switch)** · 0★ · Code (fork)
 <!-- PROJECTS:END -->
 
 ## Blog
