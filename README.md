@@ -27,7 +27,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **5** repositories
+- ⭐ **1** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **6** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -75,6 +75,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 <!-- PROJECTS:START -->
 - ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
 - ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
+- ⭐ **[freeCodeCamp](https://github.com/Morningstar202604/freeCodeCamp)** · 0★ · Code (fork)
 - ⭐ **[Morningstar202604](https://github.com/Morningstar202604/Morningstar202604)** · 0★ · Python
 - ⭐ **[ohmyzsh](https://github.com/Morningstar202604/ohmyzsh)** · 0★ · Code (fork)
 - ⭐ **[workbuddy-switch](https://github.com/Morningstar202604/workbuddy-switch)** · 0★ · Code (fork)
@@ -83,12 +84,12 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Blog
 
 <!-- BLOG:START -->
+- [2026年8月AI与程序行业全景回顾：从大模型到开发者生态的深度洞察（2万字深度长文）](https://blog.csdn.net/weixin_56622231/article/details/164040361) · `2026-08-25` · CSDN
+- [2026上半年AI与科技大事全景复盘：大模型收敛、智能体爆发、端侧崛起与产业生态加速](https://blog.csdn.net/weixin_56622231/article/details/164036693) · `2026-08-25` · CSDN
 - [2026年7月AI与科技领域大事件全景盘点：从大模型到量子计算](https://blog.csdn.net/weixin_56622231/article/details/164034839) · `2026-08-24` · CSDN
 - [2026年6月科技与AI大事盘点：算力狂飙、智能体觉醒与产业深水区](https://blog.csdn.net/weixin_56622231/article/details/164030047) · `2026-08-24` · CSDN
-- [老板让我算了一下团队AI编程的token账，看完他沉默了](https://juejin.cn/post/7676373117770760192) · `2026-08-22` · 掘金
-- [公司封了Cursor之后，我才发现平时有多依赖它——3个替代方案实测](https://juejin.cn/post/7676366523024638003) · `2026-08-22` · 掘金
-- [AI编程工具大洗牌：Claude Code凭什么46%支持率逆袭登顶](https://www.cnblogs.com/badhope/p/22625369/ai-coding-tools-shakeup-2026) · `2026-08-21` · 博客园
-- [DeepSeek Harness：3天14.9万星，一切皆插件正在改写AI编程格局](https://www.cnblogs.com/badhope/p/22625357/deepseek-harness-everything-is-plugin) · `2026-08-21` · 博客园
+- [DeepSeek V4 Flash跑赢了Pro，这不意外——说说我的实测体验](https://juejin.cn/post/7677426479581806607) · `2026-08-24` · 掘金
+- [OpenAI开源Codex Harness了，我花一晚上读完了源码：Agent不该这么写](https://juejin.cn/post/7677461694122557449) · `2026-08-24` · 掘金
 <!-- BLOG:END -->
 
 ## Open Source Radar
