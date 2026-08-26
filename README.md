@@ -18,7 +18,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **2** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **12** repositories
+- ⭐ **5** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **22** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,12 +50,12 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Projects
 
 <!-- PROJECTS:START -->
+- ⭐ **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 3★ · Python
 - ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
 - ⭐ **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 1★ · Python
-- ⭐ **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 0★ · Python
-- ⭐ **[awesome-skillkit](https://github.com/Morningstar202604/awesome-skillkit)** · 0★ · Python
-- ⭐ **[cockpit-tools](https://github.com/Morningstar202604/cockpit-tools)** · 0★ · Code (fork)
-- ⭐ **[FinPilot](https://github.com/Morningstar202604/FinPilot)** · 0★ · Python
+- ⭐ **[Aboard](https://github.com/Morningstar202604/Aboard)** · 0★ · Code (fork)
+- ⭐ **[awesome-claude-skills](https://github.com/Morningstar202604/awesome-claude-skills)** · 0★ · Code (fork)
+- ⭐ **[awesome-mcp-servers](https://github.com/Morningstar202604/awesome-mcp-servers)** · 0★ · Code (fork)
 <!-- PROJECTS:END -->
 
 ## Blog
