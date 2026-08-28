@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **54** stars &nbsp;·&nbsp; 👥 **7** followers &nbsp;·&nbsp; 📦 **34** repositories
+- ⭐ **32** stars &nbsp;·&nbsp; 👥 **7** followers &nbsp;·&nbsp; 📦 **36** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,12 +50,12 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
-- ⭐ **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · 22★ · Python
-- ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 2★ · Code (fork)
-- ⭐ **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin
-- ⭐ **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python
-- ⭐ **[Aboard](https://github.com/Morningstar202604/Aboard)** · 1★ · Code (fork)
-- ⭐ **[awesome-claude-skills](https://github.com/Morningstar202604/awesome-claude-skills)** · 1★ · Code (fork)
+- **[codecrew](https://github.com/Morningstar202604/codecrew)** · Go · 2026-08-28
+- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-08-28
+- **[FinPilot](https://github.com/Morningstar202604/FinPilot)** · 1★ · Python · 2026-08-28
+- **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · Python · 2026-08-28
+- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 1★ · Kotlin · 2026-08-26
+- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-08-26
 <!-- PROJECTS:END -->
 
 ## ブログ

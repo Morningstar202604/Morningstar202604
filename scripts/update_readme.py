@@ -33,15 +33,31 @@ def build_blocks(owner):
         f"📦 **{user['public_repos']}** repositories"
     )
 
-    ranked = sorted(repos, key=lambda r: (-r["stargazers_count"], r["name"].lower()))[
-        :6
-    ]
-    projects = [
-        f"- ⭐ **[{r['name']}](https://github.com/{owner}/{r['name']})** · "
-        f"{r['stargazers_count']}★ · {r['language'] or 'Code'}"
-        + (" (fork)" if r["fork"] else "")
-        for r in ranked
-    ]
+    # Recency first: new projects must surface as soon as they are pushed,
+    # which a star ranking never does. Original work outranks forks; stars
+    # only break ties between equally fresh repos.
+    def recency(r):
+        return (r["pushed_at"] or "", r["stargazers_count"])
+
+    originals = sorted(
+        (r for r in repos if not r["fork"] and r["name"] != owner),
+        key=recency,
+        reverse=True,
+    )
+    forks = sorted((r for r in repos if r["fork"]), key=recency, reverse=True)
+    ranked = (originals + forks)[:6]
+    projects = []
+    for r in ranked:
+        bits = []
+        if r["stargazers_count"]:
+            bits.append(f"{r['stargazers_count']}★")
+        bits.append(r["language"] or "Code")
+        bits.append((r["pushed_at"] or "")[:10])
+        projects.append(
+            f"- **[{r['name']}](https://github.com/{owner}/{r['name']})** · "
+            + " · ".join(bits)
+            + (" (fork)" if r["fork"] else "")
+        )
     return {
         "STATS": stats,
         "PROJECTS": "\n".join(projects) if projects else "- 🚧 projects syncing…",
