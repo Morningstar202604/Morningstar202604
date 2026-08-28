@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **5** stars &nbsp;·&nbsp; 👥 **0** followers &nbsp;·&nbsp; 📦 **22** repositories
+- ⭐ **54** stars &nbsp;·&nbsp; 👥 **7** followers &nbsp;·&nbsp; 📦 **34** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
-- ⭐ **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 3★ · Python
-- ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 1★ · Code (fork)
-- ⭐ **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 1★ · Python
-- ⭐ **[Aboard](https://github.com/Morningstar202604/Aboard)** · 0★ · Code (fork)
-- ⭐ **[awesome-claude-skills](https://github.com/Morningstar202604/awesome-claude-skills)** · 0★ · Code (fork)
-- ⭐ **[awesome-mcp-servers](https://github.com/Morningstar202604/awesome-mcp-servers)** · 0★ · Code (fork)
+- ⭐ **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · 22★ · Python
+- ⭐ **[all-api-hub](https://github.com/Morningstar202604/all-api-hub)** · 2★ · Code (fork)
+- ⭐ **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin
+- ⭐ **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python
+- ⭐ **[Aboard](https://github.com/Morningstar202604/Aboard)** · 1★ · Code (fork)
+- ⭐ **[awesome-claude-skills](https://github.com/Morningstar202604/awesome-claude-skills)** · 1★ · Code (fork)
 <!-- PROJECTS:END -->
 
 ## ブログ
 
 <!-- BLOG:START -->
+- [AI逃出实验室：OpenAI暂停最强模型，一场17600次攻击的越狱启示录](https://www.cnblogs.com/badhope/p/22736641/ai-jailbreak-openai-pauses-astra-17600-attacks) · `2026-08-28` · 博客园
+- [AI Agent越界了3次我才重视安全——从删库到沙箱隔离的完整排障](https://juejin.cn/post/7678320597714911232) · `2026-08-27` · 掘金
+- [Cursor被收购后第一个产品不是AI编程——我试用Origin后觉得它在赌一把](https://juejin.cn/post/7678262031960522792) · `2026-08-27` · 掘金
 - [2026年8月AI与程序行业全景回顾：从大模型到开发者生态的深度洞察（2万字深度长文）](https://blog.csdn.net/weixin_56622231/article/details/164040361) · `2026-08-25` · CSDN
 - [2026上半年AI与科技大事全景复盘：大模型收敛、智能体爆发、端侧崛起与产业生态加速](https://blog.csdn.net/weixin_56622231/article/details/164036693) · `2026-08-25` · CSDN
 - [一张二手显卡跑通AI编程Agent：本地Vibe Coding的平权时刻](https://www.cnblogs.com/badhope/p/22685293/local-vibe-coding-rtx3090-muse-glimmer) · `2026-08-25` · 博客园
-- [Agent Lightning：微软开源Agent训练Agent框架，6000条样本涨14.6个百分点](https://www.cnblogs.com/badhope/p/22685292/agent-lightning-train-agent-with-agent) · `2026-08-25` · 博客园
-- [Skills真的可以扔掉了？我用了一个月GPT-5.6+Codex，说说真实感受](https://juejin.cn/post/7677811222667542528) · `2026-08-25` · 掘金
-- [DeepSeek Harness和Codex Harness都开源了，我两个都试了：设计哲学完全不同](https://juejin.cn/post/7677799302057721883) · `2026-08-25` · 掘金
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
