@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **32** stars &nbsp;·&nbsp; 👥 **7** followers &nbsp;·&nbsp; 📦 **36** repositories
+- ⭐ **33** stars &nbsp;·&nbsp; 👥 **6** followers &nbsp;·&nbsp; 📦 **37** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
+- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-08-28
+- **[nebula](https://github.com/Morningstar202604/nebula)** · TypeScript · 2026-08-28
+- **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · 1★ · Python · 2026-08-28
 - **[codecrew](https://github.com/Morningstar202604/codecrew)** · Go · 2026-08-28
 - **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-08-28
 - **[FinPilot](https://github.com/Morningstar202604/FinPilot)** · 1★ · Python · 2026-08-28
-- **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · Python · 2026-08-28
-- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 1★ · Kotlin · 2026-08-26
-- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-08-26
 <!-- PROJECTS:END -->
 
 ## ブログ
 
 <!-- BLOG:START -->
+- [深度学习入门完全指南：从零开始，看懂、学会、用起来](https://blog.csdn.net/weixin_56622231/article/details/164154831) · `2026-08-29` · CSDN
+- [AgentSeed：给AI编程Agent装一道防幻觉门控，实测有效](https://www.cnblogs.com/badhope/p/22747733/agentseed-anti-hallucination-gate) · `2026-08-28` · 博客园
+- [Cloudflare Computer：给AI一台电脑，它自己会干活](https://www.cnblogs.com/badhope/p/22747580/cloudflare-computer-give-agent-a-computer) · `2026-08-28` · 博客园
+- [AIRI：4.4万Star的开源AI伴侶，能聊天能打游戏，还是你自己的](https://www.cnblogs.com/badhope/p/22747577/airi-open-source-ai-companion-44k-stars) · `2026-08-28` · 博客园
 - [Agent Skills：GitHub 23万Star的AI编程范式，从写提示词到装技能包](https://www.cnblogs.com/badhope/p/22736640/agent-skills-github-236k-stars-paradigm-shift) · `2026-08-28` · 博客园
 - [AI逃出实验室：OpenAI暂停最强模型，一场17600次攻击的越狱启示录](https://www.cnblogs.com/badhope/p/22736641/ai-jailbreak-openai-pauses-astra-17600-attacks) · `2026-08-28` · 博客园
-- [AI Agent越界了3次我才重视安全——从删库到沙箱隔离的完整排障](https://juejin.cn/post/7678320597714911232) · `2026-08-27` · 掘金
-- [Cursor被收购后第一个产品不是AI编程——我试用Origin后觉得它在赌一把](https://juejin.cn/post/7678262031960522792) · `2026-08-27` · 掘金
-- [2026年8月AI与程序行业全景回顾：从大模型到开发者生态的深度洞察（2万字深度长文）](https://blog.csdn.net/weixin_56622231/article/details/164040361) · `2026-08-25` · CSDN
-- [2026上半年AI与科技大事全景复盘：大模型收敛、智能体爆发、端侧崛起与产业生态加速](https://blog.csdn.net/weixin_56622231/article/details/164036693) · `2026-08-25` · CSDN
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
