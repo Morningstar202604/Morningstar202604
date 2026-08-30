@@ -18,7 +18,7 @@
 ## 统计
 
 <!-- STATS:START -->
-- ⭐ **36** stars &nbsp;·&nbsp; 👥 **6** followers &nbsp;·&nbsp; 📦 **47** repositories
+- ⭐ **37** stars &nbsp;·&nbsp; 👥 **8** followers &nbsp;·&nbsp; 📦 **47** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,12 +50,12 @@
 ## 项目
 
 <!-- PROJECTS:START -->
-- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-08-29
-- **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 4★ · Python · 2026-08-29
-- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-08-29
-- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-08-29
-- **[FinHub](https://github.com/Morningstar202604/FinHub)** · Python · 2026-08-29
-- **[scholarhub](https://github.com/Morningstar202604/scholarhub)** · Python · 2026-08-29
+- **[medconsult](https://github.com/Morningstar202604/medconsult)** · Python · 2026-08-30
+- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-08-30
+- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-08-30
+- **[VerdictAI](https://github.com/Morningstar202604/VerdictAI)** · Python · 2026-08-30
+- **[FinHub](https://github.com/Morningstar202604/FinHub)** · Python · 2026-08-30
+- **[sandtable](https://github.com/Morningstar202604/sandtable)** · Python · 2026-08-30
 <!-- PROJECTS:END -->
 
 ## 博客
