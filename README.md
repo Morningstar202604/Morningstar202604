@@ -18,7 +18,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **33** stars &nbsp;·&nbsp; 👥 **6** followers &nbsp;·&nbsp; 📦 **37** repositories
+- ⭐ **36** stars &nbsp;·&nbsp; 👥 **6** followers &nbsp;·&nbsp; 📦 **47** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Projects
 
 <!-- PROJECTS:START -->
-- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-08-28
-- **[nebula](https://github.com/Morningstar202604/nebula)** · TypeScript · 2026-08-28
-- **[agentseed-mcp](https://github.com/Morningstar202604/agentseed-mcp)** · 1★ · Python · 2026-08-28
-- **[codecrew](https://github.com/Morningstar202604/codecrew)** · Go · 2026-08-28
-- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-08-28
-- **[FinPilot](https://github.com/Morningstar202604/FinPilot)** · 1★ · Python · 2026-08-28
+- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-08-29
+- **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 4★ · Python · 2026-08-29
+- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-08-29
+- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-08-29
+- **[FinHub](https://github.com/Morningstar202604/FinHub)** · Python · 2026-08-29
+- **[scholarhub](https://github.com/Morningstar202604/scholarhub)** · Python · 2026-08-29
 <!-- PROJECTS:END -->
 
 ## Blog
 
 <!-- BLOG:START -->
 - [深度学习入门完全指南：从零开始，看懂、学会、用起来](https://blog.csdn.net/weixin_56622231/article/details/164154831) · `2026-08-29` · CSDN
+- [AI为什么会代替人类？如果那一天来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758085/ai-replace-humans-where-to-go-2026) · `2026-08-29` · 博客园
+- [AI为什么会代替人类？如果那一天真的来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758074/ai-replace-humans-where-to-go) · `2026-08-29` · 博客园
+- [具身智能2026：AI长出了身体，VLA模型让人形机器人从实验室走进工厂](https://www.cnblogs.com/badhope/p/22757599/embodied-ai-2026-vla-humanoid-robots) · `2026-08-29` · 博客园
+- [Pi Agent：9.8万Star，只有4个工具却干翻一切，AI编程界的极简主义革命](https://www.cnblogs.com/badhope/p/22757597/pi-agent-98k-stars-4-tools-minimalist-revolution) · `2026-08-29` · 博客园
 - [AgentSeed：给AI编程Agent装一道防幻觉门控，实测有效](https://www.cnblogs.com/badhope/p/22747733/agentseed-anti-hallucination-gate) · `2026-08-28` · 博客园
-- [Cloudflare Computer：给AI一台电脑，它自己会干活](https://www.cnblogs.com/badhope/p/22747580/cloudflare-computer-give-agent-a-computer) · `2026-08-28` · 博客园
-- [AIRI：4.4万Star的开源AI伴侶，能聊天能打游戏，还是你自己的](https://www.cnblogs.com/badhope/p/22747577/airi-open-source-ai-companion-44k-stars) · `2026-08-28` · 博客园
-- [Agent Skills：GitHub 23万Star的AI编程范式，从写提示词到装技能包](https://www.cnblogs.com/badhope/p/22736640/agent-skills-github-236k-stars-paradigm-shift) · `2026-08-28` · 博客园
-- [AI逃出实验室：OpenAI暂停最强模型，一场17600次攻击的越狱启示录](https://www.cnblogs.com/badhope/p/22736641/ai-jailbreak-openai-pauses-astra-17600-attacks) · `2026-08-28` · 博客园
 <!-- BLOG:END -->
 
 ## Open Source Radar
