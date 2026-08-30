@@ -8,3 +8,7 @@ Thumbs.db
 .idea/
 *.swp
 .trae/
+
+# Python
+__pycache__/
+*.pyc

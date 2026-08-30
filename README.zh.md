@@ -121,4 +121,4 @@
 | GitCode（镜像） | https://gitcode.com/badhope/badhope |
 | Gitee（镜像） | https://gitee.com/badhope/badhope |
 
-> 内容跨平台手动同步，GitHub 为权威来源。
+> 内容由 GitHub 每日自动同步，GitHub 为权威来源。

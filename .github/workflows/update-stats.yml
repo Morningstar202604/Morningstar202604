@@ -2,7 +2,7 @@ name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "20 1 * * *"
+    - cron: "20 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -46,7 +46,6 @@ jobs:
           fi
 
       - name: Sync mirrors (Gitee / GitCode)
-        if: steps.commit.outputs.changed == 'true'
         env:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           GITCODE_TOKEN: ${{ secrets.GITCODE_TOKEN }}

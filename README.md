@@ -121,4 +121,4 @@ This profile is primarily hosted on **GitHub** and mirrored to GitCode and Gitee
 | GitCode (mirror) | https://gitcode.com/badhope/badhope |
 | Gitee (mirror) | https://gitee.com/badhope/badhope |
 
-> Content is synchronized manually across platforms. GitHub is the canonical source.
+> Content is synchronized from GitHub automatically (daily). GitHub is the canonical source.

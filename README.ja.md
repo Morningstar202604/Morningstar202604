@@ -121,4 +121,4 @@
 | GitCode（ミラー） | https://gitcode.com/badhope/badhope |
 | Gitee（ミラー） | https://gitee.com/badhope/badhope |
 
-> コンテンツはプラットフォーム間で手動同期されています。GitHub が正本です。
+> コンテンツは GitHub から毎日自動同期されます。GitHub が正本です。

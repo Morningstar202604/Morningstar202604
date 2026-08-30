@@ -12,20 +12,18 @@ SYNC_MSG = "sync: refresh profile from GitHub [skip ci]"
 
 def gitee_put(token, path, data):
     api = f"https://gitee.com/api/v5/repos/{common.MIRROR_REPO}/contents/{path}"
-    meta = common.http_json(f"{api}?access_token={token}")
-    if meta.get("sha") == common.blob_sha(data):
+    meta = common.http_json(f"{api}?access_token={token}", allow_404=True)
+    if meta and meta.get("sha") == common.blob_sha(data):
         return "unchanged"
-    result = common.http_json(
-        api,
-        method="PUT",
-        payload={
-            "access_token": token,
-            "content": base64.b64encode(data).decode(),
-            "sha": meta["sha"],
-            "branch": "main",
-            "message": SYNC_MSG,
-        },
-    )
+    payload = {
+        "access_token": token,
+        "content": base64.b64encode(data).decode(),
+        "branch": "main",
+        "message": SYNC_MSG,
+    }
+    if meta:
+        payload["sha"] = meta["sha"]
+    result = common.http_json(api, method="PUT", payload=payload)
     return result["commit"]["message"]
 
 
