@@ -18,7 +18,7 @@
 ## 统计
 
 <!-- STATS:START -->
-- ⭐ **40** stars &nbsp;·&nbsp; 👥 **8** followers &nbsp;·&nbsp; 📦 **56** repositories
+- ⭐ **73** stars &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **69** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## 项目
 
 <!-- PROJECTS:START -->
-- **[FinHub](https://github.com/Morningstar202604/FinHub)** · Python · 2026-08-31
-- **[scholarhub](https://github.com/Morningstar202604/scholarhub)** · Python · 2026-08-31
-- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-08-31
+- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-09-01
+- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-09-01
+- **[codecrew](https://github.com/Morningstar202604/codecrew)** · 1★ · Go · 2026-09-01
+- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-09-01
 - **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-08-31
-- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-08-31
-- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-08-31
+- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-08-31
 <!-- PROJECTS:END -->
 
 ## 博客
 
 <!-- BLOG:START -->
-- [云原生进化AI原生：2026后端架构三驾马车完整实战手册｜事件驱动+虚拟线程+Agent内嵌，大厂落地案例全拆解](https://blog.csdn.net/weixin_56622231/article/details/164194282) · `2026-08-30` · CSDN
-- [2026 AI Agent工业化落地全纪实：从Demo玩具到生产级多智能体平台，踩过的37个大坑完整复盘](https://blog.csdn.net/weixin_56622231/article/details/164194195) · `2026-08-30` · CSDN
 - [MCP协议实战指南：AI的USB-C接口，2026年每个开发者都该搞懂的东西](https://www.cnblogs.com/badhope/p/22764824/mcp-protocol-guide-2026) · `2026-08-30` · 博客园
-- [深度学习入门完全指南：从零开始，看懂、学会、用起来](https://blog.csdn.net/weixin_56622231/article/details/164154831) · `2026-08-29` · CSDN
 - [AI为什么会代替人类？如果那一天来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758085/ai-replace-humans-where-to-go-2026) · `2026-08-29` · 博客园
 - [AI为什么会代替人类？如果那一天真的来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758074/ai-replace-humans-where-to-go) · `2026-08-29` · 博客园
+- [具身智能2026：AI长出了身体，VLA模型让人形机器人从实验室走进工厂](https://www.cnblogs.com/badhope/p/22757599/embodied-ai-2026-vla-humanoid-robots) · `2026-08-29` · 博客园
+- [Pi Agent：9.8万Star，只有4个工具却干翻一切，AI编程界的极简主义革命](https://www.cnblogs.com/badhope/p/22757597/pi-agent-98k-stars-4-tools-minimalist-revolution) · `2026-08-29` · 博客园
+- [AgentSeed：给AI编程Agent装一道防幻觉门控，实测有效](https://www.cnblogs.com/badhope/p/22747733/agentseed-anti-hallucination-gate) · `2026-08-28` · 博客园
 <!-- BLOG:END -->
 
 ## 开源雷达
