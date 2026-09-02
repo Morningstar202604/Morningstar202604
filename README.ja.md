@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **73** stars &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **69** repositories
+- ⭐ **73** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **71** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
-- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-09-01
-- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-09-01
-- **[codecrew](https://github.com/Morningstar202604/codecrew)** · 1★ · Go · 2026-09-01
-- **[OpenBox](https://github.com/Morningstar202604/OpenBox)** · 1★ · TypeScript · 2026-09-01
-- **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-08-31
-- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-08-31
+- **[overhaul](https://github.com/Morningstar202604/overhaul)** · 1★ · Python · 2026-09-02
+- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-09-02
+- **[awesome-skillkit](https://github.com/Morningstar202604/awesome-skillkit)** · 1★ · Python · 2026-09-02
+- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-09-02
+- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-09-02
+- **[medconsult](https://github.com/Morningstar202604/medconsult)** · 1★ · Python · 2026-09-02
 <!-- PROJECTS:END -->
 
 ## ブログ
 
 <!-- BLOG:START -->
-- [MCP协议实战指南：AI的USB-C接口，2026年每个开发者都该搞懂的东西](https://www.cnblogs.com/badhope/p/22764824/mcp-protocol-guide-2026) · `2026-08-30` · 博客园
-- [AI为什么会代替人类？如果那一天来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758085/ai-replace-humans-where-to-go-2026) · `2026-08-29` · 博客园
-- [AI为什么会代替人类？如果那一天真的来了，我们何去何从](https://www.cnblogs.com/badhope/p/22758074/ai-replace-humans-where-to-go) · `2026-08-29` · 博客园
-- [具身智能2026：AI长出了身体，VLA模型让人形机器人从实验室走进工厂](https://www.cnblogs.com/badhope/p/22757599/embodied-ai-2026-vla-humanoid-robots) · `2026-08-29` · 博客园
-- [Pi Agent：9.8万Star，只有4个工具却干翻一切，AI编程界的极简主义革命](https://www.cnblogs.com/badhope/p/22757597/pi-agent-98k-stars-4-tools-minimalist-revolution) · `2026-08-29` · 博客园
-- [AgentSeed：给AI编程Agent装一道防幻觉门控，实测有效](https://www.cnblogs.com/badhope/p/22747733/agentseed-anti-hallucination-gate) · `2026-08-28` · 博客园
+- [OpenAI 9月DevDay要发GPT-6？我赌它会发，但不赌它能赢](https://juejin.cn/post/7680389947227340852) · `2026-09-01` · 掘金
+- [2026 大模型世纪对决：2.4 万亿开源巨兽 Qwen3-Max，能否掀翻 GPT-5.6 的闭源帝国？一部开发者选型的实战史诗](https://blog.csdn.net/weixin_56622231/article/details/163645757) · `2026-08-31` · CSDN
+- [从Demo到生产：一个AI Agent平台五个月的战争复盘](https://blog.csdn.net/weixin_56622231/article/details/164194150) · `2026-08-31` · CSDN
+- [AI大模型基础与学习指南：从零到一的完整路线图](https://blog.csdn.net/weixin_56622231/article/details/164227539) · `2026-08-31` · CSDN
+- [云原生进化AI原生：2026后端架构三驾马车完整实战手册｜事件驱动+虚拟线程+Agent内嵌，大厂落地案例全拆解](https://blog.csdn.net/weixin_56622231/article/details/164194282) · `2026-08-30` · CSDN
+- [2026 AI Agent工业化落地全纪实：从Demo玩具到生产级多智能体平台，踩过的37个大坑完整复盘](https://blog.csdn.net/weixin_56622231/article/details/164194195) · `2026-08-30` · CSDN
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
