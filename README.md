@@ -18,7 +18,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **73** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **71** repositories
+- ⭐ **77** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **73** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Projects
 
 <!-- PROJECTS:START -->
-- **[overhaul](https://github.com/Morningstar202604/overhaul)** · 1★ · Python · 2026-09-02
-- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-09-02
-- **[awesome-skillkit](https://github.com/Morningstar202604/awesome-skillkit)** · 1★ · Python · 2026-09-02
+- **[chushi-radar](https://github.com/Morningstar202604/chushi-radar)** · JavaScript · 2026-09-03
+- **[AuditSeed](https://github.com/Morningstar202604/AuditSeed)** · Python · 2026-09-03
+- **[FinHub](https://github.com/Morningstar202604/FinHub)** · 1★ · Python · 2026-09-03
+- **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-09-02
 - **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-09-02
-- **[fogsea-survival](https://github.com/Morningstar202604/fogsea-survival)** · TypeScript · 2026-09-02
-- **[medconsult](https://github.com/Morningstar202604/medconsult)** · 1★ · Python · 2026-09-02
+- **[awesome-skillkit](https://github.com/Morningstar202604/awesome-skillkit)** · 1★ · Python · 2026-09-02
 <!-- PROJECTS:END -->
 
 ## Blog
 
 <!-- BLOG:START -->
-- [OpenAI 9月DevDay要发GPT-6？我赌它会发，但不赌它能赢](https://juejin.cn/post/7680389947227340852) · `2026-09-01` · 掘金
-- [2026 大模型世纪对决：2.4 万亿开源巨兽 Qwen3-Max，能否掀翻 GPT-5.6 的闭源帝国？一部开发者选型的实战史诗](https://blog.csdn.net/weixin_56622231/article/details/163645757) · `2026-08-31` · CSDN
-- [从Demo到生产：一个AI Agent平台五个月的战争复盘](https://blog.csdn.net/weixin_56622231/article/details/164194150) · `2026-08-31` · CSDN
-- [AI大模型基础与学习指南：从零到一的完整路线图](https://blog.csdn.net/weixin_56622231/article/details/164227539) · `2026-08-31` · CSDN
-- [云原生进化AI原生：2026后端架构三驾马车完整实战手册｜事件驱动+虚拟线程+Agent内嵌，大厂落地案例全拆解](https://blog.csdn.net/weixin_56622231/article/details/164194282) · `2026-08-30` · CSDN
-- [2026 AI Agent工业化落地全纪实：从Demo玩具到生产级多智能体平台，踩过的37个大坑完整复盘](https://blog.csdn.net/weixin_56622231/article/details/164194195) · `2026-08-30` · CSDN
+- [110亿美元的法律AI放弃OpenAI选了Kimi K3——我悟了](https://juejin.cn/post/7680842064037085193) · `2026-09-02` · 掘金
+- [Devin估值470亿了，但我的AI编程踩坑史告诉你另一面](https://juejin.cn/post/7680768670986092544) · `2026-09-02` · 掘金
+- [奥特曼终于认了：OpenAI这一年“什么都做”是个错误](https://juejin.cn/post/7680812218214547490) · `2026-09-02` · 掘金
+- [GLM-5.3同架构重训就起飞了——这证明大模型不缺参数，缺的是训练方法](https://juejin.cn/post/7680793159376257059) · `2026-09-02` · 掘金
+- [OpenAI说Astra能自己找漏洞了——作为开发者我有点慌，但更多是期待](https://juejin.cn/post/7680842667016044595) · `2026-09-02` · 掘金
+- [Qwen3.8-Max编程跑分超了Claude Opus5——我跑了3个真实场景，结果跟跑分不一样](https://juejin.cn/post/7680777700873977891) · `2026-09-02` · 掘金
 <!-- BLOG:END -->
 
 ## Open Source Radar
