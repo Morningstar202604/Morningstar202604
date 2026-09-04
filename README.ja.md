@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **77** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **73** repositories
+- ⭐ **77** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **72** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
+- **[FinHub](https://github.com/Morningstar202604/FinHub)** · 1★ · Python · 2026-09-03
+- **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-09-03
+- **[codecrew](https://github.com/Morningstar202604/codecrew)** · 1★ · Go · 2026-09-03
+- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-09-03
 - **[chushi-radar](https://github.com/Morningstar202604/chushi-radar)** · JavaScript · 2026-09-03
 - **[AuditSeed](https://github.com/Morningstar202604/AuditSeed)** · Python · 2026-09-03
-- **[FinHub](https://github.com/Morningstar202604/FinHub)** · 1★ · Python · 2026-09-03
-- **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-09-02
-- **[mashang-python](https://github.com/Morningstar202604/mashang-python)** · 2★ · Kotlin · 2026-09-02
-- **[awesome-skillkit](https://github.com/Morningstar202604/awesome-skillkit)** · 1★ · Python · 2026-09-02
 <!-- PROJECTS:END -->
 
 ## ブログ
 
 <!-- BLOG:START -->
+- [Codex 破局：前端组件秒级生成，从 2 小时到 2 分钟](https://blog.csdn.net/weixin_56622231/article/details/164340003) · `2026-09-03` · CSDN
 - [110亿美元的法律AI放弃OpenAI选了Kimi K3——我悟了](https://juejin.cn/post/7680842064037085193) · `2026-09-02` · 掘金
 - [Devin估值470亿了，但我的AI编程踩坑史告诉你另一面](https://juejin.cn/post/7680768670986092544) · `2026-09-02` · 掘金
 - [奥特曼终于认了：OpenAI这一年“什么都做”是个错误](https://juejin.cn/post/7680812218214547490) · `2026-09-02` · 掘金
 - [GLM-5.3同架构重训就起飞了——这证明大模型不缺参数，缺的是训练方法](https://juejin.cn/post/7680793159376257059) · `2026-09-02` · 掘金
 - [OpenAI说Astra能自己找漏洞了——作为开发者我有点慌，但更多是期待](https://juejin.cn/post/7680842667016044595) · `2026-09-02` · 掘金
-- [Qwen3.8-Max编程跑分超了Claude Opus5——我跑了3个真实场景，结果跟跑分不一样](https://juejin.cn/post/7680777700873977891) · `2026-09-02` · 掘金
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
