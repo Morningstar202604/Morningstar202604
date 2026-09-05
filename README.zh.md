@@ -96,10 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/Morningstar202604"><img src="https://img.shields.io/badge/GitHub-Morningstar202604-C9A86A?style=flat&logo=github&logoColor=white&labelColor=0B1026" alt="GitHub" /></a>
-  <a href="https://gitcode.com/badhope/badhope"><img src="https://img.shields.io/badge/GitCode-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="GitCode" /></a>
-  <a href="https://gitee.com/badhope/badhope"><img src="https://img.shields.io/badge/Gitee-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="Gitee" /></a>
   <a href="https://blog.csdn.net/weixin_56622231"><img src="https://img.shields.io/badge/CSDN-Blog-C9A86A?style=flat&logo=bytes&logoColor=white&labelColor=0B1026" alt="CSDN Blog" /></a>
-  <a href="https://www.cnblogs.com/badhope"><img src="https://img.shields.io/badge/cnblogs-badhope-C9A86A?style=flat&labelColor=0B1026" alt="cnblogs" /></a>
   <a href="https://juejin.cn/user/2350111542479753"><img src="https://img.shields.io/badge/Juejin-2350111542479753-C9A86A?style=flat&logo=juejin&logoColor=white&labelColor=0B1026" alt="Juejin" /></a>
 </p>
 
@@ -110,15 +107,3 @@
 <p align="center">
   <sub>&copy; Morningstar202604</sub>
 </p>
-
-## 镜像
-
-本主页主要托管在 **GitHub**，并镜像至 GitCode 和 Gitee。
-
-| 平台 | 链接 |
-|------|------|
-| **GitHub**（主站） | https://github.com/Morningstar202604 |
-| GitCode（镜像） | https://gitcode.com/badhope/badhope |
-| Gitee（镜像） | https://gitee.com/badhope/badhope |
-
-> 内容由 GitHub 每日自动同步，GitHub 为权威来源。
