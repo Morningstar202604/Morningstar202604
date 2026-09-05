@@ -18,7 +18,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **77** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **72** repositories
+- ⭐ **77** stars &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **72** repositories
 <!-- STATS:END -->
 
 <p align="center">
@@ -50,23 +50,23 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
-- **[FinHub](https://github.com/Morningstar202604/FinHub)** · 1★ · Python · 2026-09-03
-- **[KeBaiPay](https://github.com/Morningstar202604/KeBaiPay)** · 1★ · TypeScript · 2026-09-03
-- **[codecrew](https://github.com/Morningstar202604/codecrew)** · 1★ · Go · 2026-09-03
-- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-09-03
-- **[chushi-radar](https://github.com/Morningstar202604/chushi-radar)** · JavaScript · 2026-09-03
-- **[AuditSeed](https://github.com/Morningstar202604/AuditSeed)** · Python · 2026-09-03
+- **[medconsult](https://github.com/Morningstar202604/medconsult)** · 1★ · Python · 2026-09-05
+- **[areyoudeadyet](https://github.com/Morningstar202604/areyoudeadyet)** · 2★ · Kotlin · 2026-09-05
+- **[VerdictAI](https://github.com/Morningstar202604/VerdictAI)** · 23★ · Python · 2026-09-05
+- **[AgentSeed](https://github.com/Morningstar202604/AgentSeed)** · 7★ · Python · 2026-09-05
+- **[sandtable](https://github.com/Morningstar202604/sandtable)** · 1★ · Python · 2026-09-05
+- **[ScholarSeed](https://github.com/Morningstar202604/ScholarSeed)** · 2★ · Python · 2026-09-05
 <!-- PROJECTS:END -->
 
 ## ブログ
 
 <!-- BLOG:START -->
-- [Codex 破局：前端组件秒级生成，从 2 小时到 2 分钟](https://blog.csdn.net/weixin_56622231/article/details/164340003) · `2026-09-03` · CSDN
-- [110亿美元的法律AI放弃OpenAI选了Kimi K3——我悟了](https://juejin.cn/post/7680842064037085193) · `2026-09-02` · 掘金
-- [Devin估值470亿了，但我的AI编程踩坑史告诉你另一面](https://juejin.cn/post/7680768670986092544) · `2026-09-02` · 掘金
-- [奥特曼终于认了：OpenAI这一年“什么都做”是个错误](https://juejin.cn/post/7680812218214547490) · `2026-09-02` · 掘金
-- [GLM-5.3同架构重训就起飞了——这证明大模型不缺参数，缺的是训练方法](https://juejin.cn/post/7680793159376257059) · `2026-09-02` · 掘金
-- [OpenAI说Astra能自己找漏洞了——作为开发者我有点慌，但更多是期待](https://juejin.cn/post/7680842667016044595) · `2026-09-02` · 掘金
+- [AI模型隐私保护实战：从数据脱敏到联邦学习的完整防御指南](https://blog.csdn.net/weixin_56622231/article/details/164398901) · `2026-09-05` · CSDN
+- [AI Agent安全攻防实战2026：从越狱攻击到防御体系的完整攻防指南](https://blog.csdn.net/weixin_56622231/article/details/163645825) · `2026-09-05` · CSDN
+- [AI Agent可观测性实战：从黑盒到透明的全链路追踪指南](https://blog.csdn.net/weixin_56622231/article/details/164044312) · `2026-09-05` · CSDN
+- [2026上半年AI与计算机领域大事盘点：模型跃迁、Agent落地与算力博弈](https://blog.csdn.net/weixin_56622231/article/details/164068353) · `2026-09-05` · CSDN
+- [本地大模型生存指南：端侧推理全链路实战｜硬件选型、量化压缩、内存调优、私有化RAG完整工程手册](https://blog.csdn.net/weixin_56622231/article/details/164194397) · `2026-09-05` · CSDN
+- [2026大模型RAG企业级落地全解：检索优化+重排+微调+避坑，工业级实战手册](https://blog.csdn.net/weixin_56622231/article/details/164194654) · `2026-09-05` · CSDN
 <!-- BLOG:END -->
 
 ## オープンソースレーダー
