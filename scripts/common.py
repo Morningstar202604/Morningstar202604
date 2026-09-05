@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Shared plumbing for the profile automation scripts (single source of truth)."""
 
-import hashlib
 import json
 import os
 import re
@@ -11,7 +10,6 @@ import urllib.request
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 README_FILES = ("README.md", "README.zh.md", "README.ja.md")
-MIRROR_REPO = "badhope/badhope"
 
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -89,8 +87,3 @@ def update_all_readmes(blocks):
             touched.append(name)
     print("updated:", ", ".join(touched) if touched else "nothing (already current)")
     return touched
-
-
-def blob_sha(data: bytes) -> str:
-    """Git blob SHA-1, used to skip identical mirror uploads."""
-    return hashlib.sha1(b"blob %d\0" % len(data) + data).hexdigest()

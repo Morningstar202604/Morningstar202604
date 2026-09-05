@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aggregate latest posts from CSDN / cnblogs / Juejin into profile READMEs."""
+"""Aggregate latest posts from CSDN / Juejin into profile READMEs."""
 
 import datetime
 import html
@@ -9,7 +9,6 @@ import re
 import common
 
 CSDN_USER = "weixin_56622231"
-CNBLOGS_RSS = "https://www.cnblogs.com/badhope/rss"
 JUEJIN_USER_ID = "2350111542479753"
 MAX_ITEMS = 6
 
@@ -34,24 +33,6 @@ def fetch_csdn():
         title = html.unescape(re.sub(r"\s+", " ", title)).strip()
         m_date = re.search(r'<span class="date">(\d{4}-\d{2}-\d{2})', chunk)
         out.append((title, m_url.group(1), m_date.group(1) if m_date else "", "CSDN"))
-    return out
-
-
-def fetch_cnblogs():
-    xml_text = common.http(CNBLOGS_RSS)
-    out = []
-    for entry in xml_text.split("<entry>")[1:]:
-        m_url = re.search(
-            r"<id>(https://www\.cnblogs\.com/badhope/p/[^<]+)</id>", entry
-        )
-        m_title = re.search(r"<title[^>]*>([^<]+)</title>", entry)
-        m_date = re.search(r"<published>(\d{4}-\d{2}-\d{2})", entry)
-        if not (m_url and m_title):
-            continue
-        title = re.sub(
-            r"\s*-\s*badhope33834\s*$", "", html.unescape(m_title.group(1)).strip()
-        )
-        out.append((title, m_url.group(1), m_date.group(1) if m_date else "", "博客园"))
     return out
 
 
@@ -81,7 +62,7 @@ def fetch_juejin():
     return out
 
 
-SOURCES = ("CSDN", fetch_csdn), ("cnblogs", fetch_cnblogs), ("juejin", fetch_juejin)
+SOURCES = ("CSDN", fetch_csdn), ("juejin", fetch_juejin)
 
 
 def main():
