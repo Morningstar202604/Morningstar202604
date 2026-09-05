@@ -61,12 +61,12 @@
 ## 博客
 
 <!-- BLOG:START -->
+- [Python元编程高级技巧：从装饰器到元类，掌握Python的黑魔法](https://blog.csdn.net/weixin_56622231/article/details/164399054) · `2026-09-05` · CSDN
+- [Docker部署AI应用实战：从镜像构建到K8s编排，容器化大模型完整指南](https://blog.csdn.net/weixin_56622231/article/details/164399033) · `2026-09-05` · CSDN
+- [大模型分布式训练实战：从数据并行到3D并行，拆解万亿参数模型的训练奥秘](https://blog.csdn.net/weixin_56622231/article/details/164398985) · `2026-09-05` · CSDN
+- [向量数据库实战指南：从原理到选型，构建AI应用的记忆中枢](https://blog.csdn.net/weixin_56622231/article/details/164398951) · `2026-09-05` · CSDN
 - [AI模型隐私保护实战：从数据脱敏到联邦学习的完整防御指南](https://blog.csdn.net/weixin_56622231/article/details/164398901) · `2026-09-05` · CSDN
 - [AI Agent安全攻防实战2026：从越狱攻击到防御体系的完整攻防指南](https://blog.csdn.net/weixin_56622231/article/details/163645825) · `2026-09-05` · CSDN
-- [AI Agent可观测性实战：从黑盒到透明的全链路追踪指南](https://blog.csdn.net/weixin_56622231/article/details/164044312) · `2026-09-05` · CSDN
-- [2026上半年AI与计算机领域大事盘点：模型跃迁、Agent落地与算力博弈](https://blog.csdn.net/weixin_56622231/article/details/164068353) · `2026-09-05` · CSDN
-- [本地大模型生存指南：端侧推理全链路实战｜硬件选型、量化压缩、内存调优、私有化RAG完整工程手册](https://blog.csdn.net/weixin_56622231/article/details/164194397) · `2026-09-05` · CSDN
-- [2026大模型RAG企业级落地全解：检索优化+重排+微调+避坑，工业级实战手册](https://blog.csdn.net/weixin_56622231/article/details/164194654) · `2026-09-05` · CSDN
 <!-- BLOG:END -->
 
 ## 开源雷达
