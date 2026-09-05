@@ -1,4 +1,4 @@
-﻿[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
+[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
 <p align="center">
   <img src="./assets/banner-header.svg" alt="header" width="100%" />
@@ -96,8 +96,8 @@
 
 <p align="center">
   <a href="https://github.com/Morningstar202604"><img src="https://img.shields.io/badge/GitHub-Morningstar202604-C9A86A?style=flat&logo=github&logoColor=white&labelColor=0B1026" alt="GitHub" /></a>
-  <a href="https://gitcode.com/badhope"><img src="https://img.shields.io/badge/GitCode-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="GitCode" /></a>
-  <a href="https://gitee.com/badhope"><img src="https://img.shields.io/badge/Gitee-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="Gitee" /></a>
+  <a href="https://gitcode.com/badhope/badhope"><img src="https://img.shields.io/badge/GitCode-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="GitCode" /></a>
+  <a href="https://gitee.com/badhope/badhope"><img src="https://img.shields.io/badge/Gitee-badhope-C9A86A?style=flat&logo=git&logoColor=white&labelColor=0B1026" alt="Gitee" /></a>
   <a href="https://blog.csdn.net/weixin_56622231"><img src="https://img.shields.io/badge/CSDN-Blog-C9A86A?style=flat&logo=bytes&logoColor=white&labelColor=0B1026" alt="CSDN Blog" /></a>
   <a href="https://www.cnblogs.com/badhope"><img src="https://img.shields.io/badge/cnblogs-badhope-C9A86A?style=flat&labelColor=0B1026" alt="cnblogs" /></a>
   <a href="https://juejin.cn/user/2350111542479753"><img src="https://img.shields.io/badge/Juejin-2350111542479753-C9A86A?style=flat&logo=juejin&logoColor=white&labelColor=0B1026" alt="Juejin" /></a>
