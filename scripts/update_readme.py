@@ -143,6 +143,17 @@ def update_block(text, kind, content):
     )
 
 
+# Known stars (verified 2026-09-18); acts as a floor when a platform is
+# temporarily unreachable so the aggregate never dips below real-world counts.
+KNOWN_FALLBACK = {
+    "bot4cj": 6,
+    "awesome-skillkit": 3,
+    "mobilecode": 1,
+    "scholarhub": 1,
+    "网安智能体": 1,
+}
+
+
 def main():
     # 1) Collect star maps from every reachable platform.
     maps = []
@@ -165,7 +176,9 @@ def main():
         return
 
     # 2) Aggregate: per project, take the max star count seen anywhere.
-    stars_by_repo = {}
+    #    Known curated stars act as a floor so transient API gaps never
+    #    erase a project's verified count.
+    stars_by_repo = {k: v for k, v in KNOWN_FALLBACK.items()}
     for m in maps:
         for name, n in m.items():
             stars_by_repo[name] = max(stars_by_repo.get(name, 0), n)
