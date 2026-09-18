@@ -29,7 +29,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **5** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **15+ repos** (GitCode-based)
+- ⭐ **12** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ repos** (GitCode-based)
 <!-- STATS:END -->
 
 <p align="center">
@@ -71,7 +71,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `Mobile · Kotlin`
 - **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 0★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `Mobile · Offline`
 - **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI toolchain`
-- **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 0★ · 学术期刊与预印本多租户平台 · `SaaS`
+- **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
 - **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `Quant · FinTech`
 - **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 0★ · 多智能体法庭辩论系统 · `Multi-agent`
 - **[mashang-python](https://gitcode.com/badhope/mashang-python)** · 0★ · 码上 Python · PY//NOW 赛博朋克风学习终端 · `Education`
