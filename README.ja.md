@@ -29,7 +29,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **8** stars（GitHub 最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **14+ リポジトリ**（GitCode 基準）
+- ⭐ **12** stars（4プラットフォーム最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ リポジトリ**（GitCode 基準）
 <!-- STATS:END -->
 
 <p align="center">
@@ -67,9 +67,10 @@
 ## プロジェクト
 
 <!-- PROJECTS:START -->
-- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 0★ · Android 端 AI 编程助手（BYOK 离线运行） · `モバイル · Kotlin`
+- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 6★ · 基于仓颉语言的硬件机器人控制框架 · `ハードウェア · ロボット`
+- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `モバイル · Kotlin`
 - **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 0★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `モバイル · オフライン`
-- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 0★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI ツール`
+- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI ツール`
 - **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
 - **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `Quant · 金融`
 - **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 0★ · 多智能体法庭辩论系统 · `マルチエージェント`
@@ -98,7 +99,7 @@ pydantic / galaxy / LibreChat / PDFMathTranslate / getmoto / zsh-completions な
 
 - **GitHub · Morningstar202604** — [リンク](https://github.com/Morningstar202604) · **12 PR merged**
 - **GitHub · X33834** — [リンク](https://github.com/X33834) · **4 PR merged**（Nailong-Studio/website ×4）+ レビュー中：airflow #73099 · MonkeyCode #1298 · simona #1–6
-- **GitCode · badhope** — [リンク](https://gitcode.com/badhope) · 14のオープンソースをミラー公開
+- **GitCode · badhope** — [リンク](https://gitcode.com/badhope) · 16のオープンソースをミラー公開
 - **Gitee · badhope** — [リンク](https://gitee.com/badhope) · プロジェクトミラー＋ミニアプリ
 
 ## ブログ

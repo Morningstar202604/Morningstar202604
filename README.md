@@ -29,7 +29,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **8** stars (GitHub max) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **14+ repos** (GitCode-based)
+- ⭐ **12** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ repos** (GitCode-based)
 <!-- STATS:END -->
 
 <p align="center">
@@ -67,9 +67,10 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Projects
 
 <!-- PROJECTS:START -->
-- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 0★ · Android 端 AI 编程助手（BYOK 离线运行） · `Mobile · Kotlin`
+- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 6★ · 基于仓颉语言的硬件机器人控制框架 · `Hardware · Robotics`
+- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `Mobile · Kotlin`
 - **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 0★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `Mobile · Offline`
-- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 0★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI toolchain`
+- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI toolchain`
 - **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
 - **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `Quant · FinTech`
 - **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 0★ · 多智能体法庭辩论系统 · `Multi-agent`
@@ -98,7 +99,7 @@ Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110�
 
 - **GitHub · Morningstar202604** — [link](https://github.com/Morningstar202604) · **12 PRs merged**
 - **GitHub · X33834** — [link](https://github.com/X33834) · **4 PRs merged** (Nailong-Studio/website ×4) + reviewing: airflow #73099 · MonkeyCode #1298 · simona #1–6
-- **GitCode · badhope** — [link](https://gitcode.com/badhope) · 14 open source projects mirrored (mobile IDE / AI assistant / learning terminal)
+- **GitCode · badhope** — [link](https://gitcode.com/badhope) · 16 open source projects mirrored (mobile IDE / AI assistant / learning terminal)
 - **Gitee · badhope** — [link](https://gitee.com/badhope) · Project mirror + mini-program portfolio
 
 ## Blog

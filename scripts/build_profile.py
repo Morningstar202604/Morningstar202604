@@ -8,17 +8,19 @@
 - 开源贡献: 四平台全部展现（GitHub X33834 / Morningstar202604 / GitCode / Gitee）
 - 其余区块(banner/关于/streak/3D/snake/技术栈/博客/雷达/在别处/footer)原样继承
 """
+import os
 import re
 import sys
 
-OUT = "/workspace/badhope-home"
+OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# ---------- 数据（2026-09 实测） ----------
+# ---------- 数据（2026-09-18 实测） ----------
 # 项目精选：只放高含金量代表项目（GitCode 为主）
 GC_PROJECTS = [
-    ("mobilecode", "Android 端 AI 编程助手（BYOK 离线运行）", 0, "移动端 · Kotlin"),
+    ("bot4cj", "基于仓颉语言的硬件机器人控制框架", 6, "硬件 · 机器人"),
+    ("mobilecode", "Android 端 AI 编程助手（BYOK 离线运行）", 1, "移动端 · Kotlin"),
     ("dev-terminal", "完全离线的安卓编程终端 — 手机上的现代 IDE", 0, "移动端 · 离线"),
-    ("awesome-skillkit", "Agent Skills 场景包 · 27 packs / 11 分类", 0, "AI 工具链"),
+    ("awesome-skillkit", "Agent Skills 场景包 · 27 packs / 11 分类", 3, "AI 工具链"),
     ("scholarhub", "学术期刊与预印本多租户平台", 1, "SaaS"),
     ("FinHub", "AI 投资研究 Agent 平台", 0, "量化 · 金融"),
     ("VerdictAI", "多智能体法庭辩论系统", 0, "多智能体"),
@@ -59,7 +61,7 @@ CONTRIB = {
         "per_account": [
             ("GitHub · Morningstar202604", "https://github.com/Morningstar202604", "**12 PRs merged**"),
             ("GitHub · X33834", "https://github.com/X33834", "**4 PRs merged**（Nailong-Studio/website ×4）+ 评审中：airflow #73099 · MonkeyCode #1298 · simona #1–6"),
-            ("GitCode · badhope", "https://gitcode.com/badhope", "14 个开源项目镜像（移动端 IDE / AI 助手 / 学习终端）"),
+            ("GitCode · badhope", "https://gitcode.com/badhope", "16 个开源项目镜像（移动端 IDE / AI 助手 / 学习终端）"),
             ("Gitee · badhope", "https://gitee.com/badhope", "项目镜像 + 小程序作品集"),
         ],
     },
@@ -94,7 +96,7 @@ CONTRIB = {
         "per_account": [
             ("GitHub · Morningstar202604", "https://github.com/Morningstar202604", "**12 PRs merged**"),
             ("GitHub · X33834", "https://github.com/X33834", "**4 PRs merged** (Nailong-Studio/website ×4) + reviewing: airflow #73099 · MonkeyCode #1298 · simona #1–6"),
-            ("GitCode · badhope", "https://gitcode.com/badhope", "14 open source projects mirrored (mobile IDE / AI assistant / learning terminal)"),
+            ("GitCode · badhope", "https://gitcode.com/badhope", "16 open source projects mirrored (mobile IDE / AI assistant / learning terminal)"),
             ("Gitee · badhope", "https://gitee.com/badhope", "Project mirror + mini-program portfolio"),
         ],
     },
@@ -129,28 +131,28 @@ CONTRIB = {
         "per_account": [
             ("GitHub · Morningstar202604", "https://github.com/Morningstar202604", "**12 PR merged**"),
             ("GitHub · X33834", "https://github.com/X33834", "**4 PR merged**（Nailong-Studio/website ×4）+ レビュー中：airflow #73099 · MonkeyCode #1298 · simona #1–6"),
-            ("GitCode · badhope", "https://gitcode.com/badhope", "14のオープンソースをミラー公開"),
+            ("GitCode · badhope", "https://gitcode.com/badhope", "16のオープンソースをミラー公開"),
             ("Gitee · badhope", "https://gitee.com/badhope", "プロジェクトミラー＋ミニアプリ"),
         ],
     },
 }
 
-TOTAL_REPOS = 14  # 项目以 GitCode 为主
-TOTAL_STARS = 8   # 取两个 GitHub 中较大者(X33834=8)
+TOTAL_REPOS = 16  # GitCode 现有 16 个
+TOTAL_STARS = 12  # 四平台按项目取最大后合计（bot4cj6 + awesome-skillkit3 + mobilecode1 + scholarhub1 + 网安智能体1）
 TOTAL_MERGED = 16
 
 def build_stats(lang):
     if lang == "zh":
-        return f"- ⭐ **{TOTAL_STARS}** stars（GitHub 较大值）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ 项目**（以 GitCode 为准）"
+        return f"- ⭐ **{TOTAL_STARS}** stars（四平台取最大）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ 项目**（以 GitCode 为准）"
     if lang == "en":
-        return f"- ⭐ **{TOTAL_STARS}** stars (GitHub max) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ repos** (GitCode-based)"
-    return f"- ⭐ **{TOTAL_STARS}** stars（GitHub 最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ リポジトリ**（GitCode 基準）"
+        return f"- ⭐ **{TOTAL_STARS}** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ repos** (GitCode-based)"
+    return f"- ⭐ **{TOTAL_STARS}** stars（4プラットフォーム最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **{TOTAL_REPOS}+ リポジトリ**（GitCode 基準）"
 
 def build_projects(lang):
     cat_map = {
-        "zh": {"移动端 · Kotlin": "移动端 · Kotlin", "移动端 · 离线": "移动端 · 离线", "AI 工具链": "AI 工具链", "SaaS": "SaaS", "量化 · 金融": "量化 · 金融", "多智能体": "多智能体", "教育": "教育", "支付": "支付"},
-        "en": {"移动端 · Kotlin": "Mobile · Kotlin", "移动端 · 离线": "Mobile · Offline", "AI 工具链": "AI toolchain", "SaaS": "SaaS", "量化 · 金融": "Quant · FinTech", "多智能体": "Multi-agent", "教育": "Education", "支付": "Payments"},
-        "ja": {"移动端 · Kotlin": "モバイル · Kotlin", "移动端 · 离线": "モバイル · オフライン", "AI 工具链": "AI ツール", "SaaS": "SaaS", "量化 · 金融": "Quant · 金融", "多智能体": "マルチエージェント", "教育": "教育", "支付": "決済"},
+        "zh": {"硬件 · 机器人": "硬件 · 机器人", "移动端 · Kotlin": "移动端 · Kotlin", "移动端 · 离线": "移动端 · 离线", "AI 工具链": "AI 工具链", "SaaS": "SaaS", "量化 · 金融": "量化 · 金融", "多智能体": "多智能体", "教育": "教育", "支付": "支付"},
+        "en": {"硬件 · 机器人": "Hardware · Robotics", "移动端 · Kotlin": "Mobile · Kotlin", "移动端 · 离线": "Mobile · Offline", "AI 工具链": "AI toolchain", "SaaS": "SaaS", "量化 · 金融": "Quant · FinTech", "多智能体": "Multi-agent", "教育": "Education", "支付": "Payments"},
+        "ja": {"硬件 · 机器人": "ハードウェア · ロボット", "移动端 · Kotlin": "モバイル · Kotlin", "移动端 · 离线": "モバイル · オフライン", "AI 工具链": "AI ツール", "SaaS": "SaaS", "量化 · 金融": "Quant · 金融", "多智能体": "マルチエージェント", "教育": "教育", "支付": "決済"},
     }
     lines = []
     for name, desc, stars, cat in GC_PROJECTS:
