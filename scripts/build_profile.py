@@ -338,16 +338,16 @@ def extend_elsewhere(lang, text):
 
 def main():
     mapping = {
-        "README.zh.md": "zh",
-        "README.md": "en",
-        "README.ja.md": "ja",
+        "README.zh.md": ("zh", "templates/README.zh.md"),
+        "README.md": ("en", "templates/README.en.md"),
+        "README.ja.md": ("ja", "templates/README.ja.md"),
     }
     active_key = sys.argv[1] if len(sys.argv) > 1 else "gitcode"
     if active_key not in ("gh_morningstar", "gh338", "gitcode", "gitee"):
         print("usage: build.py <gh_morningstar|gh338|gitcode|gitee>")
         sys.exit(1)
-    for fname, lang in mapping.items():
-        base_path = {"README.zh.md": "/tmp/base-README.zh.md", "README.md": "/tmp/base-README.md", "README.ja.md": "/tmp/base-README.ja.md"}[fname]
+    for fname, (lang, tpl) in mapping.items():
+        base_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), tpl)
         with open(base_path, encoding="utf-8") as f:
             base = f.read()
         text = build(lang, active_key, base)
