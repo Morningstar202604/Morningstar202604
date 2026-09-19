@@ -29,7 +29,7 @@
 ## 统计
 
 <!-- STATS:START -->
-- ⭐ **12** stars（四平台取最大）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ 项目**（以 GitCode 为准）
+- ⭐ **12** stars（四平台取最大）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **17+ 项目**（以 GitCode 为准）
 <!-- STATS:END -->
 
 <p align="center">
