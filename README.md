@@ -29,7 +29,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **15** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **20+ repos** (GitCode-based)
+- ⭐ **16** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **17+ repos** (GitCode-based)
 <!-- STATS:END -->
 
 <p align="center">
@@ -67,7 +67,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Projects
 
 <!-- PROJECTS:START -->
-- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 7★ · 基于仓颉语言的硬件机器人控制框架 · `Hardware · Robotics`
+- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 8★ · 基于仓颉语言的硬件机器人控制框架 · `Hardware · Robotics`
 - **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `Mobile · Kotlin`
 - **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 1★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `Mobile · Offline`
 - **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 36 packs / 143 skills / 18 分类 · `AI toolchain`
@@ -105,12 +105,12 @@ Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110�
 ## Blog
 
 <!-- BLOG:START -->
+- [「我几乎从不用AI写作」：这篇262赞的HN热帖，撕开了技术圈最虚伪的遮羞布](https://juejin.cn/post/7688192884433043510) · `2026-09-22` · 掘金
 - [中转站 API 401 之后更可怕的事：6TB 泄露数据集正在黑市流通，你的密钥安全吗？](https://juejin.cn/post/7687865854438129714) · `2026-09-22` · 掘金
 - [ZCode 静默上传你整个 Git 仓库：加密不等于安全，密钥在谁手里才算数？](https://juejin.cn/post/7687855879102251060) · `2026-09-22` · 掘金
 - [工作流体检验收：全链路发布完整性验证](https://blog.csdn.net/weixin_56622231/article/details/166254273) · `2026-09-21` · CSDN
 - [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) · `2026-09-21` · CSDN
 - [接手前辈留下的200行正则——重写成20行后全组都沉默了](https://juejin.cn/post/7687876412298870784) · `2026-09-21` · 掘金
-- [C++、Node.js、Python 写最小 HTTP 服务谁快？我实测了 6 万次请求](https://juejin.cn/post/7686040694947233801) · `2026-09-16` · 掘金
 <!-- BLOG:END -->
 
 ## Open Source Radar
