@@ -5,7 +5,10 @@
 </p>
 
 <div align="center">
-  <img src="./assets/profile-verse/typing-card.svg" alt="typing" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/typing-card.svg">
+  <img src="./assets/profile-verse/typing-card-light.svg" alt="typing"  width="100%" />
+</picture>
 </div>
 
 ## 关于
@@ -22,7 +25,10 @@
 <!-- STATS:END -->
 
 <p align="center">
-  <img src="./assets/profile-verse/stats-card.svg" alt="profile stats" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
+  <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+</picture>
 </p>
 
 <p align="center">
@@ -32,19 +38,28 @@
 ## 连续提交
 
 <p align="center">
-  <img src="./assets/profile-verse/streak-card.svg" alt="GitHub streak" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/streak-card.svg">
+  <img src="./assets/profile-verse/streak-card-light.svg" alt="GitHub streak"  width="100%" />
+</picture>
 </p>
 
 ## 贡献热力图
 
 <p align="center">
-  <img src="./assets/profile-verse/contrib-grid-card.svg" alt="3D Contribution" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/contrib-grid-card.svg">
+  <img src="./assets/profile-verse/contrib-grid-card-light.svg" alt="3D Contribution"  width="100%" />
+</picture>
 </p>
 
 ## 技术栈
 
 <p align="center">
-  <img src="./assets/profile-verse/tech-stack-card.svg" alt="tech stack" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/tech-stack-card.svg">
+  <img src="./assets/profile-verse/tech-stack-card-light.svg" alt="tech stack"  width="100%" />
+</picture>
 </p>
 
 <p align="center">
@@ -55,7 +70,10 @@
 ## 徽章
 
 <p align="center">
-  <img src="./assets/profile-verse/badge-card.svg" alt="badges" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/badge-card.svg">
+  <img src="./assets/profile-verse/badge-card-light.svg" alt="badges"  width="100%" />
+</picture>
 </p>
 
 ## 项目
@@ -74,7 +92,10 @@
 已合入知名上游项目的代码——**已合并 8 个 PR**（分属 **4 个项目**），另有更多评审中（截至 2026-09-08）。
 
 <p align="center">
-  <img src="./assets/profile-verse/impact-card.svg" alt="open source impact" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
+  <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
+</picture>
 </p>
 
 ### ✅ 已合并 · *左右滑动查看更多 →*

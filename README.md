@@ -5,7 +5,10 @@
 </p>
 
 <div align="center">
-  <img src="./assets/profile-verse/typing-card.svg" alt="typing" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/typing-card.svg">
+  <img src="./assets/profile-verse/typing-card-light.svg" alt="typing"  width="100%" />
+</picture>
 </div>
 
 ## About
@@ -37,25 +40,37 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 </p>
 
 <p align="center">
-  <img src="./assets/profile-verse/stats-card.svg" alt="profile stats" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
+  <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+</picture>
 </p>
 
 ## Streak
 
 <p align="center">
-  <img src="./assets/profile-verse/streak-card.svg" alt="GitHub streak" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/streak-card.svg">
+  <img src="./assets/profile-verse/streak-card-light.svg" alt="GitHub streak"  width="100%" />
+</picture>
 </p>
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="./assets/profile-verse/contrib-grid-card.svg" alt="3D Contribution" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/contrib-grid-card.svg">
+  <img src="./assets/profile-verse/contrib-grid-card-light.svg" alt="3D Contribution"  width="100%" />
+</picture>
 </p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/profile-verse/tech-stack-card.svg" alt="tech stack" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/tech-stack-card.svg">
+  <img src="./assets/profile-verse/tech-stack-card-light.svg" alt="tech stack"  width="100%" />
+</picture>
 </p>
 
 <p align="center">
@@ -66,7 +81,10 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Badges
 
 <p align="center">
-  <img src="./assets/profile-verse/badge-card.svg" alt="badges" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/badge-card.svg">
+  <img src="./assets/profile-verse/badge-card-light.svg" alt="badges"  width="100%" />
+</picture>
 </p>
 
 ## Projects
@@ -88,7 +106,10 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 Merged into some of the most starred open source projects — **16 PRs merged across two GitHub accounts**, including **ohmyzsh (189k★)** and **tldr-pages (64k★)**.
 
 <p align="center">
-  <img src="./assets/profile-verse/impact-card.svg" alt="open source impact" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
+  <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
+</picture>
 </p>
 
 ### ⭐ High-impact merges
