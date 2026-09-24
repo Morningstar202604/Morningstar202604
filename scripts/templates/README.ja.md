@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C9A86A&center=true&vCenter=true&width=640&height=50&lines=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82;%E4%B8%8E%E5%85%B6%E6%9B%B4%E5%A5%BD%EF%BC%8C%E4%B8%8D%E5%A6%82%E4%B8%8D%E5%90%8C;Code%20under%20the%20stars%2C%20ship%20with%20the%20dawn" alt="typing" />
+  <img src="./assets/profile-verse/typing-card.svg" alt="typing" width="100%" />
 </div>
 
 ## プロフィール
@@ -22,35 +22,40 @@
 <!-- STATS:END -->
 
 <p align="center">
+  <img src="./assets/profile-verse/stats-card.svg" alt="profile stats" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
 </p>
 
 ## 連続コミット
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Morningstar202604&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" width="70%" />
+  <img src="./assets/profile-verse/streak-card.svg" alt="GitHub streak" width="100%" />
 </p>
 
 ## コントリビューション
 
 <p align="center">
-  <img src="./assets/3d-contrib-green.png" alt="3D Contribution" width="98%" />
-</p>
-
-<p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="./assets/profile-verse/contrib-grid-card.svg" alt="3D Contribution" width="100%" />
 </p>
 
 ## 技術スタック
 
 <p align="center">
-  <img src="./assets/tech-stack.png" alt="tech stack" width="620" />
+  <img src="./assets/profile-verse/tech-stack-card.svg" alt="tech stack" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/snake.yml?label=snake&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="snake workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-3d.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-3d.yml?label=profile-3d&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="profile-3d workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="update-stats workflow" /></a>
+  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-verse.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
+  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="update-stats workflow" /></a>
+</p>
+
+## バッジ
+
+<p align="center">
+  <img src="./assets/profile-verse/badge-card.svg" alt="badges" width="100%" />
 </p>
 
 ## プロジェクト
@@ -67,6 +72,10 @@
 ## オープンソースへの貢献
 
 有名プロジェクトへマージされた上流貢献——**マージ済み 8 PR**（**4 プロジェクト**）、他はレビュー中（2026-09-08 現在）。
+
+<p align="center">
+  <img src="./assets/profile-verse/impact-card.svg" alt="open source impact" width="100%" />
+</p>
 
 ### ✅ マージ済み · *左右にスクロール →*
 
@@ -134,5 +143,9 @@
 </p>
 
 <p align="center">
-  <sub>&copy; Morningstar202604</sub>
+  <p align="center">
+  <sub>Built with <a href="https://github.com/Morningstar202604/profile-verse">Profile Verse</a> · zero-server GitHub cards</sub>
+</p>
+
+<sub>&copy; Morningstar202604</sub>
 </p>
