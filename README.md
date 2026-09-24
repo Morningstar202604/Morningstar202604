@@ -32,7 +32,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 ## Stats
 
 <!-- STATS:START -->
-- ⭐ **16** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **17+ repos** (GitCode-based)
+- ⭐ **16** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **19+ repos** (GitCode-based)
 <!-- STATS:END -->
 
 <p align="center">
