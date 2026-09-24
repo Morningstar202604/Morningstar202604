@@ -110,6 +110,11 @@ Merged into some of the most starred open source projects — **16 PRs merged ac
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
   <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
+  <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
+</picture>
 </p>
 
 ### ⭐ High-impact merges

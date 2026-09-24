@@ -110,6 +110,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
   <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
+  <img src="./assets/profile-verse/year-review-card-light.svg" alt="年間レビュー"  width="100%" />
+</picture>
 </p>
 
 ### ⭐ ハイインパクト・マージ済み

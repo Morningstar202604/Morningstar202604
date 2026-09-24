@@ -32,6 +32,20 @@ jobs:
           theme: light
           output: assets/profile-verse/impact-card-light.svg
 
+      - name: Year review
+        uses: Morningstar202604/profile-verse/components/year-review-card@v1
+        with:
+          user: Morningstar202604
+          output: assets/profile-verse/year-review-card.svg
+          theme: ${{ inputs.theme }}
+
+      - name: Year review (light)
+        uses: Morningstar202604/profile-verse/components/year-review-card@v1
+        with:
+          user: Morningstar202604
+          theme: light
+          output: assets/profile-verse/year-review-card-light.svg
+
       - name: Stats card
         uses: Morningstar202604/profile-verse/components/stats-card@v1
         with:
