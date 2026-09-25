@@ -16,7 +16,7 @@
 A developer who turns abstract ideas into tangible interfaces. Focused on full-stack work and creative tooling, with a preference for clean, considered design over yet another template. Code and starlight have this in common: the craft is in the details.
 
 - **Currently working on**: interactive visualizations, automated workflows, and small tools that earn a knowing smile
-- **Go-to languages**: TypeScript / Python / Rust
+- **Go-to languages**: Python / TypeScript / Rust
 
 ### 🌐 Four-Platform Mirror &nbsp;`one page · four places`
 
@@ -30,10 +30,6 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 | **Gitee** | [badhope](https://gitee.com/badhope) | Mirror · Mini-programs |
 
 ## Stats
-
-<!-- STATS:START -->
-- ⭐ **16** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **19+ repos** (GitCode-based)
-<!-- STATS:END -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
@@ -103,8 +99,6 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 ## Open Source Contributions
 
-Merged into some of the most starred open source projects — **16 PRs merged across two GitHub accounts**, including **ohmyzsh (189k★)** and **tldr-pages (64k★)**.
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
@@ -116,15 +110,6 @@ Merged into some of the most starred open source projects — **16 PRs merged ac
   <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
 </picture>
 </p>
-
-### ⭐ High-impact merges
-
-<table align="center">
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh/ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>fix(git): force C locale · fix(pipenv): keep activation · fix(aws): asr error</sub><br/><sub>The essential zsh framework · 100k+ dependent projects</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>doctl CLI pages</sub><br/><sub>Community-curated command cheatsheets</sub></td></tr>
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/collective/icalendar">collective/icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>docs: public exports · deprecate single_string_parameter · TYPE_CHECKING imports</sub><br/><sub>Python iCalendar ecosystem</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/nix-community/NUR">nix-community/NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>treat SSL errors as transient</sub><br/><sub>Nix user repository hub</sub></td></tr>
-</table>
-
-Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110★) and [claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent) (agent orchestration ×3).
 
 ### 🚧 Under review
 

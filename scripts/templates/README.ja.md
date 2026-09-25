@@ -20,14 +20,15 @@
 
 ## 統計
 
-<!-- STATS:START -->
-- ⭐ **87** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **75** repositories
-<!-- STATS:END -->
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
   <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
+  <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
 </picture>
 </p>
 
@@ -89,25 +90,12 @@
 
 ## オープンソースへの貢献
 
-有名プロジェクトへマージされた上流貢献——**マージ済み 8 PR**（**4 プロジェクト**）、他はレビュー中（2026-09-08 現在）。
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
   <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
 </picture>
 </p>
-
-### ✅ マージ済み · *左右にスクロール →*
-
-<table align="center">
-  <tr>
-    <td align="center" width="230"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>git locale · pipenv · aws asr</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>docctl CLI ページ</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/collective/icalendar">icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>公開エクスポート · 非推奨化</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/nix-community/NUR">NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>SSL エラーは一時的</sub></td>
-  </tr>
-</table>
 
 ### 🚧 レビュー中
 

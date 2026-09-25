@@ -183,33 +183,16 @@ def main():
         for name, n in m.items():
             stars_by_repo[name] = max(stars_by_repo.get(name, 0), n)
 
-    # 3) Followers: max across GitHub accounts (public).
-    followers = 0
-    for account in GH_ACCOUNTS:
-        try:
-            user = common.http_json(
-                f"https://api.github.com/users/{account}",
-                headers=_gh_headers(),
-            )
-            followers = max(followers, user.get("followers", 0))
-        except Exception:  # noqa: BLE001
-            pass
-
-    # 4) Repo count: GitCode when available (it is the primary mirror), else the
-    #    largest count seen on any platform.
-    repo_count = len(gc) if gc else max(len(m) for m in maps)
-
-    stats_blocks = build_stats(stars_by_repo, followers, repo_count)
+    # 3) STATS block: removed (deduped) — the stats-card component is the single
+    #    source of truth for follower/repo numbers. Only PROJECTS stars refresh.
     for name in README_FILES:
-        lang = {"README.md": "en", "README.zh.md": "zh", "README.ja.md": "ja"}[name]
         path = os.path.join(common.ROOT, name)
         with open(path, encoding="utf-8") as fh:
             text = fh.read()
-        text = update_block(text, "STATS", stats_blocks[lang])
         text = refresh_project_stars(text, stars_by_repo)
         with open(path, "w", encoding="utf-8", newline="\n") as fh:
             fh.write(text)
-    print("STATS refreshed (repo count, stars, followers) across 4 platforms")
+    print("PROJECTS stars refreshed; STATS block retired (cards are the source of truth)")
 
 
 if __name__ == "__main__":

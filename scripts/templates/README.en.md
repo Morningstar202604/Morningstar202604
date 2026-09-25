@@ -16,18 +16,19 @@
 A developer who turns abstract ideas into tangible interfaces. Focused on full-stack work and creative tooling, with a preference for clean, considered design over yet another template. Code and starlight have this in common: the craft is in the details.
 
 - **Currently working on**: interactive visualizations, automated workflows, and small tools that earn a knowing smile
-- **Go-to languages**: TypeScript / Python / Rust
+- **Go-to languages**: Python / TypeScript / Rust
 
 ## Stats
-
-<!-- STATS:START -->
-- ⭐ **87** stars &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **75** repositories
-<!-- STATS:END -->
 
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
   <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
+  <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
 </picture>
 </p>
 
@@ -89,25 +90,12 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 ## Open Source Contributions
 
-Upstream work merged into well-known projects — **8 PRs merged** across **4 projects** · more under review (2026-09-08).
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
   <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
 </picture>
 </p>
-
-### ✅ Merged · *scroll →*
-
-<table align="center">
-  <tr>
-    <td align="center" width="230"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>git locale · pipenv · aws asr</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>docctl CLI pages</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/collective/icalendar">icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>public exports · deprecations</sub></td>
-    <td align="center" width="230"><sub><b><a href="https://github.com/nix-community/NUR">NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>SSL errors → transient</sub></td>
-  </tr>
-</table>
 
 ### 🚧 Under review
 

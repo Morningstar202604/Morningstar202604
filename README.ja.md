@@ -31,10 +31,6 @@
 
 ## 統計
 
-<!-- STATS:START -->
-- ⭐ **16** stars（4プラットフォーム最大値）&nbsp;·&nbsp; 👥 **12** followers &nbsp;·&nbsp; 📦 **19+ リポジトリ**（GitCode 基準）
-<!-- STATS:END -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
 </p>
@@ -103,8 +99,6 @@
 
 ## オープンソースへの貢献
 
-スター数の多いオープンソースへのコード提供 — **2つのGitHubアカウントで合計16 PR マージ済み**、中でも **ohmyzsh（189k★）**・**tldr-pages（64k★）** は有名プロジェクトです。
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
@@ -116,15 +110,6 @@
   <img src="./assets/profile-verse/year-review-card-light.svg" alt="年間レビュー"  width="100%" />
 </picture>
 </p>
-
-### ⭐ ハイインパクト・マージ済み
-
-<table align="center">
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh/ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>fix(git): force C locale · fix(pipenv): keep activation · fix(aws): asr error</sub><br/><sub>zsh フレームワークの定番</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>doctl CLI pages</sub><br/><sub>コミュニティのコマンドチートシート</sub></td></tr>
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/collective/icalendar">collective/icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>docs: public exports · deprecate single_string_parameter · TYPE_CHECKING imports</sub><br/><sub>Python iCalendar エコシステム</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/nix-community/NUR">nix-community/NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>treat SSL errors as transient</sub><br/><sub>Nix ユーザーリポジトリ</sub></td></tr>
-</table>
-
-ほかにも [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge)（110★）や [claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent)（エージェント連携 ×3）にも合流。
 
 ### 🚧 レビュー中
 
