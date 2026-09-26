@@ -24,8 +24,8 @@
 
 | 平台 | 账号 | 定位 |
 |------|------|------|
-| **GitHub** | [X33834](https://github.com/X33834) | 开源贡献 · 上游 PR |
-| **GitHub** | [Morningstar202604](https://github.com/Morningstar202604) | 作品集 · 奶龙系列 / 工具集 ◆ |
+| **GitHub** | [X33834](https://github.com/X33834) | 开源贡献 · 上游 PR ◆ |
+| **GitHub** | [Morningstar202604](https://github.com/Morningstar202604) | 作品集 · 奶龙系列 / 工具集 |
 | **GitCode** | [badhope](https://gitcode.com/badhope) | 移动端开发 · 离线工具 |
 | **Gitee** | [badhope](https://gitee.com/badhope) | 作品镜像 · 小程序 |
 
@@ -110,6 +110,17 @@
   <img src="./assets/profile-verse/year-review-card-light.svg" alt="年度回顾"  width="100%" />
 </picture>
 </p>
+
+代码已合入多个高知名度的开源上游项目——**GitHub 两账号合计 16 个 PR 被合并**，其中不乏 **_ohmyzsh（189k★）_、_tldr-pages（64k★）_** 这样的明星项目。
+
+### ⭐ 高含金量 · 已合并
+
+<table align="center">
+  <tr><td align="center" width="280"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh/ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>fix(git): force C locale · fix(pipenv): keep activation · fix(aws): asr error</sub><br/><sub>命令行狂魔的必修课 · 12 万+ 项目依赖</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>doctl CLI 手册页</sub><br/><sub>社区驱动命令手册 · 跨平台 CLI 帮助</sub></td></tr>
+  <tr><td align="center" width="280"><sub><b><a href="https://github.com/collective/icalendar">collective/icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>docs: public exports · deprecate single_string_parameter · TYPE_CHECKING imports</sub><br/><sub>Python iCalendar 标准库生态</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/nix-community/NUR">nix-community/NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>treat SSL errors as transient</sub><br/><sub>Nix 用户仓库 · 社区分发中枢</sub></td></tr>
+</table>
+
+此外还合入 [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge)（110★）、[claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent)（Agent 编排 ×3）等项目的 PR。
 
 ### 🚧 评审中
 
