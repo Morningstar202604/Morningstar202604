@@ -111,21 +111,6 @@
 </picture>
 </p>
 
-スター数の多いオープンソースへのコード提供 — **2つのGitHubアカウントで合計16 PR マージ済み**、中でも **ohmyzsh（189k★）**・**tldr-pages（64k★）** は有名プロジェクトです。
-
-### ⭐ ハイインパクト・マージ済み
-
-<table align="center">
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh/ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>fix(git): force C locale · fix(pipenv): keep activation · fix(aws): asr error</sub><br/><sub>zsh フレームワークの定番</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>doctl CLI pages</sub><br/><sub>コミュニティのコマンドチートシート</sub></td></tr>
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/collective/icalendar">collective/icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>docs: public exports · deprecate single_string_parameter · TYPE_CHECKING imports</sub><br/><sub>Python iCalendar エコシステム</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/nix-community/NUR">nix-community/NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>treat SSL errors as transient</sub><br/><sub>Nix ユーザーリポジトリ</sub></td></tr>
-</table>
-
-ほかにも [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge)（110★）や [claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent)（エージェント連携 ×3）にも合流。
-
-### 🚧 レビュー中
-
-pydantic / galaxy / LibreChat / PDFMathTranslate / getmoto / zsh-completions など 20+ プロジェクトでレビュー中・提出済み。
-
 ### 📌 4プラットフォームの貢献一覧
 
 - **GitHub · Morningstar202604** — [リンク](https://github.com/Morningstar202604) · **12 PR merged**
@@ -180,7 +165,6 @@ pydantic / galaxy / LibreChat / PDFMathTranslate / getmoto / zsh-completions な
 <a href="https://blog.csdn.net/weixin_56622231"><img src="https://img.shields.io/badge/CSDN-Blog-C9A86A?style=flat&logo=bytes&logoColor=white&labelColor=0B1026" alt="CSDN Blog" /></a>
 <a href="https://juejin.cn/user/2350111542479753"><img src="https://img.shields.io/badge/Juejin-2350111542479753-C9A86A?style=flat&logo=juejin&logoColor=white&labelColor=0B1026" alt="Juejin" /></a>
 </p>
-
 
 <p align="center">
   <img src="./assets/banner-footer.svg" alt="footer" width="100%" />

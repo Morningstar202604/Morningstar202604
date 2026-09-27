@@ -111,21 +111,6 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 </picture>
 </p>
 
-Merged into some of the most starred open source projects — **16 PRs merged across two GitHub accounts**, including **ohmyzsh (189k★)** and **tldr-pages (64k★)**.
-
-### ⭐ High-impact merges
-
-<table align="center">
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh/ohmyzsh</a></b> ⭐189k</sub><br/><a href="https://github.com/ohmyzsh/ohmyzsh/pull/14006">#14006</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14021">#14021</a> · <a href="https://github.com/ohmyzsh/ohmyzsh/pull/14027">#14027</a><br/><sub>fix(git): force C locale · fix(pipenv): keep activation · fix(aws): asr error</sub><br/><sub>The essential zsh framework · 100k+ dependent projects</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a></b> ⭐64k</sub><br/><a href="https://github.com/tldr-pages/tldr/pull/23780">#23780</a><br/><sub>doctl CLI pages</sub><br/><sub>Community-curated command cheatsheets</sub></td></tr>
-  <tr><td align="center" width="280"><sub><b><a href="https://github.com/collective/icalendar">collective/icalendar</a></b> ⭐1.2k</sub><br/><a href="https://github.com/collective/icalendar/pull/1731">#1731</a> · <a href="https://github.com/collective/icalendar/pull/1750">#1750</a> · <a href="https://github.com/collective/icalendar/pull/1751">#1751</a><br/><sub>docs: public exports · deprecate single_string_parameter · TYPE_CHECKING imports</sub><br/><sub>Python iCalendar ecosystem</sub></td><td align="center" width="280"><sub><b><a href="https://github.com/nix-community/NUR">nix-community/NUR</a></b> ⭐2k</sub><br/><a href="https://github.com/nix-community/NUR/pull/1220">#1220</a><br/><sub>treat SSL errors as transient</sub><br/><sub>Nix user repository hub</sub></td></tr>
-</table>
-
-Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110★) and [claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent) (agent orchestration ×3).
-
-### 🚧 Under review
-
-20+ more PRs open/submitted across **pydantic / galaxy / LibreChat / PDFMathTranslate / getmoto / zsh-completions / LibrePhotos / freeCodeCamp / awesome-mcp-servers**.
-
 ### 📌 Contributions across four platforms
 
 - **GitHub · Morningstar202604** — [link](https://github.com/Morningstar202604) · **12 PRs merged**
@@ -180,7 +165,6 @@ Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110�
 <a href="https://blog.csdn.net/weixin_56622231"><img src="https://img.shields.io/badge/CSDN-Blog-C9A86A?style=flat&logo=bytes&logoColor=white&labelColor=0B1026" alt="CSDN Blog" /></a>
 <a href="https://juejin.cn/user/2350111542479753"><img src="https://img.shields.io/badge/Juejin-2350111542479753-C9A86A?style=flat&logo=juejin&logoColor=white&labelColor=0B1026" alt="Juejin" /></a>
 </p>
-
 
 <p align="center">
   <img src="./assets/banner-footer.svg" alt="footer" width="100%" />
