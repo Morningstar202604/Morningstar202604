@@ -85,17 +85,12 @@
 
 ## 项目
 
-<!-- PROJECTS:START -->
-- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 8★ · 基于仓颉语言的硬件机器人控制框架 · `硬件 · 机器人`
-- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `移动端 · Kotlin`
-- **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 1★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `移动端 · 离线`
-- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI 工具链`
-- **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
-- **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `量化 · 金融`
-- **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 1★ · 多智能体法庭辩论系统 · `多智能体`
-- **[mashang-python](https://gitcode.com/badhope/mashang-python)** · 0★ · 码上 Python · PY//NOW 赛博朋克风学习终端 · `教育`
-- **[KeBaiPay](https://gitcode.com/badhope/KeBaiPay)** · 0★ · 科佰支付 · 自托管开源支付中台 · `支付`
-<!-- PROJECTS:END -->
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/projects-card.svg">
+  <img src="./assets/profile-verse/projects-card-light.svg" alt="projects"  width="100%" />
+</picture>
+</p>
 
 ## 开源贡献
 

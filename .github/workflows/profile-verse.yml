@@ -126,6 +126,20 @@ jobs:
           theme: light
           output: assets/profile-verse/badge-card-light.svg
 
+      - name: Projects card (2×2 grid)
+        uses: Morningstar202604/profile-cards/components/projects-card@v1
+        with:
+          user: Morningstar202604
+          output: assets/profile-verse/projects-card.svg
+
+      - name: Projects card (2×2 grid, light)
+        uses: Morningstar202604/profile-cards/components/projects-card@v1
+        with:
+          user: Morningstar202604
+          theme: light
+          output: assets/profile-verse/projects-card-light.svg
+
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"

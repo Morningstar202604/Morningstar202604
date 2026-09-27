@@ -85,17 +85,12 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 ## Projects
 
-<!-- PROJECTS:START -->
-- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 8★ · 基于仓颉语言的硬件机器人控制框架 · `Hardware · Robotics`
-- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `Mobile · Kotlin`
-- **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 1★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `Mobile · Offline`
-- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 36 packs / 143 skills / 18 分类 · `AI toolchain`
-- **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
-- **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `Quant · FinTech`
-- **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 1★ · 多智能体法庭辩论系统 · `Multi-agent`
-- **[mashang-python](https://gitcode.com/badhope/mashang-python)** · 0★ · 码上 Python · PY//NOW 赛博朋克风学习终端 · `Education`
-- **[KeBaiPay](https://gitcode.com/badhope/KeBaiPay)** · 0★ · 科佰支付 · 自托管开源支付中台 · `Payments`
-<!-- PROJECTS:END -->
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/projects-card.svg">
+  <img src="./assets/profile-verse/projects-card-light.svg" alt="projects"  width="100%" />
+</picture>
+</p>
 
 ## Open Source Contributions
 
