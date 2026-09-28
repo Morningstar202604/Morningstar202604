@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-verse.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
+  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-cards.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
   <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="update-stats workflow" /></a>
 </p>
 
@@ -167,7 +167,7 @@
 
 <p align="center">
   <p align="center">
-  <sub>Built with <a href="https://github.com/Morningstar202604/profile-verse">Profile Verse</a> · zero-server GitHub cards</sub>
+  <sub>Built with <a href="https://github.com/Morningstar202604/profile-cards">Profile Verse</a> · zero-server GitHub cards</sub>
 </p>
 
 <sub>&copy; Morningstar202604</sub>
