@@ -60,11 +60,11 @@
 
 <!-- BLOG:START -->
 - [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) · `2026-09-30` · 掘金
-- [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27` · CSDN
 - [Playwright 多平台分发：8 个踩坑与合规门禁](https://juejin.cn/post/7689408456146616347) · `2026-09-27` · 掘金
-- [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25` · CSDN
 - [Render用Go扛1500亿请求，Cloudflare用Rust快1000倍：这场战争里没有赢家，只有场景](https://juejin.cn/post/7689030185366159406) · `2026-09-25` · 掘金
 - [35岁程序员求职周期127天：不是年龄歧视，是性价比歧视——但 victims 还是我们](https://juejin.cn/post/7688942552990171171) · `2026-09-25` · 掘金
+- [我的QQ群友给我发了一个「奶蛙圣殿」，我进去之后陷入了沉思](https://juejin.cn/post/7688988203789385728) · `2026-09-25` · 掘金
+- [「我几乎从不用AI写作」：这篇262赞的HN热帖，撕开了技术圈最虚伪的遮羞布](https://juejin.cn/post/7688192884433043510) · `2026-09-22` · 掘金
 <!-- BLOG:END -->
 
 ## 开源雷达
