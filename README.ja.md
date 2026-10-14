@@ -49,7 +49,7 @@
 ## 数字で見る
 
 <p align="center">
-  <img src="./assets/stats-ja.svg" alt="25 公開リポジトリ · 4 累計スター · 17 フォロワー · 15 上流へのマージ" width="80%" />
+  <img src="./assets/stats-ja.svg" alt="27 公開リポジトリ · 4 累計スター · 17 フォロワー · 15 上流へのマージ" width="80%" />
 </p>
 
 ## 執筆
