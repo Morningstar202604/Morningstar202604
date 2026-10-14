@@ -49,7 +49,7 @@
 ## 数据
 
 <p align="center">
-  <img src="./assets/stats-zh-CN.svg" alt="25 公开仓库 · 4 累计 Star · 17 关注者 · 15 上游合并" width="80%" />
+  <img src="./assets/stats-zh-CN.svg" alt="27 公开仓库 · 4 累计 Star · 17 关注者 · 15 上游合并" width="80%" />
 </p>
 
 ## 写作

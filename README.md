@@ -49,7 +49,7 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
 ## Numbers
 
 <p align="center">
-  <img src="./assets/stats-en.svg" alt="25 public repos · 4 stars · 17 followers · 15 upstream merges" width="80%" />
+  <img src="./assets/stats-en.svg" alt="27 public repos · 4 stars · 17 followers · 15 upstream merges" width="80%" />
 </p>
 
 ## Writing
