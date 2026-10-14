@@ -6,6 +6,8 @@
 
 <p align="center"><i>夜观星象，以代码作舟。</i></p>
 
+<p align="center"><sub>先解决问题，再写代码。 — John Johnson</sub></p>
+
 ## 关于
 
 长期项目放在这里慢慢打磨：小说引擎、收单系统、P2P 组网。偏工程完整度 —— 文档先于代码，审计先于合并。已有一批补丁合入 ohmyzsh / tldr / icalendar / NUR 等上游项目。
@@ -52,7 +54,24 @@
   <img src="./assets/stats-zh-CN.svg" alt="27 公开仓库 · 4 累计 Star · 17 关注者 · 15 上游合并" width="80%" />
 </p>
 
+## 贡献图
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+  </picture>
+</p>
+
 ## 写作
+
+### 最新文章
+
+- [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27`
+- [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25`
+- [工作流体检验收：全链路发布完整性验证](https://blog.csdn.net/weixin_56622231/article/details/166254273) · `2026-09-21`
+- [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) · `2026-09-21`
+- [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) · `2026-09-15`
 
 - [CSDN](https://blog.csdn.net/weixin_56622231) · [Juejin](https://juejin.cn/user/2350111542479753)
 

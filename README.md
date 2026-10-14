@@ -6,6 +6,8 @@
 
 <p align="center"><i>Code under the stars, ship with the dawn.</i></p>
 
+<p align="center"><sub>First, solve the problem. Then, write the code. — John Johnson</sub></p>
+
 ## About
 
 Long-horizon projects live here — a novel-writing engine, a compliant payments intake, P2P networking. Engineering completeness first: docs before code, audits before merges. Patches already merged upstream at ohmyzsh, tldr, icalendar, NUR and more.
@@ -52,7 +54,24 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
   <img src="./assets/stats-en.svg" alt="27 public repos · 4 stars · 17 followers · 15 upstream merges" width="80%" />
 </p>
 
+## Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+  </picture>
+</p>
+
 ## Writing
+
+### Latest writing
+
+- [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27`
+- [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25`
+- [工作流体检验收：全链路发布完整性验证](https://blog.csdn.net/weixin_56622231/article/details/166254273) · `2026-09-21`
+- [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) · `2026-09-21`
+- [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) · `2026-09-15`
 
 - [CSDN](https://blog.csdn.net/weixin_56622231) · [Juejin](https://juejin.cn/user/2350111542479753)
 

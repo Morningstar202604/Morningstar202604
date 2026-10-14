@@ -49,3 +49,4 @@ jobs:
           gh pr create --base main --head "$branch" \
             --title "chore: refresh profile stats ($(date -u +%F))" \
             --body "自动刷新：data/stats.json 及 README/资产更新；合入后生效。"
+          gh pr merge --auto --squash || true
