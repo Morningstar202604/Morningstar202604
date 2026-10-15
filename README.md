@@ -8,9 +8,16 @@
 
 <p align="center"><sub>First, solve the problem. Then, write the code. — John Johnson</sub></p>
 
-## About
+<table border="0">
+<tr>
+<td valign="top" width="58%">
+
+### About
 
 Long-horizon projects live here — a novel-writing engine, a compliant payments intake, P2P networking. Engineering completeness first: docs before code, audits before merges. Patches already merged upstream at ohmyzsh, tldr, icalendar, NUR and more.
+
+</td>
+<td valign="top" width="42%">
 
 ### Now
 
@@ -18,18 +25,53 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 - Reconciliation module for KeBaiPay
 - A batch of upstream PRs in review — ohmyzsh, moto, PDFMathTranslate
 
+</td>
+</tr>
+</table>
+
+## Toolbox
+
+<p align="center">
+  <img src="./assets/skills-md.svg" alt="Toolbox" width="100%" />
+</p>
+
 ## Selected work
 
-- **[Novel Engine](https://github.com/Morningstar202604/novel-engine)** — Novel-writing engine — story bible, cross-chapter memory, rule-based consistency audit · `Writing · AI`
-- **[KeBaiPay 科佰收单](https://github.com/Morningstar202604/KeBaiPay)** — Self-hosted compliant payment intake — licensed channels, open API, reconciliation · `Payments · Compliance`
-- **[p2wlan](https://github.com/Morningstar202604/p2wlan)** — Cross-platform P2P virtual LAN — NAT traversal, IPv6 direct, room networking · `Networking · Tools`
-- **[Xiaoman 小满](https://github.com/Morningstar202604/xiaoman)** — Chat-first personal finance agent — local-first, LangGraph orchestration · `AI · Finance`
-- **[ShopCash 店收宝](https://github.com/Morningstar202604/shopcash)** — Offline shop checkout and ledger — the software never touches the money · `Tools · Payments`
-- **[Naiwa 奶蛙](https://github.com/Morningstar202604/naiwa-pet)** — A Live2D desktop pet — eye tracking, expressions, always on top (Electron + PixiJS) · `Desktop · Fun`
-- **[SciFlow](https://github.com/Morningstar202604/sciflow)** — Local-first AI research agent workbench — multi-agent pipeline, planner, memory · `AI · Research`
-- **[Spark](https://github.com/Morningstar202604/spark)** — Local-first AI coding agent — approval gate, prompt-injection defence · `AI · DevTools`
+<p align="center">
+  <img src="./assets/works-md.svg" alt="Selected work" width="100%" />
+</p>
+
+<p align="center"><sub>[Novel Engine](https://github.com/Morningstar202604/novel-engine) · [KeBaiPay 科佰收单](https://github.com/Morningstar202604/KeBaiPay) · [p2wlan](https://github.com/Morningstar202604/p2wlan) · [Xiaoman 小满](https://github.com/Morningstar202604/xiaoman) · [ShopCash 店收宝](https://github.com/Morningstar202604/shopcash) · [Naiwa 奶蛙](https://github.com/Morningstar202604/naiwa-pet) · [SciFlow](https://github.com/Morningstar202604/sciflow) · [Spark](https://github.com/Morningstar202604/spark)</sub></p>
 
 All public repositories: [github.com/Morningstar202604](https://github.com/Morningstar202604)
+
+## Numbers
+
+<p align="center">
+  <img src="./assets/cards/stats-en.svg" alt="GitHub stats" width="49%" />
+  <img src="./assets/cards/langs-en.svg" alt="Top languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./assets/activity-md.svg" alt="27 public repos · 4 stars · 17 followers · 15 upstream merges" width="100%" />
+</p>
+
+## Pinned work
+
+<p align="center">
+  <img src="./assets/cards/pin-1-en.svg" alt="pinned work" width="32%" />
+  <img src="./assets/cards/pin-2-en.svg" alt="pinned work" width="32%" />
+  <img src="./assets/cards/pin-3-en.svg" alt="pinned work" width="32%" />
+</p>
+
+## Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+  </picture>
+</p>
 
 ## Open source
 
@@ -48,42 +90,29 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — [#1202](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1202) · [#1203](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1203) · [#1206](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1206) — qwen-mt · zhipu errors · line splitting
 - [getmoto/moto](https://github.com/getmoto/moto) — [#10287](https://github.com/getmoto/moto/pull/10287) — EC2 MaxCount
 
-## Numbers
-
-<p align="center">
-  <img src="./assets/stats-en.svg" alt="27 public repos · 4 stars · 17 followers · 15 upstream merges" width="80%" />
-</p>
-
-## Contribution graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-    <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-  </picture>
-</p>
-
 ## Writing
 
-### Latest writing
+| Date | Article |
+|---|---|
+| 2026-09-27 | [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) |
+| 2026-09-25 | [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) |
+| 2026-09-21 | [工作流体检验收：全链路发布完整性验证](https://blog.csdn.net/weixin_56622231/article/details/166254273) |
+| 2026-09-21 | [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) |
+| 2026-09-15 | [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) |
 
-- [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27`
-- [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25`
-- [工作流体检验收：全链路发布完整性验证](https://blog.csdn.net/weixin_56622231/article/details/166254273) · `2026-09-21`
-- [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) · `2026-09-21`
-- [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) · `2026-09-15`
-
-- [CSDN](https://blog.csdn.net/weixin_56622231) · [Juejin](https://juejin.cn/user/2350111542479753)
+<sub>Also on <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> [CSDN](https://blog.csdn.net/weixin_56622231) · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> [Juejin](https://juejin.cn/user/2350111542479753)</sub>
 
 ## Elsewhere
 
 > One identity, five homes — these five accounts mirror the same person.
 
-- **GitHub · [X33834](https://github.com/X33834)** — Upstream OSS · tools and works
-- **GitHub · [Morningstar202604](https://github.com/Morningstar202604)** — Portfolio · long-horizon works ◆ you are here
-- **GitHub · [badhope](https://github.com/badhope)** — Profile · full-stack toolshop
-- **GitCode · [badhope](https://gitcode.com/badhope)** — Mobile dev · offline tools
-- **Gitee · [badhope](https://gitee.com/badhope)** — Mirror · mini-programs
+| | Platform | Account | Role |
+|---|---|---|---|
+| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[X33834](https://github.com/X33834)** | Upstream OSS · tools and works |
+| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[Morningstar202604](https://github.com/Morningstar202604)** | Portfolio · long-horizon works ◆ *you are here* |
+| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[badhope](https://github.com/badhope)** | Profile · full-stack toolshop |
+| <img src="./assets/icons/si-gitcode.svg" width="18" alt="GitCode" /> | GitCode | **[badhope](https://gitcode.com/badhope)** | Mobile dev · offline tools |
+| <img src="./assets/icons/si-gitee.svg" width="18" alt="Gitee" /> | Gitee | **[badhope](https://gitee.com/badhope)** | Mirror · mini-programs |
 
 <p align="center">
   <img src="./assets/footer.svg" alt="" width="100%" />
