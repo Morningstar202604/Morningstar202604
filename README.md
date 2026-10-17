@@ -52,10 +52,6 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
   <img src="./assets/cards/langs-en.svg" alt="Top languages" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./assets/activity-md.svg" alt="46 public repos · 4 stars · 18 followers · 15 upstream merges" width="100%" />
-</p>
-
 ## Pinned work
 
 <p align="center">

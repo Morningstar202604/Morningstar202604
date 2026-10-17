@@ -52,10 +52,6 @@
   <img src="./assets/cards/langs-cn.svg" alt="Top languages" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./assets/activity-zh-CN.svg" alt="46 公开仓库 · 4 累计 Star · 18 关注者 · 15 上游合并" width="100%" />
-</p>
-
 ## 置顶作品
 
 <p align="center">
