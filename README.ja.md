@@ -48,6 +48,11 @@
 ## 数字で見る
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMorningstar202604&query=public_repos&style=flat&label=%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA&labelColor=0E1630&color=D9B876" alt="リポジトリ: Morningstar202604" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMorningstar202604&query=followers&style=flat&label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC&labelColor=0E1630&color=D9B876" alt="フォロワー: Morningstar202604" />
+</p>
+
+<p align="center">
   <img src="./assets/cards/stats-ja.svg" alt="GitHub stats" width="49%" />
   <img src="./assets/cards/langs-ja.svg" alt="Top languages" width="49%" />
 </p>
