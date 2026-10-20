@@ -48,19 +48,24 @@
 | `GITCODE_TOKEN` | 镜像到 GitCode（Basic 鉴权，推送用 `oauth2:TOKEN@`） | 仅 `github/badhope` |
 | `GITEE_TOKEN` | 镜像到 Gitee（推送用 `oauth2:TOKEN@`） | 仅 `github/badhope` |
 
-> 用户提供的令牌即填在这三处（GitHub 仓库用各自的 GITHUB_TOKEN；GitCode/Gitee 令牌填 `github/badhope` 仓库的 `GITCODE_TOKEN` / `GITEE_TOKEN`）。
+> 脚本侧的读取规则：GitHub 读 `GH_<HANDLE>_TOKEN` → `GITHUB_TOKEN`/`GH_TOKEN`；
+> Gitee 读 `GITEE_<HANDLE>_TOKEN` → `GITEE_TOKEN`；GitCode 读 `GITCODE_<HANDLE>_TOKEN` → `GITCODE_TOKEN`。
+> 加平台前缀是因为 `badhope` 在三个平台同名，共用 `GH_<HANDLE>_TOKEN` 会让 Gitee/GitCode 拿到 GitHub 的令牌。
+
+## 4.1 分支保护相关的必需工作流
+
+`badhope/badhope` 的 `main` 启用了保护，要求 `Scan for secrets (gitleaks)` 检查通过。
+因此 `.github/workflows/gitleaks.yml` 与 `.gitleaks.toml` **必须随包存在**，`pack()` 会一并复制。
+删除它们会导致工作流提交与人工推送都被拒绝。
 
 ---
 
 ## 5. 分支保护说明
 
-工作流以 `permissions: contents: write` **直接提交到 `main`**（标准 profile-readme 做法，最省 Actions 额度、保证更新落地）。
+工作流以 `permissions: contents: write` **直接提交到 `main`**。
 
-若你的 `main` 开启了「Require a pull request before merging」等保护规则，直接提交会被拒。两种合规做法：
-1. 对该仓库的 `main` 放开保护（个人主页仓库通常这样做）；或
-2. 在分支保护规则里把「GitHub Actions」bot 加入允许绕过列表。
-
-详见 `BRANCH_PROTECTION.md`（如随包附带）。
+`badhope/badhope` 的 `main` 实际启用了保护并要求 gitleaks 检查，因此该仓库的自动提交会被拒绝，
+需要改为走 PR 合并。其余四个仓库无保护，可直接提交。详见 `BRANCH_PROTECTION.md`。
 
 ---
 

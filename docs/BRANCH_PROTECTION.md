@@ -1,37 +1,52 @@
-# 分支保护：让锁定内容物理不可回滚
+# 分支保护与推送流程
 
-`lock.py` 提供的是「可检测的防篡改」（哈希 + tag）。要让内容「物理上不可回滚/改写」，
-必须叠加 git 分支保护——否则任何人（或刷新工作流）仍可 force-push 覆盖。
+主页仓库的 `main` 可能启用分支保护，直接推送会被拒绝。本文记录实测到的规则与正确推送方式。
 
-## GitHub（gh_badhope / gh_morningstar / gh_x33834）
+## 当前规则（badhope/badhope 实测 2026-10-20）
 
-仓库 Settings → Branches → 给 `main` 添加规则：
+分支保护要求通过以下状态检查：
 
-- [x] Require a pull request before merging
-- [x] Require approvals = 1（或更多）
-- [x] **Do not allow bypassing the above settings**
-- [x] **Require linear history**（禁止强制改写已合入历史）
-- [x] Do not allow force pushes（关键：关掉 force-push）
-- [x] Do not allow deletions of this branch
-- [ ] 允许刷新机器人自批自合（务必关掉，否则自动合并等于无保护）
-
-效果：刷新 PR 必须人工审核；`lock-*` tag 指向的提交落在受保护历史上，无法被改写或删除。
-`refresh.yml` 的 `mirror` 作业改用 **oauth2 token** 推送（普通 push，非 force），受保护分支会拒绝
-未审核的强制推送，因此 GitCode/Gitee 镜像也会保持与已审核的 main 一致。
-
-## GitCode / Gitee
-
-两平台原生分支保护较弱，依赖「镜像来自受保护 GitHub main」这一事实：只有审核过的 main
-才会被 `mirror` 作业推过去。请勿在 GitCode/Gitee 侧手动改 main，也不要把它们的 token 用于
-任何自动回写脚本。
-
-## 验证
-
-```bash
-# 本地：篡改后能否被 lock.py 发现
-python3 scripts/lock.py --verify
-# 期望：verify: DRIFT detected ... MODIFIED <file>
-
-# 远端：尝试 force-push 应被拒绝
-git push --force origin main   # 期望：remote rejected (protected branch)
 ```
+Required status check "Scan for secrets (gitleaks)" is expected.
+```
+
+直接 `git push origin main` 会被远端以 `protected branch hook declined` 拒绝。
+
+因此 **`gitleaks.yml` 与 `.gitleaks.toml` 必须存在于仓库中**。它们是分支保护的一部分，
+不是可清理的历史残留。`generate.py` 的 `pack()` 已把两者随包携带；删除会导致 main 无法推送。
+
+## 正确流程
+
+1. 推送功能分支：
+
+   ```bash
+   git checkout -b fix/whatever
+   git push origin fix/whatever
+   ```
+
+2. 开 PR 到 `main`，让 gitleaks 在 PR 上跑（工作流订阅了 `pull_request`）。
+
+3. 检查通过后合并。
+
+## 各平台差异（实测）
+
+| 平台 | main 保护 | 推送方式 |
+|---|---|---|
+| GitHub `badhope/badhope` | 有（gitleaks 必需检查） | 必须走 PR；直推被拒 |
+| GitHub `X33834/X33834` | 无 | 可直接推 main |
+| GitHub `Morningstar202604/...` | 无 | 可直接推 main |
+| GitCode `badhope/badhope` | 无 | 直接推 main |
+| Gitee `badhope/badhope` | 无 | 直接推 main |
+
+## 凭据与权限边界
+
+- 创建 PR 需要 token 具备 **Pull requests: write**。缺少该权限时
+  `POST /repos/{owner}/{repo}/pulls` 返回 `Resource not accessible by personal access token`。
+- 推送分支（`git push origin <branch>`）只需 `contents: write`。
+- 补权限：给 classic PAT 勾选完整 `repo` 范围，或新建仅授予 `Pull requests: write` 的 fine-grained token。
+
+## 关于旧的 lock/freeze 方案
+
+早期尝试过「哈希 manifest + git tag + 冻结徽章 + PNG 快照」的内容锁定方案，已被
+「分区动态刷新」取代。三个脚本保留在 `scripts/_deprecated/` 仅作参考，
+**不参与任何线上流程**，也不应被打包进部署仓库。
