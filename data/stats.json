@@ -1,6 +1,6 @@
 {
   "as_of": "2026-10-20",
-  "source": "manual verified 2026-10-20 (GitHub via proxy / GitCode+API / Gitee API)",
+  "source": "scripts/refresh_sections.py",
   "accounts": {
     "gh_x33834": {
       "repos": 28,
