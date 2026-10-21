@@ -40,11 +40,14 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 
 ## Selected work
 
-<p align="center">
-  <img src="./assets/works-md.svg" alt="Selected work" width="100%" />
-</p>
-
-<p align="center"><sub><a href="https://github.com/Morningstar202604/novel-engine">Novel Engine</a> · <a href="https://github.com/Morningstar202604/KeBaiPay">KeBaiPay 科佰收单</a> · <a href="https://github.com/Morningstar202604/p2wlan">p2wlan</a> · <a href="https://github.com/Morningstar202604/xiaoman">Xiaoman 小满</a> · <a href="https://github.com/Morningstar202604/shopcash">ShopCash 店收宝</a> · <a href="https://github.com/Morningstar202604/sciflow">SciFlow</a> · <a href="https://github.com/Morningstar202604/spark">Spark</a></sub></p>
+| Project | Stars | Updated |
+| --- | --- | --- |
+| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-21 |
+| [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-21 |
+| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/Morningstar202604/mashang) | 0 | 2026-10-21 |
+| [world-walker — World Walker — an AI-driven text interactive fiction…](https://github.com/Morningstar202604/world-walker) | 0 | 2026-10-21 |
+| [xiaoman — Xiaoman (小满) — a conversation-first, local-first personal…](https://github.com/Morningstar202604/xiaoman) | 0 | 2026-10-21 |
+| [zhike — 知客 Zhike — 知识问答平台](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-21 |
 
 All public repositories: [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
@@ -52,7 +55,8 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMorningstar202604&query=public_repos&style=flat&label=repos&labelColor=0E1630&color=D9B876" alt="repos: Morningstar202604" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMorningstar202604&query=followers&style=flat&label=followers&labelColor=0E1630&color=D9B876" alt="followers: Morningstar202604" />
+  <img src="https://img.shields.io/github/stars/Morningstar202604?style=flat&labelColor=0E1630&color=D9B876" alt="stars: Morningstar202604" />
+  <img src="https://img.shields.io/github/followers/Morningstar202604?style=flat&labelColor=0E1630&color=D9B876" alt="followers: Morningstar202604" />
 </p>
 
 <p align="center">
