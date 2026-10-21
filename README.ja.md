@@ -44,10 +44,10 @@
 | --- | --- | --- |
 | [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-21 |
 | [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-21 |
+| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-21 |
+| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/Morningstar202604/GlobalEcom-AI) | 0 | 2026-10-21 |
 | [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/Morningstar202604/mashang) | 0 | 2026-10-21 |
 | [world-walker — World Walker — an AI-driven text interactive fiction…](https://github.com/Morningstar202604/world-walker) | 0 | 2026-10-21 |
-| [xiaoman — Xiaoman (小满) — a conversation-first, local-first personal…](https://github.com/Morningstar202604/xiaoman) | 0 | 2026-10-21 |
-| [zhike — 知客 Zhike — 知识问答平台](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-21 |
 
 全公開リポジトリ： [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
