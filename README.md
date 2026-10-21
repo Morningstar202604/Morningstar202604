@@ -1,7 +1,10 @@
 [English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md)
 
 <p align="center">
+  <picture>
+  <source type="image/png" srcset="./assets/png/hero.png" />
   <img src="./assets/hero.svg" alt="Morningstar202604 · github.com/Morningstar202604" width="100%" />
+  </picture>
 </p>
 
 <p align="center"><i>Code under the stars, ship with the dawn.</i></p>
@@ -69,8 +72,8 @@ All public repositories: [github.com/Morningstar202604](https://github.com/Morni
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-    <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
   </picture>
 </p>
 
