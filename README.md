@@ -42,12 +42,12 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-21 |
-| [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-21 |
-| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-21 |
-| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/Morningstar202604/GlobalEcom-AI) | 0 | 2026-10-21 |
-| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/Morningstar202604/mashang) | 0 | 2026-10-21 |
-| [world-walker — World Walker — an AI-driven text interactive fiction…](https://github.com/Morningstar202604/world-walker) | 0 | 2026-10-21 |
+| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-22 |
+| [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-22 |
+| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-22 |
+| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/Morningstar202604/GlobalEcom-AI) | 0 | 2026-10-22 |
+| [melee — melee 转播台 — AI 对抗赛事转播层：6 种确定性赛制、实时 SSE、回放、导播、事实校验战报、高光渲染 ·…](https://github.com/Morningstar202604/melee) | 0 | 2026-10-22 |
+| [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/Morningstar202604/sciflow) | 0 | 2026-10-22 |
 
 All public repositories: [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
