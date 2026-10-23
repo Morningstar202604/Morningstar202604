@@ -42,12 +42,12 @@
 
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
-| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-22 |
-| [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-22 |
-| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-22 |
-| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/Morningstar202604/GlobalEcom-AI) | 0 | 2026-10-22 |
-| [melee — melee 转播台 — AI 对抗赛事转播层：6 种确定性赛制、实时 SSE、回放、导播、事实校验战报、高光渲染 ·…](https://github.com/Morningstar202604/melee) | 0 | 2026-10-22 |
-| [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/Morningstar202604/sciflow) | 0 | 2026-10-22 |
+| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-23 |
+| [aquapilot — AI-operated wastewater treatment plant simulator. Topol…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-23 |
+| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-23 |
+| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 0 | 2026-10-23 |
+| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/Morningstar202604/GlobalEcom-AI) | 0 | 2026-10-23 |
+| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/Morningstar202604/mashang) | 0 | 2026-10-23 |
 
 全公開リポジトリ： [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
