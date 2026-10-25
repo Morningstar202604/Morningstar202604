@@ -42,12 +42,12 @@
 
 | 项目 | 星标 | 最近更新 |
 | --- | --- | --- |
+| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-25 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-25 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-25 |
+| [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/Morningstar202604/sciflow) | 0 | 2026-10-25 |
+| [spark — Spark v0.9.6 — self-hosted AI coding agent harness: cockpit…](https://github.com/Morningstar202604/spark) | 0 | 2026-10-25 |
 | [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-24 |
-| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-24 |
-| [campushub — CampusHub — 校园服务平台](https://github.com/Morningstar202604/campushub) | 0 | 2026-10-24 |
-| [creator-studio — 稿台 Creator Studio: 本地优先的创作者 AI 制片台（选题→资料→脚本→分镜→包装→…](https://github.com/Morningstar202604/creator-studio) | 0 | 2026-10-24 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-24 |
-| [Flow — Flow · AI 原生跨境出口电商平台｜买家商城 + 卖家 AI 工作台，5 个真实 LLM Agent、人工审批式运…](https://github.com/Morningstar202604/Flow) | 0 | 2026-10-24 |
 
 全部公开仓库： [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
