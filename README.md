@@ -42,12 +42,12 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 
 | Project | Stars | Updated |
 | --- | --- | --- |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-26 |
+| [zhike — Zhike — self-hosted agent harness for personal assistants:…](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-26 |
 | [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-25 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-25 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-25 |
 | [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/Morningstar202604/sciflow) | 0 | 2026-10-25 |
 | [spark — Spark v0.9.6 — self-hosted AI coding agent harness: cockpit…](https://github.com/Morningstar202604/spark) | 0 | 2026-10-25 |
-| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-10-24 |
 
 All public repositories: [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
