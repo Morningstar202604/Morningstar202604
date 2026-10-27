@@ -42,12 +42,12 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-26 |
-| [zhike — Zhike — self-hosted agent harness for personal assistants:…](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-26 |
+| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 0 | 2026-10-27 |
+| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-10-27 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-27 |
+| [zhike — Zhike — self-hosted agent harness for personal assistants:…](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-27 |
 | [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-25 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-25 |
-| [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/Morningstar202604/sciflow) | 0 | 2026-10-25 |
-| [spark — Spark v0.9.6 — self-hosted AI coding agent harness: cockpit…](https://github.com/Morningstar202604/spark) | 0 | 2026-10-25 |
 
 All public repositories: [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
