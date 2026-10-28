@@ -42,12 +42,12 @@
 
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
+| [agent-work-contract — Portable AI working contract: rules, 71 skill…](https://github.com/Morningstar202604/agent-work-contract) | 0 | 2026-10-28 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-28 |
+| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-10-28 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-28 |
+| [zhike — Self-hosted agent harness for personal assistants: OpenAI f…](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-28 |
 | [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 0 | 2026-10-27 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-10-27 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-27 |
-| [zhike — Zhike — self-hosted agent harness for personal assistants:…](https://github.com/Morningstar202604/zhike) | 0 | 2026-10-27 |
-| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-10-25 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-25 |
 
 全公開リポジトリ： [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
