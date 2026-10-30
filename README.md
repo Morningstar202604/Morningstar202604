@@ -42,8 +42,8 @@ Long-horizon projects live here — a novel-writing engine, a compliant payments
 
 | Project | Stars | Updated |
 | --- | --- | --- |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-30 |
 | [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 1 | 2026-10-29 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 0 | 2026-10-29 |
 | [rules — Portable AI working contract: rules, 71 skills, 220 subagen…](https://github.com/Morningstar202604/rules) | 0 | 2026-10-29 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-10-28 |
 | [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-10-28 |
