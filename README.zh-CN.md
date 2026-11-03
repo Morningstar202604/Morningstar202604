@@ -42,12 +42,12 @@
 
 | 项目 | 星标 | 最近更新 |
 | --- | --- | --- |
-| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 1 | 2026-11-02 |
-| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-11-02 |
-| [content-harbor — Self-hosted AI publishing hub - write once, ship t…](https://github.com/Morningstar202604/content-harbor) | 0 | 2026-11-02 |
-| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/Morningstar202604/creator-studio) | 0 | 2026-11-02 |
-| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/Morningstar202604/DU) | 0 | 2026-11-02 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-11-02 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 1 | 2026-11-03 |
+| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/Morningstar202604/workbench) | 1 | 2026-11-03 |
+| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/Morningstar202604/aquapilot) | 0 | 2026-11-03 |
+| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/Morningstar202604/creator-studio) | 0 | 2026-11-03 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/Morningstar202604/digilegacy) | 0 | 2026-11-03 |
+| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/Morningstar202604/DU) | 0 | 2026-11-03 |
 
 全部公开仓库： [github.com/Morningstar202604](https://github.com/Morningstar202604)
 
