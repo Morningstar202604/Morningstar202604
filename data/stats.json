@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "source": "scripts/refresh_sections.py",
   "accounts": {
     "gh_x33834": {
@@ -15,10 +15,10 @@
       "merged": 16
     },
     "gh_badhope": {
-      "repos": 31,
+      "repos": 34,
       "stars": 252,
       "followers": 22,
-      "merged": 25
+      "merged": 31
     },
     "gitcode_badhope": {
       "repos": 26,

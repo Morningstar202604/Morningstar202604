@@ -1,11 +1,43 @@
 {
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "source": "scripts/discover_works.py",
   "accounts": {
     "gh_x33834": {
       "platform": "github",
       "handle": "X33834",
       "repos": [
+        {
+          "name": "world-walker",
+          "title": "world-walker",
+          "url": "https://github.com/X33834/world-walker",
+          "stars": 1,
+          "updated": "2026-11-05",
+          "desc": "World Games - the rules layer for AI-driven interactive games. Deterministic rule engine, 64 MCP tools, context ledger, save library, read-only bilingual live stage. Python standard library only."
+        },
+        {
+          "name": "mashang",
+          "title": "mashang",
+          "url": "https://github.com/X33834/mashang",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(Rhino)，38 讲 + 17 讲扩展、assert 判题、变量快照；同源网页版可直接试玩。Android 7.0+ · Kotlin · MIT"
+        },
+        {
+          "name": "moneyhelper",
+          "title": "moneyhelper",
+          "url": "https://github.com/X33834/moneyhelper",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、股票投研、财报分析、策略回测、团队模拟盘。FastAPI + LangGraph + React，本地优先、数字可复核、MCP 开放。"
+        },
+        {
+          "name": "no-money",
+          "title": "no-money",
+          "url": "https://github.com/X33834/no-money",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Income, tax, social-insurance and labor-rights calculator for China gig workers. Offline-first, no backend, no telemetry, per-field data provenance. 34 cities across 31 provinces."
+        },
         {
           "name": "harbor",
           "title": "harbor",
@@ -15,44 +47,12 @@
           "desc": "Self-hosted AI publishing hub - write once, ship to 15 platforms, keep every copy in sync."
         },
         {
-          "name": "world-walker",
-          "title": "world-walker",
-          "url": "https://github.com/X33834/world-walker",
-          "stars": 1,
-          "updated": "2026-11-04",
-          "desc": "World Games - the rules layer for AI-driven interactive games. Deterministic rule engine, 64 MCP tools, context ledger, save library, read-only bilingual live stage. Python standard library only."
-        },
-        {
           "name": "aquapilot",
           "title": "aquapilot",
           "url": "https://github.com/X33834/aquapilot",
           "stars": 0,
           "updated": "2026-11-04",
           "desc": "Topology-driven wastewater simulation prototype with an AI operator, ASM1 + Takacs water train, auditable guardrails, experimental calibration/EKF, and standalone ASM2d/ADM1 models. Not a design-grade or field-control system."
-        },
-        {
-          "name": "creator-studio",
-          "title": "creator-studio",
-          "url": "https://github.com/X33834/creator-studio",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "Local-first AI production desk for solo creators: video, novels, podcasts, courses. Scenario packs, approval-gated tools, contract-checked artifacts. Tauri + React + Fastify."
-        },
-        {
-          "name": "digilegacy",
-          "title": "digilegacy",
-          "url": "https://github.com/X33834/digilegacy",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "DigiLegacy 归零 — open-source, local-first digital legacy & digital inheritance manager. 150+ platform policy DB, AES-256-GCM field-level encryption, dead man's switch with three-stage chain. Tauri 2 + Rust + Vue 3. No servers, no telemetry."
-        },
-        {
-          "name": "DU",
-          "title": "DU",
-          "url": "https://github.com/X33834/DU",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "Tianji (DU) — a local-only Chinese metaphysics master arena. Two verified schools answer one question, you score blind, then methods are revealed and dated claims are tracked on your own device. No backend, no upload, no telemetry; 12 public-domain classics (1.87M chars) ship in-repo with verbatim citation checking. | 天机台：不上传数据的本地玄学大师测评平台。"
         }
       ]
     },
@@ -60,6 +60,38 @@
       "platform": "github",
       "handle": "Morningstar202604",
       "repos": [
+        {
+          "name": "mashang",
+          "title": "mashang",
+          "url": "https://github.com/Morningstar202604/mashang",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(Rhino)，38 讲 + 17 讲扩展、assert 判题、变量快照；同源网页版可直接试玩。Android 7.0+ · Kotlin · MIT"
+        },
+        {
+          "name": "moneyhelper",
+          "title": "moneyhelper",
+          "url": "https://github.com/Morningstar202604/moneyhelper",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、股票投研、财报分析、策略回测、团队模拟盘。FastAPI + LangGraph + React，本地优先、数字可复核、MCP 开放。"
+        },
+        {
+          "name": "no-money",
+          "title": "no-money",
+          "url": "https://github.com/Morningstar202604/no-money",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Income, tax, social-insurance and labor-rights calculator for China gig workers. Offline-first, no backend, no telemetry, per-field data provenance. 34 cities across 31 provinces."
+        },
+        {
+          "name": "world-walker",
+          "title": "world-walker",
+          "url": "https://github.com/Morningstar202604/world-walker",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "World Games - the rules layer for AI-driven interactive games. Deterministic rule engine, 64 MCP tools, context ledger, save library, read-only bilingual live stage. Python standard library only."
+        },
         {
           "name": "EQ-Worker",
           "title": "EQ-Worker",
@@ -75,38 +107,6 @@
           "stars": 1,
           "updated": "2026-11-04",
           "desc": "ScholarHub — 期刊/预印本平台"
-        },
-        {
-          "name": "workbench",
-          "title": "workbench",
-          "url": "https://github.com/Morningstar202604/workbench",
-          "stars": 1,
-          "updated": "2026-11-04",
-          "desc": "Workbench - a local-first desktop workbench (Tauri 2 + React 19): live process / port / dev-server visibility + AI session token cost metering. All data stays on-device. MIT licensed."
-        },
-        {
-          "name": "aquapilot",
-          "title": "aquapilot",
-          "url": "https://github.com/Morningstar202604/aquapilot",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "Topology-driven wastewater simulation prototype with an AI operator, ASM1 + Takacs water train, auditable guardrails, experimental calibration/EKF, and standalone ASM2d/ADM1 models. Not a design-grade or field-control system."
-        },
-        {
-          "name": "creator-studio",
-          "title": "creator-studio",
-          "url": "https://github.com/Morningstar202604/creator-studio",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "Local-first AI production desk for solo creators: video, novels, podcasts, courses. Scenario packs, approval-gated tools, contract-checked artifacts. Tauri + React + Fastify."
-        },
-        {
-          "name": "digilegacy",
-          "title": "digilegacy",
-          "url": "https://github.com/Morningstar202604/digilegacy",
-          "stars": 0,
-          "updated": "2026-11-04",
-          "desc": "DigiLegacy 归零 — open-source, local-first digital legacy & digital inheritance manager. 150+ platform policy DB, AES-256-GCM field-level encryption, dead man's switch with three-stage chain. Tauri 2 + Rust + Vue 3. No servers, no telemetry."
         }
       ]
     },
@@ -119,8 +119,40 @@
           "title": "moneyhelper",
           "url": "https://github.com/badhope/moneyhelper",
           "stars": 92,
-          "updated": "2026-11-04",
+          "updated": "2026-11-05",
           "desc": "Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、股票投研、财报分析、策略回测、团队模拟盘。FastAPI + LangGraph + React，本地优先、数字可复核、MCP 开放。"
+        },
+        {
+          "name": "world-walker",
+          "title": "world-walker",
+          "url": "https://github.com/badhope/world-walker",
+          "stars": 18,
+          "updated": "2026-11-05",
+          "desc": "World Games - the rules layer for AI-driven interactive games. Deterministic rule engine, 64 MCP tools, context ledger, save library, read-only bilingual live stage. Python standard library only."
+        },
+        {
+          "name": "mashang",
+          "title": "mashang",
+          "url": "https://github.com/badhope/mashang",
+          "stars": 9,
+          "updated": "2026-11-05",
+          "desc": "码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(Rhino)，38 讲 + 17 讲扩展、assert 判题、变量快照；同源网页版可直接试玩。Android 7.0+ · Kotlin · MIT"
+        },
+        {
+          "name": "Flow",
+          "title": "Flow",
+          "url": "https://github.com/badhope/Flow",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Flow · AI 原生跨境出口电商平台｜买家商城 + 卖家 AI 工作台，5 个真实 LLM Agent、人工审批式运营副驾、真实支付与退款闭环。TypeScript 全栈开源。"
+        },
+        {
+          "name": "no-money",
+          "title": "no-money",
+          "url": "https://github.com/badhope/no-money",
+          "stars": 0,
+          "updated": "2026-11-05",
+          "desc": "Income, tax, social-insurance and labor-rights calculator for China gig workers. Offline-first, no backend, no telemetry, per-field data provenance. 34 cities across 31 provinces."
         },
         {
           "name": "workbench",
@@ -129,38 +161,6 @@
           "stars": 49,
           "updated": "2026-11-04",
           "desc": "Workbench - a local-first desktop workbench (Tauri 2 + React 19): live process / port / dev-server visibility + AI session token cost metering. All data stays on-device. MIT licensed."
-        },
-        {
-          "name": "spark",
-          "title": "spark",
-          "url": "https://github.com/badhope/spark",
-          "stars": 21,
-          "updated": "2026-11-04",
-          "desc": "Spark — local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel observability. 本地自托管的 AI 编程智能体。"
-        },
-        {
-          "name": "world-walker",
-          "title": "world-walker",
-          "url": "https://github.com/badhope/world-walker",
-          "stars": 18,
-          "updated": "2026-11-04",
-          "desc": "World Games - the rules layer for AI-driven interactive games. Deterministic rule engine, 64 MCP tools, context ledger, save library, read-only bilingual live stage. Python standard library only."
-        },
-        {
-          "name": "sciflow",
-          "title": "sciflow",
-          "url": "https://github.com/badhope/sciflow",
-          "stars": 12,
-          "updated": "2026-11-04",
-          "desc": "SciFlow - local-first multi-agent research workbench: from research topic to submittable manuscript, with deterministic quality gates, traceable citations and a fully observable pipeline. NestJS + React + LangGraph, one SQLite file, bring your own model."
-        },
-        {
-          "name": "DU",
-          "title": "DU",
-          "url": "https://github.com/badhope/DU",
-          "stars": 11,
-          "updated": "2026-11-04",
-          "desc": "Tianji (DU) — a local-only Chinese metaphysics master arena. Two verified schools answer one question, you score blind, then methods are revealed and dated claims are tracked on your own device. No backend, no upload, no telemetry; 12 public-domain classics (1.87M chars) ship in-repo with verbatim citation checking. | 天机台：不上传数据的本地玄学大师测评平台。"
         }
       ]
     },
@@ -223,20 +223,36 @@
       "handle": "badhope",
       "repos": [
         {
-          "name": "melee",
-          "title": "badhope/melee",
-          "url": "https://gitee.com/badhope/melee",
+          "name": "moneyhelper",
+          "title": "badhope/moneyhelper",
+          "url": "https://gitee.com/badhope/moneyhelper",
           "stars": 0,
-          "updated": "2026-11-05",
-          "desc": "Self-hosted broadcast studio for AI matches. One append-only event stream drives live view, replay, directing, audited recaps and highlights. 12 deterministic game types, bilingual UI, CLI + portable exe, MCP/A2A/webhooks."
+          "updated": "2026-11-06",
+          "desc": "Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、股票投研、财报分析、策略回测、团队模拟盘。FastAPI + LangGraph + React，本地优先、数字可复核、MCP 开放。"
         },
         {
-          "name": "creator-studio",
-          "title": "badhope/creator-studio",
-          "url": "https://gitee.com/badhope/creator-studio",
+          "name": "rubbish",
+          "title": "badhope/rubbish",
+          "url": "https://gitee.com/badhope/rubbish",
+          "stars": 0,
+          "updated": "2026-11-06",
+          "desc": "ScholarHub — 期刊/预印本平台"
+        },
+        {
+          "name": "sciflow",
+          "title": "badhope/sciflow",
+          "url": "https://gitee.com/badhope/sciflow",
+          "stars": 0,
+          "updated": "2026-11-06",
+          "desc": "SciFlow - local-first multi-agent research workbench: from research topic to submittable manuscript, with deterministic quality gates, traceable citations and a fully observable pipeline. NestJS + React + LangGraph, one SQLite file, bring your own model."
+        },
+        {
+          "name": "EQ-Worker",
+          "title": "badhope/EQ-Worker",
+          "url": "https://gitee.com/badhope/EQ-Worker",
           "stars": 0,
           "updated": "2026-11-05",
-          "desc": "Local-first AI production desk for solo creators: video, novels, podcasts, courses. Scenario packs, approval-gated tools, contract-checked artifacts. Tauri + React + Fastify."
+          "desc": "EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v3.0.0"
         },
         {
           "name": "world-walker",
@@ -253,22 +269,6 @@
           "stars": 0,
           "updated": "2026-11-05",
           "desc": "码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(Rhino)，38 讲 + 17 讲扩展、assert 判题、变量快照；同源网页版可直接试玩。Android 7.0+ · Kotlin · MIT"
-        },
-        {
-          "name": "DU",
-          "title": "badhope/DU",
-          "url": "https://gitee.com/badhope/DU",
-          "stars": 0,
-          "updated": "2026-11-05",
-          "desc": "Tianji (DU) — local-only Chinese metaphysics master arena: two verified schools answer the same question, you score blind, then methods are revealed and dated claims tracked locally. No backend, no upload, no telemetry. 天机台：不上传数据的本地玄学大师测评平台。"
-        },
-        {
-          "name": "moneyhelper",
-          "title": "badhope/moneyhelper",
-          "url": "https://gitee.com/badhope/moneyhelper",
-          "stars": 0,
-          "updated": "2026-11-05",
-          "desc": "Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、股票投研、财报分析、策略回测、团队模拟盘。FastAPI + LangGraph + React，本地优先、数字可复核、MCP 开放。"
         }
       ]
     }
