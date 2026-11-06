@@ -1,129 +1,69 @@
-[English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md)
+<p align="right"><sub>[English](README.md) · [中文](README.zh-CN.md) · <b>日本語</b></sub></p>
 
-<p align="center">
-  <picture>
-  <source type="image/png" srcset="./assets/png/hero.png" />
-  <img src="./assets/hero.svg" alt="Morningstar202604 · github.com/Morningstar202604" width="100%" />
-  </picture>
-</p>
+<p align="center"><img src="assets/taiji.svg" alt="taiji" width="220" /></p>
 
-<p align="center"><i>星を観て、コードを舟に。</i></p>
+<p align="center"><img src="assets/hero-ja.svg" alt="Morningstar202604 · github.com/Morningstar202604" width="100%" /></p>
 
-<p align="center"><sub>Slow is smooth, and smooth is fast.</sub></p>
+<p align="center"><img src="assets/typing-ja.svg" alt="typing" width="100%" /></p>
 
-<table border="0">
-<tr>
-<td valign="top" width="58%">
+## いま
 
-### について
+- **moneyhelper** と **spark** を長期で育てる
+- 上流実績：ohmyzsh · icalendar · claude-tool-agent · NUR · tldr
+- エージェントとローカルファースト AI の工程記録を執筆
 
-長期プロジェクトの拠点 — 小説エンジン、決済収単、P2P ネットワーキング。ドキュメント優先・監査優先で育てています。ohmyzsh・tldr・icalendar・NUR などにマージ実績あり。
+## 代表作
 
-</td>
-<td valign="top" width="42%">
+<p align="center"><a href="https://github.com/badhope/moneyhelper"><img src="assets/work-1-ja.svg" alt="moneyhelper" width="49.2%" /></a> <a href="https://github.com/badhope/spark"><img src="assets/work-2-ja.svg" alt="spark" width="49.2%" /></a></p>
 
-### 近況
+<p align="center"><a href="https://github.com/badhope/workbench"><img src="assets/work-3-ja.svg" alt="workbench" width="49.2%" /></a> <a href="https://github.com/Morningstar202604/sciflow"><img src="assets/work-4-ja.svg" alt="sciflow" width="49.2%" /></a></p>
 
-- Novel Engine の一貫性監査を反復改良
-- KeBaiPay の照合モジュール
-- 上流 PR をレビュー中 — ohmyzsh・moto・PDFMathTranslate
+> その他の作品：[sciflow](https://github.com/Morningstar202604/sciflow) · [world-walker](https://github.com/Morningstar202604/world-walker) · [digilegacy](https://github.com/Morningstar202604/digilegacy) · [harbor](https://github.com/Morningstar202604/harbor) · [creator-studio](https://github.com/Morningstar202604/creator-studio)
 
-</td>
-</tr>
-</table>
+## アクティビティ
 
-## 道具箱
-
-<p align="center">
-  <img src="./assets/skills-ja.svg" alt="道具箱" width="100%" />
-</p>
-
-## 主な作品
-
-| プロジェクト | スター | 更新日 |
-| --- | --- | --- |
-| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(R…](https://github.com/Morningstar202604/mashang) | 0 | 2026-11-05 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/Morningstar202604/moneyhelper) | 0 | 2026-11-05 |
-| [no-money — Income, tax, social-insurance and labor-rights calculato…](https://github.com/Morningstar202604/no-money) | 0 | 2026-11-05 |
-| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/Morningstar202604/world-walker) | 0 | 2026-11-05 |
-| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/Morningstar202604/EQ-Worker) | 1 | 2026-11-04 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/Morningstar202604/rubbish) | 1 | 2026-11-04 |
-
-全公開リポジトリ： [github.com/Morningstar202604](https://github.com/Morningstar202604)
-
-## 数字で見る
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMorningstar202604&query=public_repos&style=flat&label=%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA&labelColor=0E1630&color=D9B876" alt="リポジトリ: Morningstar202604" />
-  <img src="https://img.shields.io/github/stars/Morningstar202604?style=flat&labelColor=0E1630&color=D9B876" alt="累計スター: Morningstar202604" />
-  <img src="https://img.shields.io/github/followers/Morningstar202604?style=flat&labelColor=0E1630&color=D9B876" alt="フォロワー: Morningstar202604" />
-</p>
-
-<p align="center">
-  <img src="./assets/cards/stats-ja.svg" alt="GitHub stats" width="49%" />
-  <img src="./assets/cards/langs-ja.svg" alt="Top languages" width="49%" />
-</p>
-
-## ピン留め作品
-
-<p align="center">
-  <img src="./assets/cards/pin-1-ja.svg" alt="pinned work" width="32%" />
-  <img src="./assets/cards/pin-2-ja.svg" alt="pinned work" width="32%" />
-  <img src="./assets/cards/pin-3-ja.svg" alt="pinned work" width="32%" />
-</p>
-
-## コントリビューション
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-  <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Morningstar202604/Morningstar202604/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Morningstar202604/Morningstar202604/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
+</picture>
 
 ## オープンソース
 
-**上流マージ済み**
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — [#14006](https://github.com/ohmyzsh/ohmyzsh/pull/14006) · [#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) · [#14027](https://github.com/ohmyzsh/ohmyzsh/pull/14027) — git locale · pipenv activation · aws stderr
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — [#23780](https://github.com/tldr-pages/tldr/pull/23780) — doctl pages
-- [collective/icalendar](https://github.com/collective/icalendar) — [#1731](https://github.com/collective/icalendar/pull/1731) · [#1750](https://github.com/collective/icalendar/pull/1750) · [#1751](https://github.com/collective/icalendar/pull/1751) — public exports · deprecations · TYPE_CHECKING
-- [nix-community/NUR](https://github.com/nix-community/NUR) — [#1220](https://github.com/nix-community/NUR/pull/1220) — SSL errors treated as transient
-- [jaychouchannel/claude-tool-agent](https://github.com/jaychouchannel/claude-tool-agent) — [#30](https://github.com/jaychouchannel/claude-tool-agent/pull/30) · [#31](https://github.com/jaychouchannel/claude-tool-agent/pull/31) · [#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) · [#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) · [#35](https://github.com/jaychouchannel/claude-tool-agent/pull/35) — mention parsing · markdown safety
-- [Hydrooxzgen/EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) — [#12](https://github.com/Hydrooxzgen/EnderBridge/pull/12) — docs: Message mod
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) — [#13011](https://github.com/deepset-ai/haystack/pull/13011) — docs: merge_super_component_pipelines
+| Upstream | Record |
+| --- | --- |
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 3 merged · 3 under review |
+| [renovate-operator](https://github.com/mogenius/renovate-operator) | 1 merged · 1 under review |
+| [icalendar](https://github.com/python-icalendar/icalendar) | 3 merged |
+| [apache/airflow](https://github.com/apache/airflow) | 1 merged |
+| [betterleaks · lefthook · scrapy](https://github.com/betterleaks/betterleaks) | under review |
 
-**レビュー中**
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — [#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) · [#14141](https://github.com/ohmyzsh/ohmyzsh/pull/14141) · [#14148](https://github.com/ohmyzsh/ohmyzsh/pull/14148) · [#14149](https://github.com/ohmyzsh/ohmyzsh/pull/14149) — diagnose locale · vi-mode · extract · dirhistory
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) — [#621](https://github.com/funstory-ai/BabelDOC/pull/621) · [#623](https://github.com/funstory-ai/BabelDOC/pull/623) — translator guards
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — [#1202](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1202) · [#1203](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1203) · [#1206](https://github.com/PDFMathTranslate/PDFMathTranslate/pull/1206) — qwen-mt · zhipu errors · line splitting
-- [getmoto/moto](https://github.com/getmoto/moto) — [#10287](https://github.com/getmoto/moto/pull/10287) — EC2 MaxCount
+<sub>このアカウントと [badhope](https://github.com/badhope) / [X33834](https://github.com/X33834) にまたがる記録。</sub>
 
-## 執筆
-
-| 日付 | 記事 |
-|---|---|
-| 2026-11-04 | [把 AI Agent 接进业务系统，我踩了3 个挺蠢的坑](https://blog.csdn.net/weixin_56622231/article/details/170051167) |
-| 2026-10-18 | [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657) |
-| 2026-10-16 | [MCP 落地一年，我总结了 6 个没人告诉你的工程真相](https://zhuanlan.zhihu.com/p/2094232145015453253) |
-| 2026-10-16 | [本地优先 AI：当所有人都在上云，我为什么把 AI 装回自己电脑](https://zhuanlan.zhihu.com/p/2094233605513991576) |
-| 2026-10-16 | [AI Agent 上线前必须过的 5 道关：一个真实项目的工程手记](https://zhuanlan.zhihu.com/p/2094218858789856836) |
-
-<sub>同時掲載 <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> <a href="https://blog.csdn.net/weixin_56622231">CSDN</a> · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> <a href="https://juejin.cn/user/2350111542479753">Juejin</a> · <img src="./assets/icons/si-zhihu.svg" width="15" alt="Zhihu" /> <a href="https://www.zhihu.com/people/e7c851hd">Zhihu</a></sub>
-
-## ほかの場所
-
-> 同一人物の5つの拠点 — これらのアカウントは同じ人のミラーです。
-
-| | プラットフォーム | アカウント | 役割 |
-|---|---|---|---|
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[X33834](https://github.com/X33834)** | 上流 OSS · ツールと作品 |
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[Morningstar202604](https://github.com/Morningstar202604)** | ポートフォリオ · 長期プロジェクト ◆ *現在地* |
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[badhope](https://github.com/badhope)** | プロフィール · ツール小屋 |
-| <img src="./assets/icons/si-gitcode.svg" width="18" alt="GitCode" /> | GitCode | **[badhope](https://gitcode.com/badhope)** | モバイル開発 · オフラインツール |
-| <img src="./assets/icons/si-gitee.svg" width="18" alt="Gitee" /> | Gitee | **[badhope](https://gitee.com/badhope)** | ミラー · ミニアプリ |
+## データ
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="" width="100%" />
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=badhope&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=github_dark" /><img height="165" src="https://github-readme-stats.vercel.app/api?username=badhope&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" /></picture></a>
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=badhope&amp;hide_border=true&amp;border_radius=0&amp;background=0D1117&amp;border=30363D&amp;stroke=4F46E5&amp;ring=A5B4FC&amp;fire=D9B876&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E" /><img height="165" src="https://streak-stats.demolab.com?user=badhope&amp;hide_border=true&amp;border_radius=0" alt="GitHub streak" /></picture></a>
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=badhope&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=github_dark" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhope&amp;layout=compact&amp;hide_border=true&amp;langs_count=8" alt="Top languages" /></picture></a>
 </p>
 
-<p align="center"><sub>© Morningstar202604</sub></p>
+## 書きもの
+
+- 2026-11-04 — [把 AI Agent 接进业务系统，我踩了3 个挺蠢的坑](https://blog.csdn.net/weixin_56622231/article/details/170051167)
+- 2026-10-18 — [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657)
+- 2026-10-16 — [MCP 落地一年，我总结了 6 个没人告诉你的工程真相](https://zhuanlan.zhihu.com/p/2094232145015453253)
+
+<sub>CSDN · Juejin · Zhihu — <a href="https://blog.csdn.net/weixin_56622231">blog</a> · <a href="https://juejin.cn/user/2350111542479753">juejin</a> · <a href="https://www.zhihu.com/people/e7c851hd">zhihu</a></sub>
+
+**道具箱** — Python · TypeScript / React · Kotlin · Tauri · FastAPI · Docker · SQLite
+
+---
+
+<details>
+<summary>このページについて</summary>
+
+This page is generated by `build.py` from one data source — `make gen` rebuilds every byte, `make verify` proves it offline.
+
+</details>
+
+All public repositories: [github.com/badhope](https://github.com/badhope)
