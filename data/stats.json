@@ -1,29 +1,84 @@
 {
  "accounts": {
+  "gh_badhope": {
+   "followers": 27,
+   "repos": 52,
+   "stars": null,
+   "works": {
+    "moneyhelper": {
+     "stars": 101,
+     "updated": "2026-11-06"
+    },
+    "spark": {
+     "stars": 28,
+     "updated": "2026-11-07"
+    },
+    "workbench": {
+     "stars": 49,
+     "updated": "2026-11-04"
+    },
+    "world-walker": {
+     "stars": 18,
+     "updated": "2026-11-08"
+    }
+   }
+  },
   "gh_morningstar": {
    "contributions_window": {
     "from": "2025-11-02T00:00:00Z",
     "to": "2026-11-05T23:59:59Z"
    },
    "followers": 18,
-   "repos": 34,
-   "stars": 4,
+   "repos": 35,
+   "stars": null,
    "works": {
     "moneyhelper": {
-     "stars": 0
+     "stars": 0,
+     "updated": "2026-11-06"
     },
     "sciflow": {
-     "stars": 0
+     "stars": 0,
+     "updated": "2026-11-06"
     },
     "spark": {
-     "stars": 0
+     "stars": 0,
+     "updated": "2026-11-07"
     },
     "workbench": {
-     "stars": 1
+     "stars": 1,
+     "updated": "2026-11-09"
     }
    }
+  },
+  "gh_x33834": {
+   "followers": 2,
+   "repos": 29,
+   "stars": null,
+   "works": {
+    "CodePocket": {
+     "stars": 2,
+     "updated": "2026-10-17"
+    },
+    "harbor": {
+     "stars": 2,
+     "updated": "2026-11-07"
+    },
+    "mashang": {
+     "stars": 0,
+     "updated": "2026-11-06"
+    },
+    "world-walker": {
+     "stars": 1,
+     "updated": "2026-11-08"
+    }
+   }
+  },
+  "gitee_badhope": {
+   "followers": null,
+   "repos": 25,
+   "stars": 3
   }
  },
- "as_of": "2026-11-05",
+ "as_of": "2026-11-09",
  "source": "scripts/refresh_sections.py"
 }
