@@ -11,22 +11,22 @@
 
 ## 01 · 现在
 
-- **当前仓库** —— moneyhelper、spark、sciflow
-- **外部 PR** —— 6 条：2 已合并，4 已关闭
-- **发布** —— CSDN 长文与掘金沸点，两条通道
+- **个人仓库** — 27 个 · 个人命名空间，不含 fork
+- **外部 PR** — 6 条：已合并 5，开放中 1，已关闭 0
+- **发布** — CSDN 长文与掘金沸点；只保留两条通道
 
 ## 02 · 外部 PR
 
-<sub>6 条 · 已合并 2 · 开放中 0 · 已关闭 4 · +364/−42 · 20 个文件 · 63 条评论</sub>
+<sub>6 条 · 已合并 5 · 开放中 1 · 已关闭 0 · +282/−38 · 15 个文件 · 34 条评论</sub>
 
-- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **已合并** · 合并于 2026-09-08 · +129/−16 · 4 files · 22 comments
-- [tldr-pages/tldr#23781](https://github.com/tldr-pages/tldr/pull/23781) — conan-{build, create, install, profile, remote}: add page · **已关闭** · 提交于 2026-09-01 · +120/−12 · 6 files · 15 comments
-- [PyCalendar/icalendar#1752](https://github.com/PyCalendar/icalendar/pull/1752) — Add lowercase accessors for Alarm.singletons properties · **已关闭** · 提交于 2026-09-02 · +47/−3 · 4 files · 12 comments
-- [ohmyzsh/ohmyzsh#14020](https://github.com/ohmyzsh/ohmyzsh/pull/14020) — fix(vi-mode): don't let stale clipboard clobber put widgets · **已关闭** · 提交于 2026-08-25 · +42/−4 · 3 files · 7 comments
-- [deepset-ai/haystack#13011](https://github.com/deepset-ai/haystack/pull/13011) — docs: fix `_merge_super_component_pipelines` return description · **已合并** · 合并于 2026-10-02 · +1/−3 · 1 file · 5 comments
-- [pydantic/pydantic#13738](https://github.com/pydantic/pydantic/pull/13738) — validate inferred serializer attributes instead of trusting hasattr · **已关闭** · 提交于 2026-08-29 · +25/−4 · 2 files · 2 comments
+- [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **开放中** · 开启于 2026-09-29 · +39/−0 · 2 个文件 · 2 条评论
+- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **已合并** · 合并于 2026-09-08 · +129/−16 · 4 个文件 · 22 条评论
+- [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **已合并** · 合并于 2026-09-03 · +4/−4 · 4 个文件 · 8 条评论
+- [ohmyzsh/ohmyzsh#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) — fix(pipenv): keep activation and the project directory in sync · **已合并** · 合并于 2026-09-05 · +12/−5 · 1 个文件 · 1 条评论
+- [jaychouchannel/claude-tool-agent#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) — fix(frontend): 星号强调仅限单行配对，* 列表与行内代码不再被误吞 · **已合并** · 合并于 2026-10-11 · +13/−8 · 1 个文件 · 1 条评论
+- [jaychouchannel/claude-tool-agent#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) — fix(orchestrator): 修复回复开头 @ 导致的链式发言断链 · **已合并** · 合并于 2026-08-29 · +85/−5 · 3 个文件 · 0 条评论
 
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR 快照 2026-11-22 · GitHub Search / pulls API</sub>
 
 ## 03 · 参与项目
 

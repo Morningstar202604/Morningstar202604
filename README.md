@@ -11,20 +11,20 @@
 
 ## 01 · Now
 
-- **Current repositories** — moneyhelper, spark, sciflow
-- **Upstream PRs** — 6 selected: 2 merged, 4 closed
+- **Personal repositories** — 27 · personal namespace, forks excluded
+- **Upstream pull requests** — 6 selected: 5 merged, 1 open, 0 closed
 - **Publishing** — CSDN long-form and Juejin notes; two channels only
 
 ## 02 · Upstream pull requests
 
-<sub>6 selected · 2 merged · 0 open · 4 closed · +364/−42 · 20 files · 63 comments</sub>
+<sub>6 selected · 5 merged · 1 open · 0 closed · +282/−38 · 15 files · 34 comments</sub>
 
+- [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **open** · opened 2026-09-29 · +39/−0 · 2 files · 2 comments
 - [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **merged** · merged 2026-09-08 · +129/−16 · 4 files · 22 comments
-- [tldr-pages/tldr#23781](https://github.com/tldr-pages/tldr/pull/23781) — conan-{build, create, install, profile, remote}: add page · **closed** · opened 2026-09-01 · +120/−12 · 6 files · 15 comments
-- [PyCalendar/icalendar#1752](https://github.com/PyCalendar/icalendar/pull/1752) — Add lowercase accessors for Alarm.singletons properties · **closed** · opened 2026-09-02 · +47/−3 · 4 files · 12 comments
-- [ohmyzsh/ohmyzsh#14020](https://github.com/ohmyzsh/ohmyzsh/pull/14020) — fix(vi-mode): don't let stale clipboard clobber put widgets · **closed** · opened 2026-08-25 · +42/−4 · 3 files · 7 comments
-- [deepset-ai/haystack#13011](https://github.com/deepset-ai/haystack/pull/13011) — docs: fix `_merge_super_component_pipelines` return description · **merged** · merged 2026-10-02 · +1/−3 · 1 file · 5 comments
-- [pydantic/pydantic#13738](https://github.com/pydantic/pydantic/pull/13738) — validate inferred serializer attributes instead of trusting hasattr · **closed** · opened 2026-08-29 · +25/−4 · 2 files · 2 comments
+- [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **merged** · merged 2026-09-03 · +4/−4 · 4 files · 8 comments
+- [ohmyzsh/ohmyzsh#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) — fix(pipenv): keep activation and the project directory in sync · **merged** · merged 2026-09-05 · +12/−5 · 1 file · 1 comment
+- [jaychouchannel/claude-tool-agent#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) — fix(frontend): 星号强调仅限单行配对，* 列表与行内代码不再被误吞 · **merged** · merged 2026-10-11 · +13/−8 · 1 file · 1 comment
+- [jaychouchannel/claude-tool-agent#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) — fix(orchestrator): 修复回复开头 @ 导致的链式发言断链 · **merged** · merged 2026-08-29 · +85/−5 · 3 files · 0 comments
 
 <sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
 

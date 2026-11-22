@@ -11,35 +11,35 @@
 
 ## 01 · いま
 
-- **現在のリポジトリ** —— moneyhelper、spark、sciflow
-- **外部 PR** —— 6 件：マージ 2、クローズ 4
-- **配信** —— CSDN 長文と Juejin 短文。二経路のみ
+- **個人リポジトリ** — 27 件 · 個人名前空間、fork を除く
+- **外部 PR** — 6 件：マージ 5、オープン 1、クローズ 0
+- **配信** — CSDN 長文と Juejin 短文。二経路のみ
 
 ## 02 · 外部 PR
 
-<sub>6 件 · マージ済み 2 · オープン 0 · クローズ 4 · +364/−42 · 20 ファイル · 63 コメント</sub>
+<sub>6 件 · マージ済み 5 · オープン 1 · クローズ 0 · +282/−38 · 15 ファイル · 34 コメント</sub>
 
-- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **マージ済み** · マージ 2026-09-08 · +129/−16 · 4 files · 22 comments
-- [tldr-pages/tldr#23781](https://github.com/tldr-pages/tldr/pull/23781) — conan-{build, create, install, profile, remote}: add page · **クローズ** · 提出 2026-09-01 · +120/−12 · 6 files · 15 comments
-- [PyCalendar/icalendar#1752](https://github.com/PyCalendar/icalendar/pull/1752) — Add lowercase accessors for Alarm.singletons properties · **クローズ** · 提出 2026-09-02 · +47/−3 · 4 files · 12 comments
-- [ohmyzsh/ohmyzsh#14020](https://github.com/ohmyzsh/ohmyzsh/pull/14020) — fix(vi-mode): don't let stale clipboard clobber put widgets · **クローズ** · 提出 2026-08-25 · +42/−4 · 3 files · 7 comments
-- [deepset-ai/haystack#13011](https://github.com/deepset-ai/haystack/pull/13011) — docs: fix `_merge_super_component_pipelines` return description · **マージ済み** · マージ 2026-10-02 · +1/−3 · 1 file · 5 comments
-- [pydantic/pydantic#13738](https://github.com/pydantic/pydantic/pull/13738) — validate inferred serializer attributes instead of trusting hasattr · **クローズ** · 提出 2026-08-29 · +25/−4 · 2 files · 2 comments
+- [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **オープン** · 提出 2026-09-29 · +39/−0 · 2 ファイル · 2 コメント
+- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **マージ済み** · マージ 2026-09-08 · +129/−16 · 4 ファイル · 22 コメント
+- [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **マージ済み** · マージ 2026-09-03 · +4/−4 · 4 ファイル · 8 コメント
+- [ohmyzsh/ohmyzsh#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) — fix(pipenv): keep activation and the project directory in sync · **マージ済み** · マージ 2026-09-05 · +12/−5 · 1 ファイル · 1 コメント
+- [jaychouchannel/claude-tool-agent#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) — fix(frontend): 星号强调仅限单行配对，* 列表与行内代码不再被误吞 · **マージ済み** · マージ 2026-10-11 · +13/−8 · 1 ファイル · 1 コメント
+- [jaychouchannel/claude-tool-agent#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) — fix(orchestrator): 修复回复开头 @ 导致的链式发言断链 · **マージ済み** · マージ 2026-08-29 · +85/−5 · 3 ファイル · 0 コメント
 
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR スナップショット 2026-11-22 · GitHub Search / pulls API</sub>
 
 ## 03 · 参加プロジェクト
 
 | プロジェクト | スタック | 方向 |
 |---|---|---|
-| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | research workbench; literature, experiment log, drafting |
-| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | deterministic rules layer for AI interactive fiction |
-| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | self-hosted digital legacy planning; assets, heirs, release rules |
-| [harbor](https://github.com/Morningstar202604/harbor) | Python | self-hosted publishing hub; one draft, 15 channels |
-| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | local-first production desk for solo creators; six pipelines |
-| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | chat-first finance agent; bookkeeping, portfolio risk, filings |
-| [spark](https://github.com/Morningstar202604/spark) | Python · React | self-hosted coding-agent harness; sandboxed runs, MCP tools |
-| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | desktop workbench; clipboard, snippets, windows, quick launch |
+| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | 研究ワークベンチ；文献、実験記録、構造化執筆 |
+| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | AI インタラクティブ小説の決定論的ルール層 |
+| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | 自ホスト型デジタル遺産計画；資産、相続人、解放ルール |
+| [harbor](https://github.com/Morningstar202604/harbor) | Python | 自ホスト配信ハブ；1 つの草稿を 15 チャネルへ |
+| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | 個人クリエイター向けローカル制作台；6 本のパイプライン |
+| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | 対話型家計エージェント；記帳、ポートフォリオ・リスク、決算 |
+| [spark](https://github.com/Morningstar202604/spark) | Python · React | 自ホスト型コーディングエージェント基盤；サンドボックス実行、MCP ツール |
+| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | デスクトップ作業台；クリップボード、スニペット、ウィンドウ、クイック起動 |
 
 ## 04 · 数字
 
