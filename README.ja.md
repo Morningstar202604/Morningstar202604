@@ -11,23 +11,43 @@
 
 ## 01 · いま
 
-- **moneyhelper**、**spark**、**sciflow** を長期で育てる
-- 上流の修正を維持：ohmyzsh、icalendar、apache/airflow
-- エージェントとローカルファースト AI の工程記録を執筆
+- **現在のリポジトリ** —— moneyhelper、spark、sciflow
+- **外部 PR** —— 6 件：マージ 2、クローズ 4
+- **配信** —— CSDN 長文と Juejin 短文。二経路のみ
 
-## 02 · 代表作
+## 02 · 外部 PR
 
-<p align="center"><a href="https://github.com/Morningstar202604/moneyhelper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-1-ja-dark.svg" /><img src="assets/work-1-ja-light.svg" alt="moneyhelper" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/spark"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-2-ja-dark.svg" /><img src="assets/work-2-ja-light.svg" alt="spark" width="49.2%" /></picture></a></p>
+<sub>6 件 · マージ済み 2 · オープン 0 · クローズ 4 · +364/−42 · 20 ファイル · 63 コメント</sub>
 
-<p align="center"><a href="https://github.com/Morningstar202604/sciflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-3-ja-dark.svg" /><img src="assets/work-3-ja-light.svg" alt="sciflow" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/workbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-4-ja-dark.svg" /><img src="assets/work-4-ja-light.svg" alt="workbench" width="49.2%" /></picture></a></p>
+- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **マージ済み** · マージ 2026-09-08 · +129/−16 · 4 files · 22 comments
+- [tldr-pages/tldr#23781](https://github.com/tldr-pages/tldr/pull/23781) — conan-{build, create, install, profile, remote}: add page · **クローズ** · 提出 2026-09-01 · +120/−12 · 6 files · 15 comments
+- [PyCalendar/icalendar#1752](https://github.com/PyCalendar/icalendar/pull/1752) — Add lowercase accessors for Alarm.singletons properties · **クローズ** · 提出 2026-09-02 · +47/−3 · 4 files · 12 comments
+- [ohmyzsh/ohmyzsh#14020](https://github.com/ohmyzsh/ohmyzsh/pull/14020) — fix(vi-mode): don't let stale clipboard clobber put widgets · **クローズ** · 提出 2026-08-25 · +42/−4 · 3 files · 7 comments
+- [deepset-ai/haystack#13011](https://github.com/deepset-ai/haystack/pull/13011) — docs: fix `_merge_super_component_pipelines` return description · **マージ済み** · マージ 2026-10-02 · +1/−3 · 1 file · 5 comments
+- [pydantic/pydantic#13738](https://github.com/pydantic/pydantic/pull/13738) — validate inferred serializer attributes instead of trusting hasattr · **クローズ** · 提出 2026-08-29 · +25/−4 · 2 files · 2 comments
 
-## 03 · 数字
+<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+
+## 03 · 参加プロジェクト
+
+| プロジェクト | スタック | 方向 |
+|---|---|---|
+| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | research workbench; literature, experiment log, drafting |
+| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | deterministic rules layer for AI interactive fiction |
+| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | self-hosted digital legacy planning; assets, heirs, release rules |
+| [harbor](https://github.com/Morningstar202604/harbor) | Python | self-hosted publishing hub; one draft, 15 channels |
+| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | local-first production desk for solo creators; six pipelines |
+| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | chat-first finance agent; bookkeeping, portfolio risk, filings |
+| [spark](https://github.com/Morningstar202604/spark) | Python · React | self-hosted coding-agent harness; sandboxed runs, MCP tools |
+| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | desktop workbench; clipboard, snippets, windows, quick launch |
+
+## 04 · 数字
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numbers-ja-dark.svg" /><img src="assets/numbers-ja-light.svg" alt="numbers" width="100%" /></picture>
 </p>
 
-## 04 · 配信ライン
+## 05 · 配信ライン
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-ja-dark.svg" /><img src="assets/channel-csdn-ja-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-ja-dark.svg" /><img src="assets/channel-juejin-ja-light.svg" alt="Juejin" width="49.2%" /></picture></a></p>
 
@@ -35,12 +55,6 @@
 - 2026-10-18 — [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657)
 
 <sub><a href="https://blog.csdn.net/weixin_56622231">CSDN の全記事 →</a></sub>
-
-## 05 · 棚の続き
-
-> [sciflow](https://github.com/Morningstar202604/sciflow) · [world-walker](https://github.com/Morningstar202604/world-walker) · [digilegacy](https://github.com/Morningstar202604/digilegacy) · [harbor](https://github.com/Morningstar202604/harbor) · [creator-studio](https://github.com/Morningstar202604/creator-studio)
-
-<sub>Upstream: [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) · [icalendar](https://github.com/python-icalendar/icalendar) · [apache/airflow](https://github.com/apache/airflow) · [renovate-operator](https://github.com/mogenius/renovate-operator)</sub>
 
 <sub>One source, five profiles · numbers from a local snapshot</sub>
 
