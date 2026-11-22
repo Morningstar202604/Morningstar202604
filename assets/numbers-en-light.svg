@@ -19,15 +19,15 @@
 <text x="40" y="80" class="ink" font-size="21" font-weight="650">Signal · last 12 months</text>
 <text x="40" y="106" class="mono faint" font-size="11.2">as of 2026-11-16</text>
 <line x1="332" y1="34" x2="332" y2="116" stroke="#E2DACB"/>
-<text x="360" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="360" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">2,012</text>
 <text x="360" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">COMMITS</text>
 <rect x="360" y="110" width="38" height="3" rx="1.5" fill="#F0502E"/>
 <line x1="538" y1="34" x2="538" y2="116" stroke="#E2DACB"/>
-<text x="566" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="566" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">64</text>
 <text x="566" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">PULL REQUESTS</text>
 <rect x="566" y="110" width="38" height="3" rx="1.5" fill="#2A5BFF"/>
 <line x1="744" y1="34" x2="744" y2="116" stroke="#E2DACB"/>
-<text x="772" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="772" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">16</text>
 <text x="772" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">MERGED</text>
 <rect x="772" y="110" width="38" height="3" rx="1.5" fill="#0E9F6E"/>
 <line x1="950" y1="34" x2="950" y2="116" stroke="#E2DACB"/>

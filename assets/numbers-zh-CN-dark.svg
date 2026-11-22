@@ -19,15 +19,15 @@
 <text x="40" y="80" class="ink" font-size="21" font-weight="650">信号 · 过去 12 个月</text>
 <text x="40" y="106" class="mono faint" font-size="11.2">as of 2026-11-16</text>
 <line x1="332" y1="34" x2="332" y2="116" stroke="#2A2F39"/>
-<text x="360" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="360" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">2,012</text>
 <text x="360" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">提交</text>
 <rect x="360" y="110" width="38" height="3" rx="1.5" fill="#FF6A4D"/>
 <line x1="538" y1="34" x2="538" y2="116" stroke="#2A2F39"/>
-<text x="566" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="566" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">64</text>
 <text x="566" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">PR</text>
 <rect x="566" y="110" width="38" height="3" rx="1.5" fill="#6E9BFF"/>
 <line x1="744" y1="34" x2="744" y2="116" stroke="#2A2F39"/>
-<text x="772" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">—</text>
+<text x="772" y="66" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">16</text>
 <text x="772" y="98" class="mono muted" font-size="11.2" letter-spacing="1.3">已合并</text>
 <rect x="772" y="110" width="38" height="3" rx="1.5" fill="#35D39A"/>
 <line x1="950" y1="34" x2="950" y2="116" stroke="#2A2F39"/>

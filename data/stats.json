@@ -1,8 +1,21 @@
 {
  "accounts": {
   "gh_badhope": {
+   "commits": 2324,
+   "contributions_window": {
+    "from": "2025-11-02T00:00:00Z",
+    "to": "2026-11-05T23:59:59Z"
+   },
    "followers": 27,
+   "following": 31,
+   "gists": 0,
+   "issues": 14,
+   "merged": 31,
+   "organizations": 0,
+   "prs": 303,
    "repos": 52,
+   "reviews": 5,
+   "starred": 184,
    "stars": null,
    "works": {
     "moneyhelper": {
@@ -24,12 +37,21 @@
    }
   },
   "gh_morningstar": {
+   "commits": 2012,
    "contributions_window": {
     "from": "2025-11-02T00:00:00Z",
     "to": "2026-11-05T23:59:59Z"
    },
    "followers": 18,
+   "following": 27,
+   "gists": 0,
+   "issues": 9,
+   "merged": 16,
+   "organizations": 0,
+   "prs": 64,
    "repos": 35,
+   "reviews": 2,
+   "starred": 73,
    "stars": null,
    "works": {
     "moneyhelper": {
@@ -51,8 +73,21 @@
    }
   },
   "gh_x33834": {
+   "commits": 320,
+   "contributions_window": {
+    "from": "2025-11-02T00:00:00Z",
+    "to": "2026-11-05T23:59:59Z"
+   },
    "followers": 2,
+   "following": 27,
+   "gists": 0,
+   "issues": 23,
+   "merged": 1,
+   "organizations": 0,
+   "prs": 19,
    "repos": 29,
+   "reviews": 0,
+   "starred": 2,
    "stars": null,
    "works": {
     "CodePocket": {
@@ -72,6 +107,12 @@
      "updated": "2026-11-08"
     }
    }
+  },
+  "gitcode_badhope": {
+   "followers": 0,
+   "merged": null,
+   "repos": 28,
+   "stars": 12
   },
   "gitee_badhope": {
    "followers": null,
