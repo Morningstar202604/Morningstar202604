@@ -120,7 +120,8 @@
 <text x="70" y="58" class="mono muted" font-size="11" letter-spacing="2.2">PROFILE / 2026</text>
 <text x="54" y="132" class="ink" font-size="38" font-weight="750" letter-spacing="-1.2">Morningstar202604</text>
 <text x="58" y="168" class="muted" font-size="19">長期プロジェクト · 上流コントリビュータ</text>
-<text x="58" y="200" class="muted" font-size="15.5" opacity="0.92">長期プロジェクトと上流の修正。記録は CSDN と Juejin に。</text>
+<text x="58" y="200" class="muted" font-size="15.5" opacity="0.92">長期プロジェクトと上流の修正。記録は CSDN、Juejin、Zhihu、</text>
+<text x="58" y="224" class="muted" font-size="15.5" opacity="0.92">Cnblogs に。</text>
 <rect x="58" y="246" width="60" height="24" rx="12" fill="#171F30" stroke="#303A50"/>
 <text x="88.0" y="262" text-anchor="middle" class="mono muted" font-size="10.5">Python</text>
 <rect x="126" y="246" width="88" height="24" rx="12" fill="#171F30" stroke="#303A50"/>
@@ -138,7 +139,7 @@
 <text x="1160" y="94" text-anchor="end" class="ink" font-size="13.5">moneyhelper · sciflow</text>
 <circle cx="884" cy="122" r="3.5" fill="#7FA5FF"/>
 <text x="898" y="126" class="mono muted" font-size="10.5" letter-spacing="1.1">執筆</text>
-<text x="1160" y="126" text-anchor="end" class="ink" font-size="13.5">CSDN · Juejin</text>
+<text x="1160" y="126" text-anchor="end" class="ink" font-size="13.5">4チャネル</text>
 <circle cx="884" cy="154" r="3.5" fill="#3DDAAA"/>
 <text x="898" y="158" class="mono muted" font-size="10.5" letter-spacing="1.1">募集中</text>
 <text x="1160" y="158" text-anchor="end" class="ink" font-size="13.5">長期コラボ</text>
