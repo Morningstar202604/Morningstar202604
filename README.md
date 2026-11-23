@@ -19,6 +19,8 @@
 
 <sub>6 selected · 5 merged · 1 open · 0 closed · +282/−38 · 15 files · 34 comments</sub>
 
+<sub>5 merged in 6.4d on average · fastest 1d</sub>
+
 - [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **open** · opened 2026-09-29 · +39/−0 · 2 files · 2 comments
 - [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **merged** · merged 2026-09-08 · +129/−16 · 4 files · 22 comments
 - [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **merged** · merged 2026-09-03 · +4/−4 · 4 files · 8 comments
@@ -28,18 +30,15 @@
 
 <sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
 
-## 03 · Other projects
+## 03 · Featured projects
 
-| Project | Stack | Scope |
-|---|---|---|
-| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | research workbench; literature, experiment log, drafting |
-| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | deterministic rules layer for AI interactive fiction |
-| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | self-hosted digital legacy planning; assets, heirs, release rules |
-| [harbor](https://github.com/Morningstar202604/harbor) | Python | self-hosted publishing hub; one draft, 15 channels |
-| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | local-first production desk for solo creators; six pipelines |
-| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | chat-first finance agent; bookkeeping, portfolio risk, filings |
-| [spark](https://github.com/Morningstar202604/spark) | Python · React | self-hosted coding-agent harness; sandboxed runs, MCP tools |
-| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | desktop workbench; clipboard, snippets, windows, quick launch |
+<p align="center"><a href="https://github.com/Morningstar202604/workbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-0-en-dark.svg" /><img src="assets/project-0-en-light.svg" alt="workbench" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/creator-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-en-dark.svg" /><img src="assets/project-1-en-light.svg" alt="creator-studio" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/digilegacy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-en-dark.svg" /><img src="assets/project-2-en-light.svg" alt="digilegacy" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/harbor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-en-dark.svg" /><img src="assets/project-3-en-light.svg" alt="harbor" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/moneyhelper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-en-dark.svg" /><img src="assets/project-4-en-light.svg" alt="moneyhelper" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/sciflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-5-en-dark.svg" /><img src="assets/project-5-en-light.svg" alt="sciflow" width="49.2%" /></picture></a></p>
+
+<sub>More projects: [world-walker](https://github.com/Morningstar202604/world-walker) · [spark](https://github.com/Morningstar202604/spark)</sub>
 
 ## 04 · Numbers
 
@@ -54,7 +53,13 @@
 </p>
 <sub>Exact daily contributions from the GitHub GraphQL snapshot · refreshed weekly</sub>
 
-## 06 · Publishing line
+## 06 · Languages
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-en-dark.svg" /><img src="assets/langs-en-light.svg" alt="language mix" width="100%" /></picture>
+</p>
+
+## 07 · Publishing line
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-en-dark.svg" /><img src="assets/channel-csdn-en-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-en-dark.svg" /><img src="assets/channel-juejin-en-light.svg" alt="Juejin" width="49.2%" /></picture></a></p>
 

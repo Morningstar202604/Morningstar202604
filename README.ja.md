@@ -19,6 +19,8 @@
 
 <sub>6 件 · マージ済み 5 · オープン 1 · クローズ 0 · +282/−38 · 15 ファイル · 34 コメント</sub>
 
+<sub>マージ済み 5 件 · 平均 6.4 日 · 最速 1 日</sub>
+
 - [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **オープン** · 提出 2026-09-29 · +39/−0 · 2 ファイル · 2 コメント
 - [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **マージ済み** · マージ 2026-09-08 · +129/−16 · 4 ファイル · 22 コメント
 - [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **マージ済み** · マージ 2026-09-03 · +4/−4 · 4 ファイル · 8 コメント
@@ -28,18 +30,15 @@
 
 <sub>PR スナップショット 2026-11-22 · GitHub Search / pulls API</sub>
 
-## 03 · 参加プロジェクト
+## 03 · 代表プロジェクト
 
-| プロジェクト | スタック | 方向 |
-|---|---|---|
-| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | 研究ワークベンチ；文献、実験記録、構造化執筆 |
-| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | AI インタラクティブ小説の決定論的ルール層 |
-| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | 自ホスト型デジタル遺産計画；資産、相続人、解放ルール |
-| [harbor](https://github.com/Morningstar202604/harbor) | Python | 自ホスト配信ハブ；1 つの草稿を 15 チャネルへ |
-| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | 個人クリエイター向けローカル制作台；6 本のパイプライン |
-| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | 対話型家計エージェント；記帳、ポートフォリオ・リスク、決算 |
-| [spark](https://github.com/Morningstar202604/spark) | Python · React | 自ホスト型コーディングエージェント基盤；サンドボックス実行、MCP ツール |
-| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | デスクトップ作業台；クリップボード、スニペット、ウィンドウ、クイック起動 |
+<p align="center"><a href="https://github.com/Morningstar202604/workbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-0-ja-dark.svg" /><img src="assets/project-0-ja-light.svg" alt="workbench" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/creator-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-ja-dark.svg" /><img src="assets/project-1-ja-light.svg" alt="creator-studio" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/digilegacy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-ja-dark.svg" /><img src="assets/project-2-ja-light.svg" alt="digilegacy" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/harbor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-ja-dark.svg" /><img src="assets/project-3-ja-light.svg" alt="harbor" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/moneyhelper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-ja-dark.svg" /><img src="assets/project-4-ja-light.svg" alt="moneyhelper" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/sciflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-5-ja-dark.svg" /><img src="assets/project-5-ja-light.svg" alt="sciflow" width="49.2%" /></picture></a></p>
+
+<sub>その他のプロジェクト: [world-walker](https://github.com/Morningstar202604/world-walker) · [spark](https://github.com/Morningstar202604/spark)</sub>
 
 ## 04 · 数字
 
@@ -54,7 +53,13 @@
 </p>
 <sub>日々の寄与は GitHub GraphQL の正確なスナップショット · 毎週更新</sub>
 
-## 06 · 配信ライン
+## 06 · 言語構成
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-ja-dark.svg" /><img src="assets/langs-ja-light.svg" alt="language mix" width="100%" /></picture>
+</p>
+
+## 07 · 配信ライン
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-ja-dark.svg" /><img src="assets/channel-csdn-ja-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-ja-dark.svg" /><img src="assets/channel-juejin-ja-light.svg" alt="Juejin" width="49.2%" /></picture></a></p>
 

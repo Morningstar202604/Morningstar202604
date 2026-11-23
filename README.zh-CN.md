@@ -19,6 +19,8 @@
 
 <sub>6 条 · 已合并 5 · 开放中 1 · 已关闭 0 · +282/−38 · 15 个文件 · 34 条评论</sub>
 
+<sub>已合并 5 条 · 平均 6.4 天 · 最快 1 天</sub>
+
 - [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **开放中** · 开启于 2026-09-29 · +39/−0 · 2 个文件 · 2 条评论
 - [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **已合并** · 合并于 2026-09-08 · +129/−16 · 4 个文件 · 22 条评论
 - [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **已合并** · 合并于 2026-09-03 · +4/−4 · 4 个文件 · 8 条评论
@@ -28,18 +30,15 @@
 
 <sub>PR 快照 2026-11-22 · GitHub Search / pulls API</sub>
 
-## 03 · 参与项目
+## 03 · 精选项目
 
-| 项目 | 技术栈 | 方向 |
-|---|---|---|
-| [sciflow](https://github.com/Morningstar202604/sciflow) | Python · TypeScript | 科研工作台；文献、实验记录、结构化写作 |
-| [world-walker](https://github.com/Morningstar202604/world-walker) | Python stdlib · MCP | AI 互动小说的确定性规则层 |
-| [digilegacy](https://github.com/Morningstar202604/digilegacy) | Rust | 自托管数字遗产规划；资产、继承人、释放规则 |
-| [harbor](https://github.com/Morningstar202604/harbor) | Python | 自托管发布枢纽；一份草稿分发 15 个渠道 |
-| [creator-studio](https://github.com/Morningstar202604/creator-studio) | TypeScript | 面向个人创作者的本地产线；六条流水线 |
-| [moneyhelper](https://github.com/Morningstar202604/moneyhelper) | FastAPI · LangGraph · React | 对话式理财 Agent；记账、持仓风控、财报 |
-| [spark](https://github.com/Morningstar202604/spark) | Python · React | 自托管编码智能体底座；沙箱执行、MCP 工具 |
-| [workbench](https://github.com/Morningstar202604/workbench) | Tauri 2 · React 19 · TypeScript | 桌面工作台；剪贴板、片段、窗口、快速启动 |
+<p align="center"><a href="https://github.com/Morningstar202604/workbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-0-zh-CN-dark.svg" /><img src="assets/project-0-zh-CN-light.svg" alt="workbench" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/creator-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-zh-CN-dark.svg" /><img src="assets/project-1-zh-CN-light.svg" alt="creator-studio" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/digilegacy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-zh-CN-dark.svg" /><img src="assets/project-2-zh-CN-light.svg" alt="digilegacy" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/harbor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-zh-CN-dark.svg" /><img src="assets/project-3-zh-CN-light.svg" alt="harbor" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/Morningstar202604/moneyhelper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-zh-CN-dark.svg" /><img src="assets/project-4-zh-CN-light.svg" alt="moneyhelper" width="49.2%" /></picture></a> <a href="https://github.com/Morningstar202604/sciflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-5-zh-CN-dark.svg" /><img src="assets/project-5-zh-CN-light.svg" alt="sciflow" width="49.2%" /></picture></a></p>
+
+<sub>更多项目: [world-walker](https://github.com/Morningstar202604/world-walker) · [spark](https://github.com/Morningstar202604/spark)</sub>
 
 ## 04 · 数据
 
@@ -54,7 +53,13 @@
 </p>
 <sub>逐日贡献来自 GitHub GraphQL 精确快照 · 每周刷新</sub>
 
-## 06 · 发布管线
+## 06 · 语言构成
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-zh-CN-dark.svg" /><img src="assets/langs-zh-CN-light.svg" alt="language mix" width="100%" /></picture>
+</p>
+
+## 07 · 发布管线
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-zh-CN-dark.svg" /><img src="assets/channel-csdn-zh-CN-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-zh-CN-dark.svg" /><img src="assets/channel-juejin-zh-CN-light.svg" alt="稀土掘金" width="49.2%" /></picture></a></p>
 
