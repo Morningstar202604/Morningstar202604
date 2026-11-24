@@ -12,23 +12,23 @@
 ## 01 · いま
 
 - **個人リポジトリ** — 27 件 · 個人名前空間、fork を除く
-- **外部 PR** — 6 件：マージ 5、オープン 1、クローズ 0
+- **外部 PR** — 6 件：マージ 3、オープン 2、クローズ 1
 - **配信** — CSDN 長文アーカイブ、Juejin・知乎・博客园 は自動運用
 
 ## 02 · 外部 PR
 
-<sub>6 件 · マージ済み 5 · オープン 1 · クローズ 0 · +282/−38 · 15 ファイル · 34 コメント</sub>
+<sub>6 件 · マージ済み 3 · オープン 2 · クローズ 1 · +48353/−45133 · 180 ファイル · 1 コメント</sub>
 
-<sub>マージ済み 5 件 · 平均 6.4 日 · 最速 1 日</sub>
+<sub>マージ済み 3 件 · 平均 0 日 · 最速 0 日</sub>
 
-- [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **オープン** · 提出 2026-09-29 · +39/−0 · 2 ファイル · 2 コメント
-- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **マージ済み** · マージ 2026-09-08 · +129/−16 · 4 ファイル · 22 コメント
-- [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **マージ済み** · マージ 2026-09-03 · +4/−4 · 4 ファイル · 8 コメント
-- [ohmyzsh/ohmyzsh#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) — fix(pipenv): keep activation and the project directory in sync · **マージ済み** · マージ 2026-09-05 · +12/−5 · 1 ファイル · 1 コメント
-- [jaychouchannel/claude-tool-agent#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) — fix(frontend): 星号强调仅限单行配对，* 列表与行内代码不再被误吞 · **マージ済み** · マージ 2026-10-11 · +13/−8 · 1 ファイル · 1 コメント
-- [jaychouchannel/claude-tool-agent#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) — fix(orchestrator): 修复回复开头 @ 导致的链式发言断链 · **マージ済み** · マージ 2026-08-29 · +85/−5 · 3 ファイル · 0 コメント
+- [badhope/CodePocket#36](https://github.com/badhope/CodePocket/pull/36) — feat(0.0.29): ANSI 终端模拟器（本地 xterm.js） · **オープン** · 提出 2026-11-24 · +775/−152 · 20 ファイル · 0 コメント
+- [badhope/CodePocket#33](https://github.com/badhope/CodePocket/pull/33) — 0.0.26：正式签名、x86_64 双 ABI、终端与只读子 Agent · **クローズ** · 提出 2026-11-23 · +1862/−139 · 113 ファイル · 1 コメント
+- [badhope/CodePocket#32](https://github.com/badhope/CodePocket/pull/32) — feat(0.0.25): Agent 计划模式 + 上下文预算 + 多 Provider / MCP / 终端补齐 · **オープン** · 提出 2026-11-23 · +1055/−76 · 28 ファイル · 0 コメント
+- [Nailong-Studio/NaiLoong-Universe#22](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/22) — feat(v18.7.5): 路由双幕转场与响应式动效 · **マージ済み** · マージ 2026-11-20 · +43933/−44398 · 7 ファイル · 0 コメント
+- [Nailong-Studio/NaiLoong-Universe#21](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/21) — v18.7.4 · 严格调试：按钮点击、切页滚动、字体对比与八厅罗盘 · **マージ済み** · マージ 2026-11-20 · +615/−365 · 8 ファイル · 0 コメント
+- [Nailong-Studio/NaiLoong-Universe#3](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/3) — feat(sfx): 趣味音效——喂到哈哈大笑，被吃噶就塞（v17.6） · **マージ済み** · マージ 2026-10-17 · +113/−3 · 4 ファイル · 0 コメント
 
-<sub>PR スナップショット 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR スナップショット 2026-11-24 · GitHub Search / pulls API</sub>
 
 ## 03 · 代表プロジェクト
 

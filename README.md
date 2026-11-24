@@ -12,23 +12,23 @@
 ## 01 · Now
 
 - **Personal repositories** — 27 · personal namespace, forks excluded
-- **Upstream pull requests** — 6 selected: 5 merged, 1 open, 0 closed
+- **Upstream pull requests** — 6 selected: 3 merged, 2 open, 1 closed
 - **Publishing** — CSDN archive; Juejin, Zhihu and Cnblogs automation
 
 ## 02 · Upstream pull requests
 
-<sub>6 selected · 5 merged · 1 open · 0 closed · +282/−38 · 15 files · 34 comments</sub>
+<sub>6 selected · 3 merged · 2 open · 1 closed · +48353/−45133 · 180 files · 1 comments</sub>
 
-<sub>5 merged in 6.4d on average · fastest 1d</sub>
+<sub>3 merged in 0d on average · fastest 0d</sub>
 
-- [ohmyzsh/ohmyzsh#14140](https://github.com/ohmyzsh/ohmyzsh/pull/14140) — feat(core): add `omz diagnose` locale check · **open** · opened 2026-09-29 · +39/−0 · 2 files · 2 comments
-- [PyCalendar/icalendar#1731](https://github.com/PyCalendar/icalendar/pull/1731) — docs: stop composing single_utc_property docstrings from the property name · **merged** · merged 2026-09-08 · +129/−16 · 4 files · 22 comments
-- [PyCalendar/icalendar#1751](https://github.com/PyCalendar/icalendar/pull/1751) — Refactor TYPE_CHECKING imports to use public exports from icalendar.cal · **merged** · merged 2026-09-03 · +4/−4 · 4 files · 8 comments
-- [ohmyzsh/ohmyzsh#14021](https://github.com/ohmyzsh/ohmyzsh/pull/14021) — fix(pipenv): keep activation and the project directory in sync · **merged** · merged 2026-09-05 · +12/−5 · 1 file · 1 comment
-- [jaychouchannel/claude-tool-agent#34](https://github.com/jaychouchannel/claude-tool-agent/pull/34) — fix(frontend): 星号强调仅限单行配对，* 列表与行内代码不再被误吞 · **merged** · merged 2026-10-11 · +13/−8 · 1 file · 1 comment
-- [jaychouchannel/claude-tool-agent#33](https://github.com/jaychouchannel/claude-tool-agent/pull/33) — fix(orchestrator): 修复回复开头 @ 导致的链式发言断链 · **merged** · merged 2026-08-29 · +85/−5 · 3 files · 0 comments
+- [badhope/CodePocket#36](https://github.com/badhope/CodePocket/pull/36) — feat(0.0.29): ANSI 终端模拟器（本地 xterm.js） · **open** · opened 2026-11-24 · +775/−152 · 20 files · 0 comments
+- [badhope/CodePocket#33](https://github.com/badhope/CodePocket/pull/33) — 0.0.26：正式签名、x86_64 双 ABI、终端与只读子 Agent · **closed** · opened 2026-11-23 · +1862/−139 · 113 files · 1 comment
+- [badhope/CodePocket#32](https://github.com/badhope/CodePocket/pull/32) — feat(0.0.25): Agent 计划模式 + 上下文预算 + 多 Provider / MCP / 终端补齐 · **open** · opened 2026-11-23 · +1055/−76 · 28 files · 0 comments
+- [Nailong-Studio/NaiLoong-Universe#22](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/22) — feat(v18.7.5): 路由双幕转场与响应式动效 · **merged** · merged 2026-11-20 · +43933/−44398 · 7 files · 0 comments
+- [Nailong-Studio/NaiLoong-Universe#21](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/21) — v18.7.4 · 严格调试：按钮点击、切页滚动、字体对比与八厅罗盘 · **merged** · merged 2026-11-20 · +615/−365 · 8 files · 0 comments
+- [Nailong-Studio/NaiLoong-Universe#3](https://github.com/Nailong-Studio/NaiLoong-Universe/pull/3) — feat(sfx): 趣味音效——喂到哈哈大笑，被吃噶就塞（v17.6） · **merged** · merged 2026-10-17 · +113/−3 · 4 files · 0 comments
 
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR snapshot 2026-11-24 · GitHub Search / pulls API</sub>
 
 ## 03 · Featured projects
 
